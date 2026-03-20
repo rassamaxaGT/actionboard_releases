@@ -9,17 +9,17 @@
 
     <item>
       <!-- ИЗМЕНИТЬ -->
-      <title>Version 1.0.2+2</title>
+      <title>Version 1.0.3</title>
       <!-- ИЗМЕНИТЬ -->
       <pubDate>Fr, 20 Mar 2026 21:48:00 +0000</pubDate>
       <sparkle:releaseNotesLink>
         <!-- ИЗМЕНИТЬ -->
-        https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.0.2+2 </sparkle:releaseNotesLink>
+        https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.0.3 </sparkle:releaseNotesLink>
       <!-- ССЫЛКА НА СКАЧИВАНИЕ WINDOWS EXE -->
       <!-- ИЗМЕНИТЬ ССЫЛКУ И ВЕРСИЮ -->
       <enclosure
-        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.0.2%2B2/ActionBoard_Setup_v1.0.2+2.exe"
-        sparkle:version="1.0.2+2"
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.0.3/ActionBoard_Setup_v1.0.3.exe"
+        sparkle:version="1.0.3"
         sparkle:os="windows"
         type="application/octet-stream" />
 

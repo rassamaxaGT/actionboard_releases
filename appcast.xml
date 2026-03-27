@@ -8,30 +8,32 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.0.6</title>
-      <!-- СТАВИМ ВРЕМЯ ПОРАНЬШЕ, ЧТОБЫ ОНО ТОЧНО БЫЛО В ПРОШЛОМ -->
+      <title>Version 1.0.6 (Windows)</title>
       <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
-      <sparkle:releaseNotesLink>
-        https://raw.githubusercontent.com/rassamaxaGT/actionboard_releases
-      </sparkle:releaseNotesLink>
-
-      <!-- РЕЛИЗ ДЛЯ WINDOWS -->
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.0.6</sparkle:releaseNotesLink>
       <enclosure 
         url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.0.6/ActionBoard-win-v1.0.6.exe"
         sparkle:version="1.0.6"
         sparkle:os="windows"
+        length="0"
         type="application/octet-stream" />
+    </item>
 
-      <!-- РЕЛИЗ ДЛЯ MACOS -->
+    <!-- ВЕРСИЯ 1.0.6 ДЛЯ MACOS -->
+    <item>
+      <title>Version 1.0.6 (macOS)</title>
+      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.0.6</sparkle:releaseNotesLink>
       <enclosure 
         url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.0.6/ActionBoard-macOS-1.0.6.zip"
-        sparkle:version="6" 
+        sparkle:version="1.0.6" 
         sparkle:shortVersionString="1.0.6"
         sparkle:os="macos"
         length="22926882"
         sparkle:edSignature="W3xgD7JEpK3O6vdlXEiesj2h4xOQa+dSEXkIAVTm622Vdk3tP38et0xm13jWP06kVHFQCgp3lCaVt0fN7IGOAQ=="
         type="application/octet-stream" />
     </item>
+
 
     <item>
       <!-- ИЗМЕНИТЬ -->

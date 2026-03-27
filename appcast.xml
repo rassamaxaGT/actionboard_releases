@@ -23,14 +23,7 @@
         type="application/octet-stream" />
 
       <!-- РЕЛИЗ ДЛЯ MACOS -->
-      <enclosure 
-        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.0.6/ActionBoard-macOS-1.0.6.zip"
-        sparkle:version="6" 
-        sparkle:shortVersionString="1.0.6"
-        sparkle:os="macos"
-        length="22926882"
-        sparkle:edSignature="W3xgD7JEpK3O6vdlXEiesj2h4xOQa+dSEXkIAVTm622Vdk3tP38et0xm13jWP06kVHFQCgp3lCaVt0fN7IGOAQ=="
-        type="application/octet-stream" />
+     
     </item>
 
     <item>

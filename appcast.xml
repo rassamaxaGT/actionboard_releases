@@ -8,6 +8,33 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.19 (Windows)</title>
+      <pubDate>Th, 9 Apr 2026 19:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.1.19</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.1.19/ActionBoard-win-v1.1.19.exe"
+        sparkle:version="1.1.19"
+        sparkle:os="windows"
+        length="0"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
+      <title>Version 1.1.19 (macOS)</title>
+      <pubDate>Th, 9 Apr 2026 19:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.1.19</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.1.19/ActionBoard-mac-v1.1.19.zip"
+        sparkle:version="1.1.19" 
+        sparkle:shortVersionString="1.1.19"
+        sparkle:os="macos"
+        length="24431046"
+        sparkle:edSignature="vVHrGIyDFy1Cjv14Gen58ZYH3BxbwbSyk/S2o67+1I2bBsrmIB4fcyml4D9YEguaxCAqDU2iXqpK4nFWhwTwAA=="
+        type="application/octet-stream" />
+    </item>
+
+
+    <item>
       <title>Version 1.1.18 (Windows)</title>
       <pubDate>Wed, 8 Apr 2026 21:00:00 +0000</pubDate>
       <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.1.18</sparkle:releaseNotesLink>

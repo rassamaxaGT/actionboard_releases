@@ -8,6 +8,32 @@
     <language>en</language>
 
    <item>
+      <title>Version 1.2.3 (Windows)</title>
+      <pubDate>Sa, 11 Apr 2026 16:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.2.3</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.2.3/ActionBoard-win-v1.2.3.exe"
+        sparkle:version="1.2.3"
+        sparkle:os="windows"
+        length="0"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
+      <title>Version 1.2.3 (macOS)</title>
+      <pubDate>Sa, 11 Apr 2026 16:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.2.3</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.2.3/ActionBoard-mac-v1.2.3.zip"
+        sparkle:version="1.2.3" 
+        sparkle:shortVersionString="1.2.3"
+        sparkle:os="macos"
+        length="24494640"
+        sparkle:edSignature="5qpSTEa8nJAFSrOjAxeCzAL1TuBnTyrc8+oaDB2KoWXrVx0tx7S/lPS54cL0BrhCdx8pNW1V85Bi4kAsDjI+Cw=="
+        type="application/octet-stream" />
+    </item>
+
+   <item>
       <title>Version 1.2.2 (Windows)</title>
       <pubDate>Th, 9 Apr 2026 19:00:00 +0000</pubDate>
       <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.2.2</sparkle:releaseNotesLink>

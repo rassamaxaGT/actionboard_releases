@@ -7,6 +7,32 @@
     <description>Most recent updates to ActionBoard</description>
     <language>en</language>
 
+    <item>
+      <title>Version 1.2.10 (Windows)</title>
+      <pubDate>Tu , 14 Apr 2026 19:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.2.10</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.2.10/ActionBoard-win-v1.2.10.exe"
+        sparkle:version="1.2.10"
+        sparkle:os="windows"
+        length="0"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
+      <title>Version 1.2.10 (macOS)</title>
+      <pubDate>Tu , 14 Apr 2026 19:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.2.10</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.2.10/ActionBoard-mac-v1.2.10.zip"
+        sparkle:version="1.2.10" 
+        sparkle:shortVersionString="1.2.10"
+        sparkle:os="macos"
+        length="26232325"
+        sparkle:edSignature="1WAzlxv1Uw7qUg/pkCgej88AV4H+PRtA/55WUURvPIsOEva4WdgflbkSGohgOITHY513ZT5+hR4Zyns4qTSJAw=="
+        type="application/octet-stream" />
+    </item>
+
    <item>
       <title>Version 1.2.9 (Windows)</title>
       <pubDate>Sa, 11 Apr 2026 16:00:00 +0000</pubDate>

@@ -8,6 +8,21 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.387 (macOS)</title>
+      <pubDate>Tue, 21 Apr 2026 18:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.8</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.8/ActionBoard-mac-v1.3.8.zip"
+        sparkle:version="1.3.8" 
+        sparkle:shortVersionString="1.3.8"
+        sparkle:os="macos"
+        length="27946166"
+        sparkle:edSignature="DSoNNpNUww0aQxeh0RS8H+CmR2oo/dFK0K06wj9QrHLjpSaitJCqnU7yTanAt/yNWspoTaJcfiN5Us409JQTBA=="
+        type="application/octet-stream" />
+    </item>
+
+
+    <item>
       <title>Version 1.3.7 (macOS)</title>
       <pubDate>Tue, 21 Apr 2026 18:00:00 +0000</pubDate>
       <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.7</sparkle:releaseNotesLink>

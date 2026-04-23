@@ -10,6 +10,6 @@
 2. Перетащить приложение в папку "Программы" (Applications), но НЕ запускать
 3. В терминале выполнить: 
 ```sh
-xattr -cr /Applications/actionboard_demo.app
+xattr -cr /Applications/actionboard.app
 ```
 4. Можно запускать

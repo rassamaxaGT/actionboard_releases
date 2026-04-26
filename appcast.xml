@@ -8,6 +8,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.3.26 (macOS)</title>
+      <pubDate>Sa, 25 Apr 2026 10:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.26</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.26/ActionBoard-mac-v1.3.26.zip"
+        sparkle:version="1.3.26" 
+        sparkle:shortVersionString="1.3.26"
+        sparkle:os="macos"
+        length="27966479"
+        sparkle:edSignature="+mHjoxQ86m+fOLLGBclH8l3fsCGO2176iF+y1Llg90q3YhAadxDo4NVDcwG1Jt96mZnEMls5cp//HZOgTE7bAA=="
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 1.3.25 (macOS)</title>
       <pubDate>Sa, 25 Apr 2026 10:00:00 +0000</pubDate>
       <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.25</sparkle:releaseNotesLink>

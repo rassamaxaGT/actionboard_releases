@@ -8,6 +8,18 @@
     <language>en</language>
 
   <item>
+      <title>Version 1.3.64 (Windows)</title>
+      <pubDate>Fri, 9 May 2026 14:20:35 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.64</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.64/ActionBoard-win-v1.3.64.exe"
+        sparkle:version="1.3.64"
+        sparkle:os="windows"
+        length="0"
+        type="application/octet-stream"/>
+  </item>
+
+  <item>
       <title>Version 1.3.63 (Windows)</title>
       <pubDate>Wed, 6 May 2026 14:20:35 +0000</pubDate>
       <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.63</sparkle:releaseNotesLink>

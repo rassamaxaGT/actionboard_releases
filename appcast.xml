@@ -8,6 +8,32 @@
     <language>en</language>
 
   <item>
+      <title>Version 1.3.67 (Windows)</title>
+      <pubDate>Wed, 6 May 2026 14:20:35 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.67</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.67/ActionBoard-win-v1.3.67.exe"
+        sparkle:version="1.3.67"
+        sparkle:os="windows"
+        length="0"
+        type="application/octet-stream"/>
+  </item>
+
+  <item>
+      <title>Version 1.3.67 (macOS)</title>
+      <pubDate>Mo, 4 Mar 2026 10:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.67</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.67/ActionBoard-mac-v1.3.67.zip"
+        sparkle:version="1.3.67" 
+        sparkle:shortVersionString="1.3.67"
+        sparkle:os="macos"    
+        length="30093952"
+        sparkle:edSignature="wYWXpTTKf5PRV9R3+10rygg4HS1rJlcSg7NE4hwd5szqgf1dtzEfvUXKI6Dtudh6gSDM3d+XYHWW8+CXLjsPDg=="
+        type="application/octet-stream"/>
+  </item>
+
+  <item>
       <title>Version 1.3.65 (Windows)</title>
       <pubDate>Wed, 6 May 2026 14:20:35 +0000</pubDate>
       <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.65</sparkle:releaseNotesLink>

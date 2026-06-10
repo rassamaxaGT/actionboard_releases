@@ -7,6 +7,32 @@
     <description>Most recent updates to ActionBoard</description>
     <language>en</language>
 
+   <item>
+      <title>Version 1.3.82 (Windows)</title>
+      <pubDate>Wed, 10 June 2026 03:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/1.3.82</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/1.3.82/ActionBoard-win-v1.3.82.exe"
+        sparkle:version="1.3.82"
+        sparkle:os="windows"
+        length="0"
+        type="application/octet-stream"/>
+    </item>
+
+  <item>
+      <title>Version 1.3.82 (macOS)</title>
+      <pubDate>Wed, 10 June 2026 03:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/1.3.82</sparkle:releaseNotesLink>
+      <enclosure 
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/1.3.82/ActionBoard-mac-v1.3.82.zip"
+        sparkle:version="1.3.82" 
+        sparkle:shortVersionString="1.3.82"
+        sparkle:os="macos"    
+        length="32549179"
+        sparkle:edSignature="T3j373UAD/YH/co2ESZn+eHN887CabHtxIRMDQwkLO2ee6F0Wn6mxhwl2OIihVLHWnmE4bdg+K52AlwDzKjGBQ=="
+        type="application/octet-stream"/>
+  </item>
+
     <item>
       <title>Version 1.3.78 (Windows)</title>
       <pubDate>Tue, 02 June 2026 23:51:49 +0000</pubDate>

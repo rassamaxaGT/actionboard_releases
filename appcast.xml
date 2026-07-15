@@ -7,31 +7,31 @@
     <description>Most recent updates to ActionBoard</description>
     <language>en</language>
 
-    <!-- <item>
-      <title>Version 1.3.99 (Windows)</title>
+    <item>
+      <title>Version 1.3.100 (Windows)</title>
       <pubDate>Sat, 20 June 2026 03:00:00 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.99</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.100</sparkle:releaseNotesLink>
       <enclosure 
-        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.99/ActionBoard_win_v1.3.99.exe"
-        sparkle:version="1.3.99"
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.100/ActionBoard_win_v1.3.100.exe"
+        sparkle:version="1.3.100"
         sparkle:os="windows"
         length="0"
         type="application/octet-stream"/>
     </item>
 
     <item>
-      <title>Version 1.3.99 (macOS)</title>
+      <title>Version 1.3.100 (macOS)</title>
       <pubDate>Sat, 20 June 2026 03:00:00 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.99</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.100</sparkle:releaseNotesLink>
       <enclosure 
-        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.99/ActionBoard-mac-v1.3.99.zip"
-        sparkle:version="1.3.99" 
-        sparkle:shortVersionString="1.3.99"
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.100/ActionBoard-mac-v1.3.100.zip"
+        sparkle:version="1.3.100" 
+        sparkle:shortVersionString="1.3.100"
         sparkle:os="macos"    
-        length="72516289"
-        sparkle:edSignature="4A8XHAtpRc8hQdNe8llN8hURocjlgP0Hh8ftQCxRDVkIVNW3ZRmXPCoL4mPWd57PCLlmZFaT52ucvy+eXwZnDg=="
+        length="72515545"
+        sparkle:edSignature="AUGAe0ibFvfc/QoeSjUmRPkr7AwsoPNSEoJzgScHcFsr6EB7M3KfUnqvUDTDUyfDmL4QtLssw+VLfBltv5DNDA=="
         type="application/octet-stream"/>
-    </item> -->
+    </item>
 
     <item>
       <title>Version 1.3.98 (Windows)</title>

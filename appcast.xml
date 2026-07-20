@@ -10,7 +10,7 @@
        <item>
       <title>Version 1.3.106 (Windows)</title>
       <pubDate>Sat, 20 June 2026 03:00:00 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.105</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.106</sparkle:releaseNotesLink>
       <!-- ВСТАВЛЯТЬ СЮДА -->
       <description><![CDATA[### Добавлено
 - Улучшена производительность интерфейса обновлений.
@@ -20,7 +20,7 @@
 - Исправлена ошибка **Scrollbar** при отображении списка изменений.
 ]]></description>
       <enclosure 
-        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.105/ActionBoard-win-v1.3.105.exe"
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.106/ActionBoard-win-v1.3.106.exe"
         sparkle:version="1.3.106"
         sparkle:os="windows"
         length="0"
@@ -29,9 +29,9 @@
 
 
     <item>
-      <title>Version 1.3.105 (macOS)</title>
+      <title>Version 1.3.106 (macOS)</title>
       <pubDate>Sat, 20 June 2026 03:00:00 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.105</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.106</sparkle:releaseNotesLink>
       <!-- ВСТАВЛЯТЬ СЮДА -->
       <description><![CDATA[### Добавлено
 - Улучшена производительность интерфейса обновлений.
@@ -41,9 +41,9 @@
 - Исправлена ошибка **Scrollbar** при отображении списка изменений.
 ]]></description>
       <enclosure 
-        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.105/ActionBoard-mac-v1.3.105.zip"
-        sparkle:version="1.3.105" 
-        sparkle:shortVersionString="1.3.105"
+        url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.106/ActionBoard-mac-v1.3.106.zip"
+        sparkle:version="1.3.106" 
+        sparkle:shortVersionString="1.3.106"
         sparkle:os="macos"    
         length="73011591"
         sparkle:edSignature="/depspb2MsKL56Jup2Jfu8RG8S9qLJstmlf1FmA59VEt1qN1C6bRg44OD4Md7uzCN1MAcbnqDPt1C6sK/sEgDA=="

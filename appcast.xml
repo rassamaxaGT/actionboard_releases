@@ -6,6 +6,16 @@
         <description>Most recent updates to ActionBoard</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.3.147</title>
+            <pubDate>Mon, 03 Aug 2026 20:42:07 +0000</pubDate>
+            <sparkle:version>1.3.147</sparkle:version>
+            <sparkle:shortVersionString>1.3.147</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.147</link>
+            <description>﻿feat: release v1.3.147</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.147/ActionBoard-mac-v1.3.147.zip" sparkle:version="1.3.147" sparkle:edSignature="SG6rReCeY/v8t+X5OJfGyaUKIit0VW1zHWSoyWw/g3VDCVv4nmbJqavYjTr9zcgi6YT2gb5FDfpNG/0ps58GDA==" length="73005454" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.147/ActionBoard_Setup_v1.3.147.exe" sparkle:version="1.3.147" length="56960536" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="3ab6e98f0d0497215ac500356f30a3c816ea7a7772ee3ab050d690d6a73aef0b" />
+        </item>
+        <item>
             <title>ActionBoard 1.3.146</title>
             <pubDate>Mon, 03 Aug 2026 16:24:07 +0000</pubDate>
             <sparkle:version>1.3.146</sparkle:version>

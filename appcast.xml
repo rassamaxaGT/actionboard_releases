@@ -6,6 +6,26 @@
         <description>Most recent updates to ActionBoard</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.3.152</title>
+            <pubDate>Fri, 07 Aug 2026 10:42:38 +0000</pubDate>
+            <sparkle:version>1.3.152</sparkle:version>
+            <sparkle:shortVersionString>1.3.152</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.3.152</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.3.152
+
+### ⚡ [Система обновлений и каналы]
+- **Исправление авто-обновления appcast.xml**: Исправлена синтаксическая ошибка передачи флагов PowerShell в Git CLI во время работы CI/CD воркфлоу.
+- **Каналы тестирования**: В настройки приложения добавлен переключатель между **Стабильным** и **Бета-каналом** обновлений.
+- **Мгновенная проверка**: При смене канала приложение сразу запрашивает актуальный фид сборок выбранного канала.
+
+### 🛠 [Стабильность и Интерфейс]
+- **Точность сравнения версий**: Внедрена поддержка формата SemVer для точной доставки ранних и стабильных сборок без повторных уведомлений.
+- **Индикация статусной панели**: Оптимизировано отображение и прозрачность иконок в нижней панели сайдбара.
+- **Управление подключением в трее**: В контекстное меню системного трея добавлена опция «Переподключить» для быстрого перезапуска связи с клавиатурой.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.152/ActionBoard-mac-v1.3.152.zip" sparkle:version="1.3.152" sparkle:edSignature="w2ssisld4ETUZolj0Q/LQIRm9shEzMtfINI0jeLjdhcM/QlVQ4jesP4vhxcVDV+qMk4RH4/r0hk4ZkT3NhRZCg==" length="73025976" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.3.152/ActionBoard_Setup_v1.3.152.exe" sparkle:version="1.3.152" length="56969432" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="abb4d67585bdb4e89b6cd3c346078337e1543d45b60b1e6d15750c7b2b4bde4f" />
+        </item>
+        <item>
             <title>ActionBoard 1.3.148</title>
             <pubDate>Tue, 04 Aug 2026 18:55:32 +0000</pubDate>
             <sparkle:version>1.3.148</sparkle:version>

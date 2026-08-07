@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ActionBoard Changelog</title>
+        <link>https://github.com/rassamaxaGT/actionboard_releases</link>
+        <description>ActionBoard update feed</description>
+        <language>en</language>
+        <item>
+            <title>ActionBoard 1.4.0-beta.2</title>
+            <pubDate>Fri, 07 Aug 2026 11:25:29 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.2</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.2</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.2</link>
+            <description>﻿chore: bump version to v1.4.0-beta.2</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.2/ActionBoard-mac-v1.4.0-beta.2.zip" sparkle:version="1.4.0-beta.2" sparkle:edSignature="GmWuQ7h497QdwehNJpmci006r6tfl0jhqNrfyhUyrvC1r7QMpHnN0tgwhGqxu36l9hDpvS7Iv2Dm6phLWaCWCQ==" length="73024283" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.2/ActionBoard_Setup_v1.4.0-beta.2.exe" sparkle:version="1.4.0-beta.2" length="56968283" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="3f01a1976ef59f7d0e9fcc1efaa4fd3fa969e5bc53732e8c30bfefcd13dbd23f" />
+        </item>
+    </channel>
+</rss>

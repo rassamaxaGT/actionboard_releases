@@ -6,6 +6,30 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.5</title>
+            <pubDate>Fri, 07 Aug 2026 13:17:25 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.5</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.5</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.5</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.5
+
+## ⚡ Стабильность и CI/CD macOS
+
+- **Исправлена ошибка сборки на macOS CI** — удален ограниченный entitlement `keychain-access-groups`, требовавший обязательный сертификат разработчика Apple при автоматической сборке на раннерах.
+
+## 🎨 Интерфейс и дизайн
+
+- **Обновлены бейджи действий макросов** — заново сверстаны карточки шагов в панели макросов строго по дизайну Figma, устранены наложения текста задержек и наименований клавиш.
+- **Интерактивные эффекты** — добавлена плавная полупрозрачность при наведении мышью на бейджи шагов.
+- **Индикаторы вращения энкодеров** — на 3D-мокап клавиатуры добавлены наглядные дуговые стрелки направления вращения для ручек `E1` (против часовой) и `E2` (по часовой стрелке).
+
+---
+
+*ActionBoard v1.4.0-beta.5 — бета-версия. Возможны незначительные ошибки. Сообщайте о проблемах через встроенный отчёт о сбое.*</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.5/ActionBoard-mac-v1.4.0-beta.5.zip" sparkle:version="1.4.0-beta.5" sparkle:edSignature="S9DzUrYl9bgQRbL/uF70T9N8aKZPFPV+Q0oTdTDiszbTiGrdHDCR8i9p0XuT8Ba83hO1myNOx8xGUtvzqn9uAQ==" length="73055006" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.5/ActionBoard_Setup_v1.4.0-beta.5.exe" sparkle:version="1.4.0-beta.5" length="56969833" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="317a9dee5891914ba6fd21ca5b3f5932bad9c205f5acd14ead32dfc2295de0fa" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.3</title>
             <pubDate>Fri, 07 Aug 2026 11:45:03 +0000</pubDate>
             <sparkle:version>1.4.0-beta.3</sparkle:version>

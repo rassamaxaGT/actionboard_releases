@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.7</title>
+            <pubDate>Sat, 08 Aug 2026 15:59:06 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.7</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.7</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.7</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.6
+
+### 🎨 [Интерфейс и Оверлей]
+- **Обновлен дизайн тултипа "в чём разница"**: всплывающее окно подробного описания макросов и шорткатов приведено в идеальное соответствие с макетом Figma, добавлены правильные отступы, геометрия и позиционирование с выравниванием по границам окна.
+- **Унификация стилей оверлея**: настроен чистый темный режим с глубокими объемными тенями для всех панелей интерфейса оверлея.
+- **Двухрежимная подсветка карточек**: добавлены четкие контрастные состояния для пустых и заполненных клавиш, энкодеров и слоев.
+- **Динамическая адаптация ширины слоев**: плашки слоев в оверлее теперь автоматически масштабируются по ширине контента (от 180px до 800px), при этом каждый короткий слой сохраняет компактный размер без лишнего растягивания.
+- **Обновленный формат последовательностей**: отображение шагов макросов в оверлее переведено на наглядный формат с разделителями-стрелками (`→`), полностью идентичный основному редактору.
+
+### ⚡ [Стабильность и Отслеживание окон]
+- **Мгновенный отклик при запуске программ на macOS**: исправлена проблема, при которой ActionBoard не определял смену фокуса при холодном открытии новых приложений (теперь автопереключение профилей и слоев срабатывает сразу при старте программы).</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.7/ActionBoard-mac-v1.4.0-beta.7.zip" sparkle:version="1.4.0-beta.7" sparkle:edSignature="7yL77q+0i68XU2LLga2fJwktHFjvXdIuQ+QNidDBGJWgrRD1xxMk1r0RoGukSFutoRjQRDBP3tjIJX1uOE3DCw==" length="73143760" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.7/ActionBoard_Setup_v1.4.0-beta.7.exe" sparkle:version="1.4.0-beta.7" length="57000878" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="2a9a21f3c47c7c20e078c4e2c40dd83c0670abb3a5b30fa75376011e253d9d51" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.6</title>
             <pubDate>Fri, 07 Aug 2026 13:33:12 +0000</pubDate>
             <sparkle:version>1.4.0-beta.6</sparkle:version>

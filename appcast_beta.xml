@@ -6,6 +6,21 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.11</title>
+            <pubDate>Mon, 10 Aug 2026 20:05:02 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.11</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.11</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.11</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.11
+
+### 🔄 [Система Обновлений]
+
+- **Точное сравнение версий на macOS**: настроено корректное распознавание цифрового формата версий macOS (`1.4.0.9`) при проверке обновлений бета-канала (`1.4.0-beta.9`).
+- **Оптимизация автообновлений и телеметрии**: устранены ложные ошибки сети и 404-ошибки при поиске обновлений, исключен спам повторными отчетами в Supabase.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.11/ActionBoard-mac-v1.4.0-beta.11.zip" sparkle:version="1.4.0-beta.11" sparkle:edSignature="/O99GZJma6JjKsxGVgG8vrZmsgYIF9BGhf5ToYHOAXVhwutGo7+udnHu1E9jNp83UjR1dxMoFMT+bLm7RE26DQ==" length="73154768" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.11/ActionBoard_Setup_v1.4.0-beta.11.exe" sparkle:version="1.4.0-beta.11" length="57007455" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c85449775997a5bb4fada33aa542495d4c8b373909b69a564a4406d49b40627a" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.9</title>
             <pubDate>Mon, 10 Aug 2026 19:25:13 +0000</pubDate>
             <sparkle:version>1.4.0-beta.9</sparkle:version>

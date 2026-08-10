@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.8</title>
+            <pubDate>Mon, 10 Aug 2026 18:49:18 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.8</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.8</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.8</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.8
+
+### ⚡ [Стабильность и Оверлей macOS]
+
+- **Мгновенный показ оверлея**: устранены лишние задержки при вызове оверлея на macOS — анимация появления теперь происходит плавно и за доли секунды.
+- **Исправлена обрезка индикатора слоев**: увеличены размеры панели индикатора слоев, благодаря чему длинные списки слоев больше не срезаются сверху экрана.
+- **Поддержка виртуальных столов (Spaces) и полноэкранных окон**: оверлей теперь корректно отображается поверх всех рабочих столов и полноэкранных приложений, а автоматическое переключение слоев четко срабатывает при свайпах между экранами.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.8/ActionBoard-mac-v1.4.0-beta.8.zip" sparkle:version="1.4.0-beta.8" sparkle:edSignature="1xPqykOY14sWaksqvm9b0hGWomV/Kixf958HYTqq2I5b7M2moGaKQdI1mic4PoevnF5pTEn2ITwsBSqI8N+zAQ==" length="73154072" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.8/ActionBoard_Setup_v1.4.0-beta.8.exe" sparkle:version="1.4.0-beta.8" length="57010275" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c476c8261fcd1eb4d87a0c6e1d1bfea2ee308dda2b422e413c1dfb1c051004a5" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.7</title>
             <pubDate>Sat, 08 Aug 2026 15:59:06 +0000</pubDate>
             <sparkle:version>1.4.0-beta.7</sparkle:version>

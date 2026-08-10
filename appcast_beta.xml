@@ -6,6 +6,20 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.13</title>
+            <pubDate>Mon, 10 Aug 2026 20:35:30 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.13</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.13</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.13</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.13
+
+### ⚡ [Отслеживание Окон и Full Screen на macOS]
+- **Поддержка нативного Full Screen (зелёная кнопка)**: реализован прямой перехват активной программы через `NSWorkspace.frontmostApplication`. Если приложение развернуто на весь экран на отдельном рабочем столе (Space), ActionBoard гарантированно определяет фокус и переключает профиль.
+- **Фоновый пульс отслеживания (Heartbeat)**: добавлен 3-секундный фоновый контроллер фокуса для macOS, определяющий переключение полноэкранных окон даже при свайпах трекпадом без кликов мыши.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.13/ActionBoard-mac-v1.4.0-beta.13.zip" sparkle:version="1.4.0-beta.13" sparkle:edSignature="1j13U32k/1ZkbMRZ8pgQRescq+9kfgR7zM4LP/HZnqQvIhEZd1WwNJ+8o86GcdhA3i/Ct0G3wUfn/b8CZuA1DQ==" length="73154919" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.13/ActionBoard_Setup_v1.4.0-beta.13.exe" sparkle:version="1.4.0-beta.13" length="57008369" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="835fb0e61a4c2d22d7688b63376d73a29962158bcefff77e28d2751dfac5f981" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.11</title>
             <pubDate>Mon, 10 Aug 2026 20:05:02 +0000</pubDate>
             <sparkle:version>1.4.0-beta.11</sparkle:version>

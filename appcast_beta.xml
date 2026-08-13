@@ -6,6 +6,32 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.17</title>
+            <pubDate>Thu, 13 Aug 2026 20:36:08 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.17</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.17</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.17</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.17
+
+### ⚡ [Производительность и Стабильность]
+
+- **Мгновенный оверлей на macOS**: устранена задержка появления всплывающего индикатора при переключении слоев кнопкой.
+- **Автосинк при реконнекте**: при горячем переподключении USB активный слой и макросы автоматически загружаются в макропад.
+
+### 🎨 [Профили и Навигация]
+
+- **Стилизация профилей и навбара**: белая рамка активного профиля, поддержка `.ico`, высота навбара macOS 52px и отступ 90px под «светофоры».
+- **Интерфейс библиотеки**: увеличены отступы между группами слоев, убраны рамки кнопок и оптимизированы пресеты маркета.
+
+### 🛠 [Редактор и Макросы]
+
+- **Улучшения шорткатов и шагов**: добавлено переименование шорткатов, убраны кавычки текстовых шагов и системные тултипы энкодеров.
+- **Запись и Drag-and-Drop**: белая обводка поля при записи, фокус на названии, блокировка взаимодействия с курсором при переносе бейджей.
+- **Интерактивные детали**: тонкое начертание цифры счетчика слоев, ховер с курсором-указателем для «в чём разница?» и увеличенные шрифты оверлея (11px).</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.17/ActionBoard-mac-v1.4.0-beta.17.zip" sparkle:version="1.4.0-beta.17" sparkle:edSignature="MsT061QQfgF4ExtMS5OiK7gyqoV1FwreKt3sv37YduZMDC59/nwEIk59ETN4uRP0v4ofexA2NXJWXgk8vOeVAA==" length="73175468" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.17/ActionBoard_Setup_v1.4.0-beta.17.exe" sparkle:version="1.4.0-beta.17" length="57014689" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="93e4d3114c13f87649b0c2d41d7bb26027a790c297c8e7a865cc4fbf4dc2e8b7" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.13</title>
             <pubDate>Mon, 10 Aug 2026 20:35:30 +0000</pubDate>
             <sparkle:version>1.4.0-beta.13</sparkle:version>

@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.18</title>
+            <pubDate>Fri, 14 Aug 2026 16:17:26 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.18</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.18</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.18</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.18
+
+### 🔒 Безопасность и Разрешения (macOS)
+- **Улучшен Мастер разрешений**: пошаговая и наглядная выдача прав Универсального доступа и Мониторинга ввода без лишних системных окон.
+- **Стабильность при обновлениях**: внедрен механизм сохранения системных прав при установке новых версий (защита от сброса TCC).
+- **Быстрое переподтверждение (Re-Sync)**: автоматическое восстановление работы перехвата клавиш после обновления macOS.
+- **Защита от запуска из временных папок**: добавлена проверка App Translocation для сохранения настроек и базы данных.
+
+### ⚡ Производительность и Стабильность
+- **Фоновая самоочистка карантина**: мгновенное снятие блокировок Gatekeeper при первом запуске приложения.
+- **Кнопка сброса кэша прав**: быстрое решение проблем с системными разрешениями в один клик.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.18/ActionBoard-mac-v1.4.0-beta.18.zip" sparkle:version="1.4.0-beta.18" sparkle:edSignature="ZhxZ81FLNaqotuWQB25WpyYqiQqA3UlDZhsjHQcF4912l5ge81Df6v1Q5ApMbdN8vuW4Ca23hMOveTmnGmKgBA==" length="73185004" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.18/ActionBoard_Setup_v1.4.0-beta.18.exe" sparkle:version="1.4.0-beta.18" length="57015321" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="38cdb162bc724bfb87c500ed64fef2be7482c6af1236659ce25c2cf9a9264188" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.17</title>
             <pubDate>Thu, 13 Aug 2026 20:36:08 +0000</pubDate>
             <sparkle:version>1.4.0-beta.17</sparkle:version>

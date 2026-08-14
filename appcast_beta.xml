@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.21</title>
+            <pubDate>Fri, 14 Aug 2026 16:56:17 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.21</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.21</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.21</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.21
+
+### 📦 Дистрибуция и Установка (macOS)
+- **Автоустановщик в DMG**: добавлен исполняемый скрипт `Установить ActionBoard.command`, который в один клик переносит приложение, снимает карантин Gatekeeper и запускает программу.
+- **Исправлен синтаксис CI/CD**: вынесена генерация DMG в изолированный шелл-скрипт `scripts/macos/create_dmg.sh`.
+- **Инструкция внутри DMG**: добавлен наглядный файл `ИНСТРУКЦИЯ.txt`.
+
+### 🔒 Безопасность и Разрешения (macOS)
+- **Улучшен Мастер разрешений**: пошаговая и наглядная выдача прав Универсального доступа и Мониторинга ввода без лишних системных окон.
+- **Стабильность при обновлениях**: внедрен механизм сохранения системных прав при установке новых версий (защита от сброса TCC).
+- **Быстрое переподтверждение (Re-Sync)**: автоматическое восстановление работы перехвата клавиш после обновления macOS.
+- **Кнопка сброса кэша прав**: быстрое решение проблем с системными разрешениями в один клик.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.21/ActionBoard-mac-v1.4.0-beta.21.zip" sparkle:version="1.4.0-beta.21" sparkle:edSignature="s5Bf/nmXbLzjaIRv0uBv+BtgdW65HO+I9csez/pOz+aAlDXDDGT35iudk+mhwQz0sDFDe9XO/wbE/hiA1m4MCw==" length="73184918" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.21/ActionBoard_Setup_v1.4.0-beta.21.exe" sparkle:version="1.4.0-beta.21" length="57016548" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="96bc3636da3589b76a725a25a08df0073a60c53a45d4e7f766901b34e3f50ac8" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.19</title>
             <pubDate>Fri, 14 Aug 2026 16:28:48 +0000</pubDate>
             <sparkle:version>1.4.0-beta.19</sparkle:version>

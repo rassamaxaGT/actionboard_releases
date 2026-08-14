@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.22</title>
+            <pubDate>Fri, 14 Aug 2026 17:14:04 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.22</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.22</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.22</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.22
+
+### 📦 Дистрибуция и Установка (macOS)
+- **Чистый DMG-образ**: стабильный `.dmg` установщик с ярлыком «Перетащить в Applications» и наглядной инструкцией.
+- **Восстановлена нативная цифровая подпись**: удален повреждающий шаг переподписи, устранен ложный статус «Приложение повреждено».
+
+### 🔒 Безопасность и Разрешения (macOS)
+- **Улучшен Мастер разрешений**: пошаговая и наглядная выдача прав Универсального доступа и Мониторинга ввода без лишних системных окон.
+- **Стабильность при обновлениях**: внедрен механизм сохранения системных прав при установке новых версий (защита от сброса TCC).
+- **Быстрое переподтверждение (Re-Sync)**: автоматическое восстановление работы перехвата клавиш после обновления macOS.
+- **Кнопка сброса кэша прав**: быстрое решение проблем с системными разрешениями в один клик.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.22/ActionBoard-mac-v1.4.0-beta.22.zip" sparkle:version="1.4.0-beta.22" sparkle:edSignature="N/QBENmVywFvjTGLQtHHjkJs+mnHYrQ8NlLTwLJXts8FGvBLbw087h9/b9S+urt9xs1vlIEgy4gxpYQqilItBQ==" length="73185998" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.22/ActionBoard_Setup_v1.4.0-beta.22.exe" sparkle:version="1.4.0-beta.22" length="57016476" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="a6f95637e93be8e735e55ecc29886f6d8a2ced2cdad9a9840d9302fd3033d937" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.21</title>
             <pubDate>Fri, 14 Aug 2026 16:56:17 +0000</pubDate>
             <sparkle:version>1.4.0-beta.21</sparkle:version>

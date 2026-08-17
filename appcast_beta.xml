@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.25</title>
+            <pubDate>Mon, 17 Aug 2026 20:16:46 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.25</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.25</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.25</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.24
+
+### 🔒 Разрешения и Безопасность macOS
+- **Автоматическая регистрация в «Мониторинге ввода»**: больше не нужно вручную искать приложение через кнопку «+» в Системных настройках — ActionBoard автоматически появляется в списке с тумблером.
+- **Устранение лишних системных запросов**: служебные логи и кэши перенесены в системное хранилище Application Support, что полностью убрало запрос доступа к личной папке «Документы».
+
+### ⚡ Стабильность и Первый запуск
+- **Бесшовный Мастер первого запуска**: улучшена пошаговая настройка системных доступов на macOS с автоматической детекцией включения тумблеров.
+- **Отказоустойчивая очистка кэшей**: оптимизировано хранение временных данных и иконок процессов.
+
+### 🛠 Обслуживание и Удаление
+- **Сценарий чистой переустановки**: добавлен инструмент полного сброса базы данных, настроек и TCC-прав для тестирования «с чистого листа».</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.25/ActionBoard-mac-v1.4.0-beta.25.zip" sparkle:version="1.4.0-beta.25" sparkle:edSignature="egsVsF/l4AQ433rJyeGsB6I9l6xMiCpYkdu3kHs27PSfIAVIepL3o/xGKggAclgGZbslJH7VBfNZ02k06RnPCQ==" length="73203772" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.25/ActionBoard_Setup_v1.4.0-beta.25.exe" sparkle:version="1.4.0-beta.25" length="57020497" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="ac12924d726157d4091a1a2508d94c3c8e9cc4a60ec87435c2200ddc89017f51" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.24</title>
             <pubDate>Mon, 17 Aug 2026 09:04:33 +0000</pubDate>
             <sparkle:version>1.4.0-beta.24</sparkle:version>

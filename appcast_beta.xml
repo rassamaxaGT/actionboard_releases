@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.24</title>
+            <pubDate>Mon, 17 Aug 2026 09:04:33 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.24</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.24</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.24</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.24
+
+### ⚡ Макросы и Аппаратное Исполнение
+
+- **Исправлена запись системных клавиш**: устранена ошибка, из-за которой клавиши **Tab**, **Enter**, **Backspace**, **Space** и модификаторы не срабатывали в новых записях макросов.
+- **Устранено залипание Alt и модификаторов**: внедрены адаптивные задержки удержания и ступенчатого отпускания клавиш при быстрых сериях аккордов (например, **Alt+Tab**).
+- **Очистка байт-кода от UI-символов**: теперь при записи сохраняются чистые аппаратные идентификаторы клавиш, гарантируя 100% срабатывание на контроллере RP2040.
+- **Обратная совместимость**: автоматическая нормализация и корректное воспроизведение макросов, сохраненных в предыдущих версиях.
+
+### 🛠 Стабильность и Драйвер
+
+- **Повышена надежность парсера**: Rust-движок получил дополнительный уровень санитизации входных команд перед компиляцией в байт-код клавиатуры.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.24/ActionBoard-mac-v1.4.0-beta.24.zip" sparkle:version="1.4.0-beta.24" sparkle:edSignature="UWbTeJF58N0FBU9HdlxitPKPSrtI4Ub6SrFwaS3UFHJY0KkhlbCFBt7bHUY9q9taQNQte+OBoGyjwdvoX9+hCg==" length="73200157" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.24/ActionBoard_Setup_v1.4.0-beta.24.exe" sparkle:version="1.4.0-beta.24" length="57017264" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="1e8d0a0520c3f2c956195bf924fa61ce4e82cfcd5a064d71913c6d4364f08b3c" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.23</title>
             <pubDate>Mon, 17 Aug 2026 08:13:19 +0000</pubDate>
             <sparkle:version>1.4.0-beta.23</sparkle:version>

@@ -6,6 +6,24 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.23</title>
+            <pubDate>Mon, 17 Aug 2026 08:13:19 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.23</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.23</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.23</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.23
+
+### ⚡ Макросы и Аппаратное Исполнение
+- **Исправлена запись системных клавиш**: устранена ошибка, из-за которой клавиши **Tab**, **Enter**, **Backspace**, **Space** и модификаторы не срабатывали в новых записях макросов.
+- **Очистка байт-кода от UI-символов**: теперь при записи сохраняются чистые аппаратные идентификаторы клавиш, гарантируя 100% срабатывание на контроллере RP2040.
+- **Обратная совместимость**: автоматическая нормализация и корректное воспроизведение макросов, записанных в предыдущих версиях.
+
+### 🛠 Стабильность и Драйвер
+- **Повышена надежность парсера**: Rust-движок получил дополнительный уровень санитизации входных команд перед компиляцией в байт-код клавиатуры.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.23/ActionBoard-mac-v1.4.0-beta.23.zip" sparkle:version="1.4.0-beta.23" sparkle:edSignature="ZhlX7dDSC8rCZF6bmeJi0vquucFW5+5NXYXsP2eOhsrRfjCcYgW84rjZTZu825ktsCu44sJEYGJrvcY6U5caCw==" length="73199708" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.23/ActionBoard_Setup_v1.4.0-beta.23.exe" sparkle:version="1.4.0-beta.23" length="57021694" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="4e62542a4db8a5f96e3fd61cf7b8520f9b6b5c08168a1d2cbcfcc091b158b87d" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.22</title>
             <pubDate>Fri, 14 Aug 2026 17:14:04 +0000</pubDate>
             <sparkle:version>1.4.0-beta.22</sparkle:version>

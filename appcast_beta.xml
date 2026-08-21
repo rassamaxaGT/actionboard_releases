@@ -6,6 +6,30 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.27</title>
+            <pubDate>Fri, 21 Aug 2026 22:14:36 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.27</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.27</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.27</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.27
+
+### 🔒 Разрешения и Безопасность macOS
+
+- **В 2 раза меньше действий при первом запуске**: устранена необходимость отдельного запроса «Мониторинга ввода» — теперь требуется включить всего **один тумблер** «Универсальный доступ».
+- **Интеллектуальная детекция тумблеров**: ActionBoard моментально фиксирует выдачу доступа в фоне даже при работе в режимах **Split View** и **Stage Manager**.
+
+### ⚡ Скорость и Удобство интерфейса
+
+- **Автоматическое завершение Мастера (Zero-Click)**: окно настройки больше не требует ручного нажатия кнопок «Далее» или «Готово» — при включении тумблера мастер плавно закрывается сам.
+- **Одноэкранный интерфейс**: весь процесс онбординга сокращен до одного понятного экрана с наглядной подсказкой путей в настройках.
+
+### 🛠 Надежность и Обновления
+
+- **Защита от сбоев после OTA-обновлений**: добавлен адаптивный экран быстрого переподтверждения доступа при сбросе системного кэша разрешений macOS.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.27/ActionBoard-mac-v1.4.0-beta.27.zip" sparkle:version="1.4.0-beta.27" sparkle:edSignature="h+kpCo7z3FfxyBUT3xSBZARp5geNSKeorpuCzQ71V8oduisIwPWyZAWEoN/Xy5VaB19KmqpuG+aVuBA1AxB1AQ==" length="73202846" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.27/ActionBoard_Setup_v1.4.0-beta.27.exe" sparkle:version="1.4.0-beta.27" length="57018424" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="1da4afda2c195bbe19b4ad6a925dfdd71bd8eb0b7fdff22eb6b40249cb237283" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.25</title>
             <pubDate>Mon, 17 Aug 2026 20:16:46 +0000</pubDate>
             <sparkle:version>1.4.0-beta.25</sparkle:version>

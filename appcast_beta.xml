@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.29</title>
+            <pubDate>Sun, 23 Aug 2026 16:47:23 +0000</pubDate>
+            <sparkle:version>1.4.0.29</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.29</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.29</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.29
+
+### ⚡ Производительность и Обновления
+
+- **Бесшовные автообновления на macOS**: устранена ошибка «You're up to date!», блокировавшая скачивание и установку свежих бета-релизов через нативный модуль Sparkle.
+- **Синхронизация формата версий**: оптимизирована совместимость нумерации с требованиями Apple Bundle, гарантируя моментальное определение новых сборок.
+- **Информативный интерфейс обновлений**: в окне проверки теперь всегда отображается точный номер и суффикс устанавливаемой версии.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.29/ActionBoard-mac-v1.4.0-beta.29.zip" sparkle:version="1.4.0.29" sparkle:shortVersionString="1.4.0-beta.29" sparkle:edSignature="2nkjYPfk9+F2/Eoz1ubztEU4h95/d6qunWfOvKkjDqwXtyQOwIWXgNUzP7phMm2AiFifUWnbcixXZZiJyRWPAg==" length="73271542" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.29/ActionBoard_Setup_v1.4.0-beta.29.exe" sparkle:version="1.4.0-beta.29" length="57076231" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="771190c075b651f22d621b2c3d952abfbe09c4bee95791a74589e5ac09c6fbf2" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.28</title>
             <pubDate>Sun, 23 Aug 2026 16:01:49 +0000</pubDate>
             <sparkle:version>1.4.0-beta.28</sparkle:version>

@@ -6,6 +6,32 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.28</title>
+            <pubDate>Sun, 23 Aug 2026 16:01:49 +0000</pubDate>
+            <sparkle:version>1.4.0-beta.28</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.28</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.28</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.28
+
+### ⚡ Производительность и Запуск
+
+- **Автономный запуск без интернета**: приложение больше не требует обязательного подключения к серверу на старте и мгновенно готово к работе.
+- **Молниеносный мини-оверлей**: значительно ускорен отклик и анимация вызова компактного оверлея.
+
+### ⌨️ Макросы и Запись
+
+- **Устранено залипание клавиш**: исправлена ошибка, из-за которой повторные нажатия в быстрых комбинациях (например, `Cmd + Z`) могли блокироваться.
+- **Режим «Запись текста»**: у текстовых шагов появился статус активного ввода с живым курсором и наглядной индикацией.
+- **Защита от пустых записей**: пустые и незавершенные макросы больше не сохраняются и не засоряют профили.
+
+### 🎨 Интерфейс и macOS
+
+- **Новый дизайн Мастера разрешений**: экран настройки доступа переработан по макетам Figma на стильном темном фоне.
+- **Полноэкранный димминг подсказок**: хаб подсказок на macOS теперь гармонично затемняет всё окно приложения.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.28/ActionBoard-mac-v1.4.0-beta.28.zip" sparkle:version="1.4.0-beta.28" sparkle:edSignature="CIS6rBOZ8ogGwQPK0RAhBxclN0GRNFgaUzE3932/Nuyhjgd3CU+2lOvCSFqOUYs0fbtPxKLfLfF1Jo+mMXXABA==" length="73271688" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.28/ActionBoard_Setup_v1.4.0-beta.28.exe" sparkle:version="1.4.0-beta.28" length="57075631" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="5fe185aec24d56ebc7a9cf50ef32c8e6aa157f86b869f86014a3a5f6601bc05f" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.27</title>
             <pubDate>Fri, 21 Aug 2026 22:14:36 +0000</pubDate>
             <sparkle:version>1.4.0-beta.27</sparkle:version>

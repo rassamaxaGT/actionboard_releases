@@ -6,6 +6,29 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.31</title>
+            <pubDate>Mon, 24 Aug 2026 08:01:02 +0000</pubDate>
+            <sparkle:version>1.4.0.31</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.31</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.31</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.30
+
+### 🔒 Безопасность и Разрешения macOS
+
+- **Автоматическая ротация прав при обновлении**: приложение автоматически удаляет недействительные разрешения прошлой версии и регистрирует новую версию в «Универсальном доступе» macOS.
+- **Устранение устаревших записей (Ghosting)**: исключена необходимость ручной очистки базы разрешений через терминал после обновлений.
+- **Устранено дублирование системных окон**: при запросе доступа открывается только раздел Настроек без лишних модальных окон.
+
+### ⚡ Производительность и Стабильность
+
+- **100% насыщенность цветов палитры**: готовые цветовые пресеты в панели подсветки приведены к 100% насыщенности и яркости, устраняя блёклость свечения клавиатуры.
+- **Устранено залипание клавиш с модификаторами на macOS**: переработан аппаратный байт-код макросов с гарантированным порядком отпускания клавиш.
+- **Исправлена запись шорткатов**: устранен преждевременный сброс интерфейса при создании новых комбинаций.
+- **Мгновенный переход**: оптимизирована навигация в системные настройки безопасности macOS.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.31/ActionBoard-mac-v1.4.0-beta.31.zip" sparkle:version="1.4.0.31" sparkle:shortVersionString="1.4.0-beta.31" sparkle:edSignature="by0w8IlV/mTdQtotRg3/fLslgXjV/XyCbe9d9sfIztpOZ8XVUb8f9lxL3kpWKWmbANToQpZSEwqnpKw9UVYFBw==" length="73276740" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.31/ActionBoard_Setup_v1.4.0-beta.31.exe" sparkle:version="1.4.0-beta.31" length="57077999" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c085206e163942923db42b839a36d68258936b90f60220af618091f0eaa4f9b6" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.30</title>
             <pubDate>Sun, 23 Aug 2026 18:27:55 +0000</pubDate>
             <sparkle:version>1.4.0.30</sparkle:version>

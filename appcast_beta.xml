@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.32</title>
+            <pubDate>Wed, 26 Aug 2026 17:43:01 +0000</pubDate>
+            <sparkle:version>1.4.0.32</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.32</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.32</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.32
+
+### 🔒 Безопасность и Разрешения macOS
+
+- **Устранение фантомных записей (TCC Ghosting)**: внедрена стабильная идентификация приложения при сборке, благодаря чему настройки macOS корректно связывают разрешения с обновленной версией.
+- **Чистый сброс и регистрация прав**: автоматический сброс разрешений старой версии и плавная повторная регистрация в разделе «Универсальный доступ» без дублирования пунктов в списке.
+- **Синхронизация с системой**: добавлена надежная задержка синхронизации системного демона безопасности macOS при первом запуске после обновления.
+
+### ⚡ Стабильность и Сборка
+
+- **Автоматизация релизного пайплайна**: процесс подписи и верификации бандла полностью интегрирован в CI/CD сборку DMG и ZIP пакетов.
+- **Улучшенный отклик мастера разрешений**: моментальная регистрация актуальной версии в настройках системы без необходимости ручного ввода команд в терминале.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.32/ActionBoard-mac-v1.4.0-beta.32.zip" sparkle:version="1.4.0.32" sparkle:shortVersionString="1.4.0-beta.32" sparkle:edSignature="pz5aHWp231DbjMGK4SH95oG4D6uFmGRMMHFvvfIBMO92kbYzxO12eim0yU0awQtvU8ea+HzyJ4TgRkuaT0FeAA==" length="73278087" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.32/ActionBoard_Setup_v1.4.0-beta.32.exe" sparkle:version="1.4.0-beta.32" length="57074283" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="6b217b791cb1d3cfeca24b8b848a15396868c7339e204175222b86bee2bf68e8" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.31</title>
             <pubDate>Mon, 24 Aug 2026 08:01:02 +0000</pubDate>
             <sparkle:version>1.4.0.31</sparkle:version>

@@ -6,6 +6,25 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.34</title>
+            <pubDate>Wed, 26 Aug 2026 18:58:29 +0000</pubDate>
+            <sparkle:version>1.4.0.34</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.34</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.34</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.34
+
+### 🔒 Безопасность и Разрешения macOS
+
+- **Полное удаление старых разрешений**: реализован сброс TCC не только по идентификатору бандла, но и по пути к приложению — это гарантированно удаляет остаточные «фантомные» записи от версий, установленных до фикса подписи.
+- **Чистая перерегистрация**: автоматическая тихая регистрация актуальной версии в разделе «Универсальный доступ» с паузой на синхронизацию системного демона безопасности `tccd`.
+
+### ⚡ Стабильность и Сборка
+
+- **Надежная подпись бинарника**: стабильный Designated Requirement в релизном CI-пайплайне предотвращает появление дубликатов в Системных настройках при будущих обновлениях.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.34/ActionBoard-mac-v1.4.0-beta.34.zip" sparkle:version="1.4.0.34" sparkle:shortVersionString="1.4.0-beta.34" sparkle:edSignature="Kqep3PG4/yMRIyBfGO9wXZZdcfmvxX7RhrcHtCQ7Nu95jz07TP5hkyZzYYWaOIEwKXfe6vz6B1humMc4mhyiDw==" length="73278934" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.34/ActionBoard_Setup_v1.4.0-beta.34.exe" sparkle:version="1.4.0-beta.34" length="57074413" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="ebff763231045cdf248beb0966d7a532d5aae21a54abe5ec58c6e7a2e1a9334f" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.33</title>
             <pubDate>Wed, 26 Aug 2026 18:13:00 +0000</pubDate>
             <sparkle:version>1.4.0.33</sparkle:version>

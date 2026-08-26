@@ -7,15 +7,22 @@
         <language>en</language>
         <item>
             <title>ActionBoard 1.4.0-beta.37</title>
-            <pubDate>Wed, 26 Aug 2026 20:42:11 +0000</pubDate>
+            <pubDate>Wed, 26 Aug 2026 20:54:57 +0000</pubDate>
             <sparkle:version>1.4.0.37</sparkle:version>
             <sparkle:shortVersionString>1.4.0-beta.37</sparkle:shortVersionString>
             <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.37</link>
             <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.37
 
-тест</description>
-            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.37/ActionBoard-mac-v1.4.0-beta.37.zip" sparkle:version="1.4.0.37" sparkle:shortVersionString="1.4.0-beta.37" sparkle:edSignature="45KlRmtAwmxp8G0fPY4Ntemb01w7ySfQJWVRBbofSpQ1sZlUuIFOWJ3gD5XC9Tj3zI7LpklbDtQ22LLaTxNwDA==" length="73280022" type="application/octet-stream" sparkle:os="macos" />
-            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.37/ActionBoard_Setup_v1.4.0-beta.37.exe" sparkle:version="1.4.0-beta.37" length="57075171" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="01d6c901a589f2f7122624c18e4bb5cb36ec3dc0e304a0898664dba3a222f9f0" />
+### 🔒 Безопасность и Разрешения macOS
+
+- **Автоматический отзыв прав ДО обновления (Pre-Update Reset)**: при нажатии «Установить» приложение самостоятельно удаляет свои разрешения в TCC до перезапуска, полностью исключая коллизии версий и появление «фантомных» дубликатов в Системных настройках.
+- **Чистый запуск новой версии**: после обновления актуальная версия приложения стартует на чистой системе и сразу инициирует однократную регистрацию своего единственного пункта в разделе «Универсальный доступ».
+
+### ⚡ Стабильность и Сборка
+
+- **Оптимизация релизного пайплайна**: настроена явная авторизация API GitHub Actions и сокращен срок хранения временных артефактов сборки для исключения сбоев лимита хранилища.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.37/ActionBoard-mac-v1.4.0-beta.37.zip" sparkle:version="1.4.0.37" sparkle:shortVersionString="1.4.0-beta.37" sparkle:edSignature="a4qL2MvsKPNRtRYbW/EVFFjhsGyaltwlRjOxhYr0xIwzdg+b61O5JK/0m5HnrQyOGXxQUgtk2ToOYD6YliGhDA==" length="73280022" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.37/ActionBoard_Setup_v1.4.0-beta.37.exe" sparkle:version="1.4.0-beta.37" length="57078230" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="611a8b40839e25c2e44bb99c6b76801641478671fcdc6ca0c4ff0f145195bf88" />
         </item>
         <item>
             <title>ActionBoard 1.4.0-beta.36</title>

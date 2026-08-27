@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.38</title>
+            <pubDate>Thu, 27 Aug 2026 17:22:21 +0000</pubDate>
+            <sparkle:version>1.4.0.38</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.38</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.38</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.38
+
+### ⚡ Пользовательский интерфейс и Ассеты
+
+- **Новый векторный логотип ActionBoard**: обновлена векторная графика фирменного знака в интерфейсе приложения, боковой панели и всплывающих оверлеях для безупречной четкости на дисплеях с высокой плотностью пикселей (Retina / HiDPI).
+- **Свежие иконки системного трея**: аккуратный и лаконичный значок в области уведомлений Windows и строке меню macOS.
+
+### 🛠 Платформенные Ресурсы и Сборка
+
+- **Оптимизированные системные иконки Windows**: внедрен полноценный набор многослойных иконок высокого разрешения для ярлыков, панели задач и инсталлятора.
+- **Обновленный пакет иконок macOS**: добавлены актуальные ассеты для каталога приложения, обеспечивающие нативный вид в Dock и окнах Finder.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.38/ActionBoard-mac-v1.4.0-beta.38.zip" sparkle:version="1.4.0.38" sparkle:shortVersionString="1.4.0-beta.38" sparkle:edSignature="QO3VNecw1zLxSjNQfc72VmkKoeSDTtO76tjZU6/wkdsBd1mi0K66/Y1pFDAhs9r+Q5KOZPszDk+Y0UpBo64ZDQ==" length="73255329" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.38/ActionBoard_Setup_v1.4.0-beta.38.exe" sparkle:version="1.4.0-beta.38" length="56829240" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c25a870b845ffc80558f9d88b16b09d1fbe1107e3b2dd54f772ed3131e52e1e5" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.37</title>
             <pubDate>Wed, 26 Aug 2026 20:54:57 +0000</pubDate>
             <sparkle:version>1.4.0.37</sparkle:version>

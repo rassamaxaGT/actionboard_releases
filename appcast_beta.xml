@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.42</title>
+            <pubDate>Fri, 28 Aug 2026 18:53:33 +0000</pubDate>
+            <sparkle:version>1.4.0.42</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.42</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.42</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.42
+
+### ⚡ Пользовательский интерфейс и Ассеты
+
+- **Оптимизированный набор иконок macOS**: обновлен ассет-каталог приложения с поддержкой сверхвысоких разрешений Retina (до 1024x1024) для безупречной четкости в Finder, Dock, Spotlight и панели Launchpad.
+- **Стабильная сборка ресурсов**: устранены внутренние сбои компилятора ассетов Xcode при формировании пакета приложения.
+
+### 🛠 Стабильность и Сборка
+
+- **Исправление пайплайна сборки macOS**: скорректирована конфигурация проекта и устранены конфликты с компилятором `actool`.
+- **Надежность инсталляторов**: обеспечена гарантированная доставка всех системных ресурсов и иконок в DMG и ZIP дистрибутивах.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.42/ActionBoard-mac-v1.4.0-beta.42.zip" sparkle:version="1.4.0.42" sparkle:shortVersionString="1.4.0-beta.42" sparkle:edSignature="+0R0vANIg1g0Md4wBvVYNP2vZkHoOAOppKQm6FdaY5ABPUId/1SGPXZ1V6E3OZOM3DZHvZebi8hCcjnnI+2FDA==" length="73257639" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.42/ActionBoard_Setup_v1.4.0-beta.42.exe" sparkle:version="1.4.0-beta.42" length="56831066" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c409915a969f6bbfff9bf4abaea8a8eb2a22c9a07885f712f94def2ef65f9957" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.40</title>
             <pubDate>Thu, 27 Aug 2026 21:46:01 +0000</pubDate>
             <sparkle:version>1.4.0.40</sparkle:version>

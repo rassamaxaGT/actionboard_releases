@@ -6,6 +6,21 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.45</title>
+            <pubDate>Sat, 29 Aug 2026 10:30:40 +0000</pubDate>
+            <sparkle:version>1.4.0.45</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.45</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.45</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.45
+
+### 🛠 Стабильность и Сборка macOS
+- **Исправление сборки графических ассетов**: Устранена критическая ошибка компилятора `actool` в среде сборки macOS.
+- **Стабильный каталог иконок**: Восстановлена каноническая структура ресурсов приложения с гарантированной поддержкой экранов высокой четкости (Retina).
+- **Надежность релизного пайплайна**: Обеспечена корректная упаковка и подпись DMG и ZIP дистрибутивов без сбоев.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.45/ActionBoard-mac-v1.4.0-beta.45.zip" sparkle:version="1.4.0.45" sparkle:shortVersionString="1.4.0-beta.45" sparkle:edSignature="88Ebol7fMRAzdypg72RZAdkU97ixjmsWNs4oRt6mM0hmMIzk4wx6+4QZln21NICpQZ+C5YqzRq/N/L4U06YpCg==" length="73255328" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.45/ActionBoard_Setup_v1.4.0-beta.45.exe" sparkle:version="1.4.0-beta.45" length="56832251" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c3ae1e03725b1fbcd5bf824b9adc848e4741299b580b65a2a4dcbee8237da0f5" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.43</title>
             <pubDate>Sat, 29 Aug 2026 08:54:04 +0000</pubDate>
             <sparkle:version>1.4.0.43</sparkle:version>

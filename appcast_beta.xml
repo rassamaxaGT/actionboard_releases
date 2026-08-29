@@ -6,6 +6,24 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.43</title>
+            <pubDate>Sat, 29 Aug 2026 08:54:04 +0000</pubDate>
+            <sparkle:version>1.4.0.43</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.43</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.43</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.43
+
+### ⚡ Графика и оформление macOS
+- **Поддержка нативных многослойных иконок**: Исправлена интеграция современного формата иконок macOS (`Assets.car` / Liquid Glass) с корректным отображением в Dock и Finder.
+- **Улучшенная четкость значка**: Устранено ошибочное использование низкоразрешенного статического растра в системных диалогах.
+
+### 🛠 Сборка и стабильность дистрибутива
+- **Чистый процесс упаковки DMG**: Скрипты релизной сборки больше не перезаписывают скомпилированные графические ресурсы устаревшими файлами.
+- **Оптимизация параметров Xcode**: Настроена корректная компиляция всех графических ассетов и наборов иконок для macOS.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.43/ActionBoard-mac-v1.4.0-beta.43.zip" sparkle:version="1.4.0.43" sparkle:shortVersionString="1.4.0-beta.43" sparkle:edSignature="eXSIA9yLQl7m9qaZCTURULHBxPtrxP8Vi4jj+7mJweOaMIY8FJe0/upjo0kW08QmAvwkwOfwR9GsIhjGxduoBA==" length="73255330" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.43/ActionBoard_Setup_v1.4.0-beta.43.exe" sparkle:version="1.4.0-beta.43" length="56828103" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="95e852222ab8ad609df6d2e8da988eeace8f44594fd21716889f601bec36aa13" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.42</title>
             <pubDate>Fri, 28 Aug 2026 18:53:33 +0000</pubDate>
             <sparkle:version>1.4.0.42</sparkle:version>

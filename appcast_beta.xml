@@ -6,6 +6,25 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.46</title>
+            <pubDate>Sun, 30 Aug 2026 10:15:59 +0000</pubDate>
+            <sparkle:version>1.4.0.46</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.46</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.46</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.46
+
+### ⚡ Адаптивность и Оформление
+- **Динамическая иконка Liquid Glass для macOS 15+**: Добавлена поддержка современного формата `.icon` с эффектами объема, стекла, преломления света и автоматической адаптацией под Light, Dark и тонированные темы оформления.
+- **Умная иконка в строке меню (Menu Bar)**: Иконка в верхней строке macOS теперь динамически подстраивает свой цвет под любые светлые и темные обои рабочего стола.
+- **Обновленная графика для Windows и интерфейса**: Интегрированы новые четкие векторные логотипы и мульти-размерные иконки высокого разрешения для панели задач и системного трея.
+
+### 🛠 Поддержка платформ и совместимость
+- **Двухуровневая система иконок macOS**: Обеспечена плавная работа на всех версиях macOS — новые системы используют динамический формат `.icon`, а предыдущие версии автоматически используют резервный `.icns`.
+- **Оптимизация ассетов**: Улучшена четкость отображения фирменного логотипа на экранах с высокой плотностью пикселей (Retina / HiDPI).</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.46/ActionBoard-mac-v1.4.0-beta.46.zip" sparkle:version="1.4.0.46" sparkle:shortVersionString="1.4.0-beta.46" sparkle:edSignature="Sih8am8apeA2/VqB3Jkt+Sm6o7/HPUslVDd77LLzgH198Oje6qBp9rnRAXvqe2ZvtkkWfdQi7nOCUR7z7jUqCw==" length="74408459" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.46/ActionBoard_Setup_v1.4.0-beta.46.exe" sparkle:version="1.4.0-beta.46" length="57925871" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="88ef686368a7f3558b2350f727a7a1c58a76025284a44d7a8959d6e11af01217" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.45</title>
             <pubDate>Sat, 29 Aug 2026 10:30:40 +0000</pubDate>
             <sparkle:version>1.4.0.45</sparkle:version>

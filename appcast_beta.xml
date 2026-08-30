@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.53</title>
+            <pubDate>Sun, 30 Aug 2026 17:26:18 +0000</pubDate>
+            <sparkle:version>1.4.0.53</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.53</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.53</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.52
+
+### ⚡ Автопереключение и фокус окон
+
+- **Возврат на домашний слой**: Исправлено переключение на Домашний слой (Universal Profile / Слот 1) при сворачивании окон, закрытии программ или переходе на Рабочий стол.
+- **Мгновенный перехват окон на Windows**: Устранены задержки и пропуски при быстром переходе между приложениями через Alt+Tab.
+- **Стабильная работа в фоне**: Добавлен механизм автоматического восстановления фокуса (Heartbeat), исключающий «засыпание» трекера.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.53/ActionBoard-mac-v1.4.0-beta.53.zip" sparkle:version="1.4.0.53" sparkle:shortVersionString="1.4.0-beta.53" sparkle:edSignature="9mSjc74EYf5MR0ZPE9hSQqbE9nac5uGQDo4DSJ8filHrWdCroc3bJioP138kCOvWqgP/yOJAvgZvMbAoF2ekDg==" length="74412147" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.53/ActionBoard_Setup_v1.4.0-beta.53.exe" sparkle:version="1.4.0-beta.53" length="57934557" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c2c459238c0b43ba5ccc440255c52d3975e23cabc877652efb949c629453a133" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.52</title>
             <pubDate>Sun, 30 Aug 2026 13:25:09 +0000</pubDate>
             <sparkle:version>1.4.0.52</sparkle:version>

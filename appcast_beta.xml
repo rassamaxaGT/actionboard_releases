@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.51</title>
+            <pubDate>Sun, 30 Aug 2026 13:10:04 +0000</pubDate>
+            <sparkle:version>1.4.0.51</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.51</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.51</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.51
+
+### 🛒 Маркетплейс и Синхронизация
+- **Доступ к магазину по аппаратной авторизации**: исправлена загрузка пресетов и купленных конфигураций при входе через подключенную клавиатуру без необходимости ввода email и пароля.
+- **Диалог конфликта версий**: при различии локального и облачного бэкапов во время входа по клавиатуре отображается интерактивный выбор мастер-конфигурации.
+
+### 🛠 Подсветка и Оборудование
+- **Оранжевая подсветка домашнего слоя**: скорректирована передача цветовых параметров на устройство — домашний слой теперь светится фирменным оранжевым цветом.
+
+### ⚡ Стабильность и Безопасность
+- **Умная ротация аварийных логов**: лимит до 50 файлов отчетов с автоматической очисткой после отправки на сервер.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.51/ActionBoard-mac-v1.4.0-beta.51.zip" sparkle:version="1.4.0.51" sparkle:shortVersionString="1.4.0-beta.51" sparkle:edSignature="2OW5GR1cfnjHSdtxdBt6JBabSOMZvX0RobhCmb650qFEgHUU2jOWC40wXDUpSjD+A8pluMGnKjLhF/i4O5jbAw==" length="74412449" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.51/ActionBoard_Setup_v1.4.0-beta.51.exe" sparkle:version="1.4.0-beta.51" length="57931236" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="816996aa6688fe7997ec937df6d6736ed44b8935261729d35c107e1afe8f746f" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.50</title>
             <pubDate>Sun, 30 Aug 2026 12:50:35 +0000</pubDate>
             <sparkle:version>1.4.0.50</sparkle:version>

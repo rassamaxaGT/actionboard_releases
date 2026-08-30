@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.48</title>
+            <pubDate>Sun, 30 Aug 2026 11:07:10 +0000</pubDate>
+            <sparkle:version>1.4.0.48</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.48</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.48</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.48
+
+### ⚡ Автопереключение и фокус окон (Windows)
+- **Мгновенное переключение слоев**: Полностью переработан механизм перехвата окон на Windows 10/11 — устранены задержки и пропуски при быстром переходе между приложениями через Alt+Tab.
+- **Стабильная работа в фоне**: Добавлен механизм автоматического восстановления фокуса (Heartbeat), исключающий «засыпание» трекера при длительной работе программы.
+- **Плавная работа с тяжелыми программами**: Устранены конфликты при совместном использовании приложений с плавающими окнами (**Blender**, **Adobe Premiere Pro**, **Photoshop**).
+
+### 🛠 Поддержка приложений и macOS
+- **Поддержка Spotify из Microsoft Store**: Добавлено корректное распознавание UWP-версии Spotify — профиль активируется моментально при переходе к плееру.
+- **Пакет иконок Liquid Glass для macOS**: Интегрирован современный формат `.icon` (Icon Composer) с поддержкой слоев, преломления и динамического освещения для macOS 15+.
+- **Стабильность релизной сборки**: Исправлена ошибка сборки графических ассетов в среде macOS CI/CD.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.48/ActionBoard-mac-v1.4.0-beta.48.zip" sparkle:version="1.4.0.48" sparkle:shortVersionString="1.4.0-beta.48" sparkle:edSignature="ch1vB+DVpEzKCOCQDIPg0qpiA8ACWfmG63GUhBLXV4Tj29yz/R3RbNakDvV5WjjGndaWGGwk/kyXHxQ7YzLTBw==" length="74399606" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.48/ActionBoard_Setup_v1.4.0-beta.48.exe" sparkle:version="1.4.0-beta.48" length="57925449" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="58abbd8e2642f265397344ebdb940101d70adc0a1521d1e8f84d5846a534e9aa" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.46</title>
             <pubDate>Sun, 30 Aug 2026 10:15:59 +0000</pubDate>
             <sparkle:version>1.4.0.46</sparkle:version>

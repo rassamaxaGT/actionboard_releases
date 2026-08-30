@@ -6,6 +6,30 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.52</title>
+            <pubDate>Sun, 30 Aug 2026 13:25:09 +0000</pubDate>
+            <sparkle:version>1.4.0.52</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.52</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.52</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.52
+
+### 🛒 Маркетплейс и Синхронизация
+
+- **Авто-синхронизация при выходе**: конфигурация автоматически загружается на сервер перед закрытием приложения (в режиме авто-синхронизации), исключая появление повторных диалогов выбора версии.
+- **Доступ к магазину по аппаратной авторизации**: исправлена загрузка пресетов и купленных конфигураций при входе через подключенную клавиатуру без необходимости ввода email и пароля.
+- **Диалог конфликта версий**: при реальном различии локального и облачного бэкапов во время входа отображается интерактивный выбор мастер-конфигурации.
+
+### 🛠 Подсветка и Оборудование
+
+- **Оранжевая подсветка домашнего слоя**: скорректирована передача цветовых параметров на устройство — домашний слой теперь светится фирменным оранжевым цветом.
+
+### ⚡ Стабильность и Безопасность
+
+- **Умная ротация аварийных логов**: лимит до 50 файлов отчетов с автоматической очисткой после отправки на сервер.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.52/ActionBoard-mac-v1.4.0-beta.52.zip" sparkle:version="1.4.0.52" sparkle:shortVersionString="1.4.0-beta.52" sparkle:edSignature="puNl5XXdCt2SCSdx2TeBcRCAZeMuMwp1V7HNKpRSTmFUdh5NLpr8uUxxOkiWl98Ari7UjwyNVsWLmoriQPPyCw==" length="74412512" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.52/ActionBoard_Setup_v1.4.0-beta.52.exe" sparkle:version="1.4.0-beta.52" length="57930007" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="ea6b8e5c828137bcb6edf0694977c26f73378d2059f091731c579a6cdad72217" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.51</title>
             <pubDate>Sun, 30 Aug 2026 13:10:04 +0000</pubDate>
             <sparkle:version>1.4.0.51</sparkle:version>

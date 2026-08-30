@@ -6,6 +6,23 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.49</title>
+            <pubDate>Sun, 30 Aug 2026 12:12:34 +0000</pubDate>
+            <sparkle:version>1.4.0.49</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.49</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.49</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.49
+
+### ⚡ Производительность и Стабильность
+- **Умная ротация отчетов об ошибках**: добавлено автоматическое ограничение до 50 локальных файлов аварийных дампов, что предотвращает накопление лишних данных и переполнение диска.
+- **Очистка отправленных логов**: локальные файлы отчетов об ошибках теперь автоматически удаляются с диска сразу после их успешной отправки в облачную систему телеметрии.
+
+### 🔒 Безопасность и Архитектура
+- **Конфиденциальность и Zero-PII**: подготовлена архитектурная спецификация для перехода на защищенную связку логин/пароль с аппаратным вторым фактором (2FA) по серийному номеру устройства в полном соответствии с требованиями 152-ФЗ.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.49/ActionBoard-mac-v1.4.0-beta.49.zip" sparkle:version="1.4.0.49" sparkle:shortVersionString="1.4.0-beta.49" sparkle:edSignature="hJ+LUDucU6Kd/xD1pYWUNMCPWDQnxeBE10iXFr8fvSWU1TX/YDCBY7/Q4yzmqfZ7SeZ6zZC4mEkLwYzLGcthCw==" length="74405893" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.49/ActionBoard_Setup_v1.4.0-beta.49.exe" sparkle:version="1.4.0-beta.49" length="57928063" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="3a12548645c37b52d8ceaeeb82d405e50d5b71cdbc017e5cbe518fe11bcbeb03" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.48</title>
             <pubDate>Sun, 30 Aug 2026 11:07:10 +0000</pubDate>
             <sparkle:version>1.4.0.48</sparkle:version>

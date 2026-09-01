@@ -6,6 +6,18 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.57</title>
+            <pubDate>Tue, 01 Sep 2026 16:27:13 +0000</pubDate>
+            <sparkle:version>1.4.0.57</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.57</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.57</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.57
+
+Тест</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.57/ActionBoard-mac-v1.4.0-beta.57.zip" sparkle:version="1.4.0.57" sparkle:shortVersionString="1.4.0-beta.57" sparkle:edSignature="LVaibtFhSqOs5ji4ch+CtmZdBqxrrYs8g7pBkIVgwa/GpMLC1otyVBVJR7QQL9aHBHqcbEw6UvULe11F1tV+Bw==" length="74499763" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.57/ActionBoard_Setup_v1.4.0-beta.57.exe" sparkle:version="1.4.0-beta.57" length="57961026" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="8ee37d99f6ebb629c3ee00dca9cb62783efca62d114d8a15d971a5dd639f12ba" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.56</title>
             <pubDate>Tue, 01 Sep 2026 15:45:40 +0000</pubDate>
             <sparkle:version>1.4.0.56</sparkle:version>

@@ -6,6 +6,23 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.56</title>
+            <pubDate>Tue, 01 Sep 2026 15:45:40 +0000</pubDate>
+            <sparkle:version>1.4.0.56</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.56</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.56</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.56
+
+### 🔒 Разрешения и Безопасность macOS
+- **Надёжная перевыдача разрешений**: Гарантирован предварительный сброс устаревших системных прав перед перезапуском приложения, что полностью предотвращает проблему «залипания» старых тумблеров в Системных настройках macOS.
+
+### ⚡ Интерфейс и Автообновление
+- **Бесшовный процесс обновления**: Устранено лишнее дублирующее системное окно при установке новых версий на macOS — обновление теперь проходит плавно через единый интерфейс.
+- **Плавный запуск приложения**: Проверка обновлений синхронизирована с окончанием стартового видеоролика, исключая перекрытие анимации всплывающими окнами при первом старте.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.56/ActionBoard-mac-v1.4.0-beta.56.zip" sparkle:version="1.4.0.56" sparkle:shortVersionString="1.4.0-beta.56" sparkle:edSignature="PlgZCQnPTInXnTqRe9kJ+jmf3VsAz0DEPgc8mLFRVG7ZE7wjdFL+SPoz5AeOQYeT7kCbqHHbmKcrKYes/NkiBQ==" length="74499761" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.56/ActionBoard_Setup_v1.4.0-beta.56.exe" sparkle:version="1.4.0-beta.56" length="57957990" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="dfcc60c987269b2d8240025f591e0c52bf4abc8c481a7112736a2c45fe03ed30" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.55</title>
             <pubDate>Mon, 31 Aug 2026 17:40:44 +0000</pubDate>
             <sparkle:version>1.4.0.55</sparkle:version>

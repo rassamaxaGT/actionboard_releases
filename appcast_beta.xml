@@ -6,6 +6,21 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.59</title>
+            <pubDate>Tue, 01 Sep 2026 19:02:17 +0000</pubDate>
+            <sparkle:version>1.4.0.59</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.59</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.59</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.58
+
+### ⚡ Стабильность и Обновление
+
+- **Устранено дублирующее системное окно обновлений** — теперь при наличии новой версии появляется только диалог ActionBoard, нативное окно Sparkle больше не всплывает
+- **Исправлена выдача разрешений после обновления** — macOS корректно запрашивает перевыдачу Accessibility без «фантомных» записей от старой версии</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.59/ActionBoard-mac-v1.4.0-beta.59.zip" sparkle:version="1.4.0.59" sparkle:shortVersionString="1.4.0-beta.59" sparkle:edSignature="dJMDBby/c+wgpweAd7J2O1yfshcPJaNoDQHEMQkqAztXpsgv4U+flpQzzEL53xzK9Y8W60vfPmE20dxC9Z2fCA==" length="74509306" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.59/ActionBoard_Setup_v1.4.0-beta.59.exe" sparkle:version="1.4.0-beta.59" length="57963004" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="1c06725e99dcaf24b5733c0329ce4e4f18e1fa8905c81086806f9502a4ebcf66" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.58</title>
             <pubDate>Tue, 01 Sep 2026 18:08:59 +0000</pubDate>
             <sparkle:version>1.4.0.58</sparkle:version>

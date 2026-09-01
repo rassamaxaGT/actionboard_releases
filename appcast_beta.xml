@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.60</title>
+            <pubDate>Tue, 01 Sep 2026 19:59:38 +0000</pubDate>
+            <sparkle:version>1.4.0.60</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.60</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.60</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.60
+
+### ⚡ Стабильность и Обновление
+
+- **Исправлен сброс разрешений при обновлении macOS** — при нажатии кнопки «Установить» приложение гарантированно отзывает старые разрешения TCC (по ID и путям бандла) до передачи управления установщику
+- **Устранено дублирующее нативное окно Sparkle** — на macOS обновление протекает полностью через единый интерфейс ActionBoard
+- **Синхронизированы версии сборщика для Windows и macOS** — исключены ошибки несовпадения файлов установщика при автоматической выкатке</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.60/ActionBoard-mac-v1.4.0-beta.60.zip" sparkle:version="1.4.0.60" sparkle:shortVersionString="1.4.0-beta.60" sparkle:edSignature="5d6HsTOQ2tftSwE0Hw4ULgQark4nFq+Hyo+Thu28kwEoemNIbYvj1/4w6FlEa/aUWTYGt4djaWX18H2YWWfSAQ==" length="74510759" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.60/ActionBoard_Setup_v1.4.0-beta.60.exe" sparkle:version="1.4.0-beta.60" length="57960600" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="545d5b1913d7a5587c6e169597a05c9314c1ea0c9d408abe3f66dc2ed5b7ee1c" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.59</title>
             <pubDate>Tue, 01 Sep 2026 19:44:19 +0000</pubDate>
             <sparkle:version>1.4.0.59</sparkle:version>

@@ -6,6 +6,16 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.58</title>
+            <pubDate>Tue, 01 Sep 2026 18:08:59 +0000</pubDate>
+            <sparkle:version>1.4.0.58</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.58</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.58</link>
+            <description>﻿chore: bump version to v1.4.0-beta.58 in pubspec.yaml and setup.iss</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.58/ActionBoard-mac-v1.4.0-beta.58.zip" sparkle:version="1.4.0.58" sparkle:shortVersionString="1.4.0-beta.58" sparkle:edSignature="nTFCRo4mBcdnM/z8nss5PwXjdKY14KNiTW2Gy9EXe6wpWb9qotKH8hCE5GRZL3V1WDvHk7HkxK4cJ1qwZAGvBg==" length="74509301" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.58/ActionBoard_Setup_v1.4.0-beta.58.exe" sparkle:version="1.4.0-beta.58" length="57958838" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="246c8745f43099e296c501f1c0b6266a105b57279734b23104f5f089e818a2ed" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.57</title>
             <pubDate>Tue, 01 Sep 2026 16:27:13 +0000</pubDate>
             <sparkle:version>1.4.0.57</sparkle:version>

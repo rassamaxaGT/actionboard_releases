@@ -6,6 +6,31 @@
         <description>Most recent updates to ActionBoard</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0</title>
+            <pubDate>Wed, 02 Sep 2026 17:14:44 +0000</pubDate>
+            <sparkle:version>1.4.0</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0
+
+### ⚡ Возможности и производительность
+
+- **Аппаратное исполнение без задержек**: все макросы и сочетания клавиш выполняются непосредственно на контроллере клавиатуры с нулевой задержкой отклика.
+- **Интеллектуальное автопереключение**: автоматическая смена активных профилей и раскладок при переключении между рабочими приложениями.
+
+### 🛠 Кастомизация и управление
+
+- **Интуитивный конфигуратор**: удобная визуальная настройка кнопок, энкодеров, макросов и индивидуальной RGB-подсветки для каждого слоя.
+- **Интерактивный оверлей**: быстрый вызов прозрачной подсказки по текущей раскладке прямо поверх любых запущенных программ.
+
+### 🔒 Безопасность и стабильность
+
+- **Аппаратная защита данных**: надёжное шифрование пользовательских конфигураций и привязка профилей к вашему физическому устройству.
+- **Бесшовные обновления**: встроенная система безопасного фонового обновления приложения для Windows и macOS.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0/ActionBoard-mac-v1.4.0.zip" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0" sparkle:edSignature="Duve9I/vxD2ctb1YuiIqnYamR7lqPPV3fPAkmA8kY4URpu0ymDxF/oizmIJDp8wqNr7AXwHEBHpq/sVvEkRUCA==" length="74512371" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0/ActionBoard_Setup_v1.4.0.exe" sparkle:version="1.4.0" length="57960473" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="50841afd6dbced65acc775e70132006d219641b10fa6a175a36b61b1232d8855" />
+        </item>
+        <item>
             <title>ActionBoard 1.3.152</title>
             <pubDate>Fri, 07 Aug 2026 10:42:38 +0000</pubDate>
             <sparkle:version>1.3.152</sparkle:version>

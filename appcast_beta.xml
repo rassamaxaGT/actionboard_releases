@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.64</title>
+            <pubDate>Wed, 02 Sep 2026 19:52:14 +0000</pubDate>
+            <sparkle:version>1.4.0.64</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.64</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.64</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.64
+
+### ⚡ Дистрибуция и обновления
+
+- **Официальный DMG-образ в фидах релизов**: в XML-ленту версий для стабильного и бета-каналов добавлена прямая ссылка на скачивание `.dmg` установщика для macOS с валидной цифровой подписью.
+- **Удобная установка на macOS**: теперь свежий образ диска всегда доступен напрямую из метаданных каждого релиза.
+
+### 🛠 Интерфейс и навигация
+
+- **Баннер готовности в Центре подсказок**: добавлен стилизованный предупреждающий баннер о наполнении базы знаний новым контентом.
+- **Улучшенная кнопка закрытия**: увеличен размер кнопки закрытия в хабе подсказок для более комфортного взаимодействия.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.64/ActionBoard-mac-v1.4.0-beta.64.dmg" sparkle:version="1.4.0.64" sparkle:shortVersionString="1.4.0-beta.64" sparkle:edSignature="HO571yagYmfZSgHA4sX1IQbi4QnYWNaZZlsldaN1vMMPwvud0wkNHWxlGn9xw+gnQPGzcyTEqHg9RuimzOmQBw==" length="79154580" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.64/ActionBoard-mac-v1.4.0-beta.64.zip" sparkle:version="1.4.0.64" sparkle:shortVersionString="1.4.0-beta.64" sparkle:edSignature="rQbP5ZN1HQ8RSjh4F2mn3rDUt3qTTo/igWZ5c294Oq8NyHpr1Kcz7R+R5/TtOzWd8lxAVIamRvgsgqdqlp+nBQ==" length="74528040" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.64/ActionBoard_Setup_v1.4.0-beta.64.exe" sparkle:version="1.4.0-beta.64" length="57969009" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="f511ede8fc83eeca6692c469975159dc8162288d829b08b5b6fe1876a3cbaf7d" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.63</title>
             <pubDate>Wed, 02 Sep 2026 18:55:40 +0000</pubDate>
             <sparkle:version>1.4.0.63</sparkle:version>

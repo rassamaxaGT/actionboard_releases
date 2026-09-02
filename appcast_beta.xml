@@ -6,6 +6,20 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.62</title>
+            <pubDate>Wed, 02 Sep 2026 16:48:07 +0000</pubDate>
+            <sparkle:version>1.4.0.62</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.62</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.62</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.62
+
+### ⚡ Стабильность и процесс обновления
+- **Информативный процесс обновления на macOS**: окно приложения теперь отображает понятный статус и фазы загрузки, информируя о ходе установки без внезапного исчезновения окна.
+- **Фоновая установка без прерывания работы**: добавлена возможность свернуть статус обновления кнопкой «Понятно» и продолжить использование ActionBoard до автоматического перезапуска.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.62/ActionBoard-mac-v1.4.0-beta.62.zip" sparkle:version="1.4.0.62" sparkle:shortVersionString="1.4.0-beta.62" sparkle:edSignature="LFO0bKo1+RyIIRq8GeT1pV1vKsizJfNR97ztzqVqHv1iypyfUF+CQCZzlIRYpDkhOPt6aqDEBT+l9aMhI4IGDg==" length="74512403" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.62/ActionBoard_Setup_v1.4.0-beta.62.exe" sparkle:version="1.4.0-beta.62" length="57960849" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="a216e5f8901410967c2b1b31b5e328c20076480f32e97adca3a1a760444bfdcc" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.61</title>
             <pubDate>Tue, 01 Sep 2026 20:21:15 +0000</pubDate>
             <sparkle:version>1.4.0.61</sparkle:version>

@@ -27,6 +27,7 @@
 
 - **Аппаратная защита данных**: надёжное шифрование пользовательских конфигураций и привязка профилей к вашему физическому устройству.
 - **Бесшовные обновления**: встроенная система безопасного фонового обновления приложения для Windows и macOS.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0/ActionBoard-mac-v1.4.0.dmg" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0" sparkle:edSignature="Duve9I/vxD2ctb1YuiIqnYamR7lqPPV3fPAkmA8kY4URpu0ymDxF/oizmIJDp8wqNr7AXwHEBHpq/sVvEkRUCA==" length="74512371" type="application/octet-stream" sparkle:os="macos" />
             <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0/ActionBoard-mac-v1.4.0.zip" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0" sparkle:edSignature="Duve9I/vxD2ctb1YuiIqnYamR7lqPPV3fPAkmA8kY4URpu0ymDxF/oizmIJDp8wqNr7AXwHEBHpq/sVvEkRUCA==" length="74512371" type="application/octet-stream" sparkle:os="macos" />
             <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0/ActionBoard_Setup_v1.4.0.exe" sparkle:version="1.4.0" length="57960473" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="50841afd6dbced65acc775e70132006d219641b10fa6a175a36b61b1232d8855" />
         </item>

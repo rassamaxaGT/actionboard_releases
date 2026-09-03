@@ -7,24 +7,27 @@
         <language>en</language>
         <item>
             <title>ActionBoard 1.4.0-beta.64</title>
-            <pubDate>Wed, 02 Sep 2026 19:52:14 +0000</pubDate>
+            <pubDate>Thu, 03 Sep 2026 17:23:16 +0000</pubDate>
             <sparkle:version>1.4.0.64</sparkle:version>
             <sparkle:shortVersionString>1.4.0-beta.64</sparkle:shortVersionString>
             <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.64</link>
-            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.64
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.65
 
-### ⚡ Дистрибуция и обновления
+### 🛍 Маркетплейс — Демонстрация раскладки
 
-- **Официальный DMG-образ в фидах релизов**: в XML-ленту версий для стабильного и бета-каналов добавлена прямая ссылка на скачивание `.dmg` установщика для macOS с валидной цифровой подписью.
-- **Удобная установка на macOS**: теперь свежий образ диска всегда доступен напрямую из метаданных каждого релиза.
+- **Кнопка «Раскладка»** теперь доступна на каждой карточке каталога и в баннере рекомендаций
+- При нажатии карточка **плавно разворачивается почти во весь экран** и показывает физический мокап ActionBoard со всеми клавишами, шорткатами и энкодером
+- **Кнопка покупки** теперь доступна прямо внутри открытой раскладки — не нужно закрывать превью
+- Закрыть раскладку можно кнопкой «Свернуть», кликом по затемнённому фону или клавишей **Esc**
+- Кнопки «Купить» и «Раскладка» поменяны местами — акцент на главном действии
 
-### 🛠 Интерфейс и навигация
+### ⚡ Стабильность
 
-- **Баннер готовности в Центре подсказок**: добавлен стилизованный предупреждающий баннер о наполнении базы знаний новым контентом.
-- **Улучшенная кнопка закрытия**: увеличен размер кнопки закрытия в хабе подсказок для более комфортного взаимодействия.</description>
-            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.64/ActionBoard-mac-v1.4.0-beta.64.dmg" sparkle:version="1.4.0.64" sparkle:shortVersionString="1.4.0-beta.64" sparkle:edSignature="HO571yagYmfZSgHA4sX1IQbi4QnYWNaZZlsldaN1vMMPwvud0wkNHWxlGn9xw+gnQPGzcyTEqHg9RuimzOmQBw==" length="79154580" type="application/octet-stream" sparkle:os="macos" />
-            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.64/ActionBoard-mac-v1.4.0-beta.64.zip" sparkle:version="1.4.0.64" sparkle:shortVersionString="1.4.0-beta.64" sparkle:edSignature="rQbP5ZN1HQ8RSjh4F2mn3rDUt3qTTo/igWZ5c294Oq8NyHpr1Kcz7R+R5/TtOzWd8lxAVIamRvgsgqdqlp+nBQ==" length="74528040" type="application/octet-stream" sparkle:os="macos" />
-            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.64/ActionBoard_Setup_v1.4.0-beta.64.exe" sparkle:version="1.4.0-beta.64" length="57969009" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="f511ede8fc83eeca6692c469975159dc8162288d829b08b5b6fe1876a3cbaf7d" />
+- **Исправлен критический крэш** при открытии маркетплейса: отсутствующий ассет `logo.svg` (28 отчётов) — заменён на корректный `ab_logo.svg`
+- Устранено наложение кнопок закрытия диалога и раскладки в правом верхнем углу</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.64/ActionBoard-mac-v1.4.0-beta.64.dmg" sparkle:version="1.4.0.64" sparkle:shortVersionString="1.4.0-beta.64" sparkle:edSignature="AJnn6DHEIWnnuijNRZ1MvTpjZRx3EEdaj67LWX+irimxoDOn4mr/But/L/VTgeZegkFLb+VlIIEe1t0mt1MMCw==" length="79669284" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.64/ActionBoard-mac-v1.4.0-beta.64.zip" sparkle:version="1.4.0.64" sparkle:shortVersionString="1.4.0-beta.64" sparkle:edSignature="imMvLp2Zv+njAFqQi/uZOuFprpLRAwe0Cok/vUtd87ko7KrzDBN0KruGT2Ntz4wzoIiZZEsmS2nuEkQe/iJKAg==" length="74624571" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.64/ActionBoard_Setup_v1.4.0-beta.64.exe" sparkle:version="1.4.0-beta.64" length="57999903" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="be83eb387493575b3e423d7e5b1c0509f4644f8b75bf7ae4cd959c88aeb6a751" />
         </item>
         <item>
             <title>ActionBoard 1.4.0-beta.63</title>

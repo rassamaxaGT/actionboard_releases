@@ -6,6 +6,30 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.0-beta.65</title>
+            <pubDate>Thu, 03 Sep 2026 17:34:54 +0000</pubDate>
+            <sparkle:version>1.4.0.65</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.65</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.0-beta.65</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.0-beta.65
+
+### 🛍 Маркетплейс — Демонстрация раскладки
+
+- **Кнопка «Раскладка»** теперь доступна на каждой карточке каталога и в баннере рекомендаций
+- При нажатии карточка **плавно разворачивается почти во весь экран** и показывает физический мокап ActionBoard со всеми клавишами, шорткатами и энкодером
+- **Кнопка покупки** теперь доступна прямо внутри открытой раскладки — не нужно закрывать превью
+- Закрыть раскладку можно кнопкой «Свернуть», кликом по затемнённому фону или клавишей **Esc**
+- Кнопки «Купить» и «Раскладка» поменяны местами — акцент на главном действии
+
+### ⚡ Стабильность
+
+- **Исправлен критический крэш** при открытии маркетплейса: отсутствующий ассет `logo.svg` (28 отчётов) — заменён на корректный `ab_logo.svg`
+- Устранено наложение кнопок закрытия диалога и раскладки в правом верхнем углу</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.65/ActionBoard-mac-v1.4.0-beta.65.dmg" sparkle:version="1.4.0.65" sparkle:shortVersionString="1.4.0-beta.65" sparkle:edSignature="d5x9BHbOGNR3BBs5mUPtAfpJzhXnsf/K3h0pt18z0wvpt13Iz8/ZKpAMj7rYJXRlc2Dleb75GeESvMNJEqoCDA==" length="79669293" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.65/ActionBoard-mac-v1.4.0-beta.65.zip" sparkle:version="1.4.0.65" sparkle:shortVersionString="1.4.0-beta.65" sparkle:edSignature="L/63+oymxlx2c2aWzUnOJm3dkIcQ2aKDIUNaXlqt+hVq+qWXSyjXaj1qoJZDwQ1NcjBFs0uAZw/n4hbHDqLNCw==" length="74624574" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.0-beta.65/ActionBoard_Setup_v1.4.0-beta.65.exe" sparkle:version="1.4.0-beta.65" length="57999244" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="6504034b3d13a768dbc547906a857464eec797166b104b91476ba5f76be0d7a2" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0-beta.64</title>
             <pubDate>Thu, 03 Sep 2026 17:23:16 +0000</pubDate>
             <sparkle:version>1.4.0.64</sparkle:version>

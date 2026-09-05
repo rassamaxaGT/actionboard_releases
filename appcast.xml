@@ -6,6 +6,25 @@
         <description>Most recent updates to ActionBoard</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.2</title>
+            <pubDate>Sat, 05 Sep 2026 20:23:09 +0000</pubDate>
+            <sparkle:version>1.4.2</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.2</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.2
+
+### 🛠 Аппаратное управление клавишами
+- **Аппаратное удержание шорткатов (HOLD)**: при зажатии физической кнопки на макропаде комбинация клавиш теперь удерживается непрерывно до момента отпускания вместо одиночного срабатывания.
+- **Оптимизация памяти устройства**: шорткаты и одиночные модификаторы транслируются напрямую в контроллер, освобождая слоты памяти для макросов.
+
+### ⚡ Стабильность и точность шорткатов
+- **Полная поддержка раскладок и спецклавиш**: добавлены стрелки, навигация (Home, End, PageUp/Down), цифровой блок (Numpad) и символы пунктуации в аппаратных комбинациях.
+- **Совместимость с русской раскладкой**: шорткаты корректно распознаются и передаются независимо от текущего языка ввода в системе.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.2/ActionBoard-mac-v1.4.2.dmg" sparkle:version="1.4.2" sparkle:shortVersionString="1.4.2" sparkle:edSignature="QcgIqve/OdOqzY6EdIL9i2cosWzck1IINHIi8XTYVwipWUqDwo2fwL7wgb63uRpaU74BB5I81P/18MVGpH6vBw==" length="80473003" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.2/ActionBoard-mac-v1.4.2.zip" sparkle:version="1.4.2" sparkle:shortVersionString="1.4.2" sparkle:edSignature="GY8JKmn5QW7tYD+W280rjlAmawJLAaKFbE2AtHPnYNygdVqHaFQI5nBNzw64vOCLp+DpO2lJnZDfeus9GjpiBw==" length="74666142" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.2/ActionBoard_Setup_v1.4.2.exe" sparkle:version="1.4.2" length="58010424" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="ae981cbb2c9b66eb66c7bc721a2f78c79e49da636dc0b604d54bea01071a9ebd" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.1</title>
             <pubDate>Sat, 05 Sep 2026 10:09:16 +0000</pubDate>
             <sparkle:version>1.4.1</sparkle:version>

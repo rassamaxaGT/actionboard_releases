@@ -6,6 +6,29 @@
         <description>Most recent updates to ActionBoard</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.1</title>
+            <pubDate>Sat, 05 Sep 2026 10:09:16 +0000</pubDate>
+            <sparkle:version>1.4.1</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.1</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.1
+
+### ⚡ Новый интерфейс Маркетплейса
+- **Интерактивный просмотр раскладки**: изучайте назначение всех 9 клавиш и энкодера на реалистичном визуальном мокапе ActionBoard прямо перед установкой.
+- **Группировка по приложениям**: каталог получил удобный режим структурирования по программам с горизонтальными лентами для Blender, Figma, Photoshop, DaVinci Resolve и другого софта.
+- **Персональные рекомендации**: автоматическая умная подборка готовых пресетов под софт, который вы используете прямо сейчас.
+
+### 🔒 Безопасность и аккаунты
+- **Аппаратная двухфакторная защита**: безопасный сброс пароля по связке «Логин + физическое подключение клавиатуры ActionBoard» без передачи почты и персональных данных.
+
+### 🛠 Стабильность и система
+- **Повышенная надёжность интерфейса**: устранены ошибки при публикации пользовательских конфигураций, переполнения карточек и наложения элементов управления.
+- **Оптимизация обновлений**: улучшена фоновая проверка новых версий и добавлена поддержка официальных DMG-образов для macOS.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.1/ActionBoard-mac-v1.4.1.dmg" sparkle:version="1.4.1" sparkle:shortVersionString="1.4.1" sparkle:edSignature="JGMdlIyVnoGlnFvHkDoKxbMuHLW/3cMwM/nd8OFtjIbxaDs4rMHPTVojWqj3QxyL1yJXFsrMLxjbF/X1AIBVBA==" length="79534672" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.1/ActionBoard-mac-v1.4.1.zip" sparkle:version="1.4.1" sparkle:shortVersionString="1.4.1" sparkle:edSignature="M5e0Z5Revs1SMoyNV89A2T1qfKS800o0oJXcl30oNpbPupcE+ftIB5kuyCGVUt9UyStziTqp1gAVz4E1cLguDA==" length="74648588" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.1/ActionBoard_Setup_v1.4.1.exe" sparkle:version="1.4.1" length="58004509" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="3efe57dc39730924a39a42637d09a7b1f6debdf0c0c51e25354c235299a694b7" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.0</title>
             <pubDate>Wed, 02 Sep 2026 17:14:44 +0000</pubDate>
             <sparkle:version>1.4.0</sparkle:version>

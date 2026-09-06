@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.2</title>
+            <pubDate>Sun, 06 Sep 2026 18:29:43 +0000</pubDate>
+            <sparkle:version>1.4.3.2</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.2</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.2</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.1
+
+### ⚡ [Рекомендации пресетов и Профили]
+- **Умные рекомендации под программы**: панель макросов автоматически подбирает и предлагает готовые пресеты из каталога под софт открытого профиля.
+- **Информативная статистика вместо описания**: на карточке пресета теперь выводятся точные данные о количестве слоёв и суммарном числе макросов с правильным склонением.
+- **Адаптивные действия и видеообзоры**: для бесплатных пресетов отображается кнопка «Установить пресет», а кнопка видеообзора показывается только при наличии видеоматериалов.
+- **Информативные бейджи раскладки**: наглядно показывают ключевые действия и число шагов для каждого макроса.
+
+### 🛠 [Настройки и Производительность]
+- **Управление рекомендациями**: добавлен переключатель для полного отключения блока рекомендаций в настройках.
+- **Оптимизация ресурсов**: при отключении рекомендаций полностью останавливаются фоновые сетевые запросы и нагруженные расчеты сопоставления процессов.
+- **Облачная синхронизация**: состояние настройки рекомендаций сохраняется в защищенном хранилище и синхронизируется между вашими устройствами.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.2/ActionBoard-mac-v1.4.3-beta.2.dmg" sparkle:version="1.4.3.2" sparkle:shortVersionString="1.4.3-beta.2" sparkle:edSignature="Xeh3yY2Jeqz3Kya5Dw68pvWb6QVnHOjBDjsAKFRTQPBa2d27XsAyfpptxWRgLwFWWE7pxLGii+4CB0gu3MaMDg==" length="79658656" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.2/ActionBoard-mac-v1.4.3-beta.2.zip" sparkle:version="1.4.3.2" sparkle:shortVersionString="1.4.3-beta.2" sparkle:edSignature="ze6WNF5tcjW2UzmoChmhOYACWBMl+zA/2H+TRTYcyYHrx4myrM0FbQQ/u6TmPDHMZcDNATbslOevIGsMJLx1Bg==" length="74676136" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.2/ActionBoard_Setup_v1.4.3-beta.2.exe" sparkle:version="1.4.3-beta.2" length="58018970" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="002da445589e16a4ad6dff981eaafcc931f64f9f6e574ba3801d8798d4bf58fd" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.1</title>
             <pubDate>Sun, 06 Sep 2026 16:27:54 +0000</pubDate>
             <sparkle:version>1.4.3.1</sparkle:version>

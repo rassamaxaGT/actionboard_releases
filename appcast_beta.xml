@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.6</title>
+            <pubDate>Wed, 09 Sep 2026 19:44:05 +0000</pubDate>
+            <sparkle:version>1.4.3.6</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.6</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.6</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.6
+
+### ⚡ [Стабильность и Сборка]
+
+- **Тестовая сборка**: проверка пайплайна CI/CD и корректности DMG-инсталлятора.
+- **Оформление DMG**: исправлено отображение кастомного фона в установщике macOS.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.6/ActionBoard-mac-v1.4.3-beta.6.dmg" sparkle:version="1.4.3.6" sparkle:shortVersionString="1.4.3-beta.6" sparkle:edSignature="PC5NXKiY/lfUE8rfv0SKVrmNSGzFXb9ZV6qk0fW81ZomtVjgUPptm2zk394TQfJtJXAPxYqfomnkxIE/QUgvCg==" length="74564996" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.6/ActionBoard-mac-v1.4.3-beta.6.zip" sparkle:version="1.4.3.6" sparkle:shortVersionString="1.4.3-beta.6" sparkle:edSignature="T5G/x2uFry8GzRuJHCMRjlSpVjJHh2QfDu7URwqNcjxjssq5Gi6lsOXoQLcUKSxAaNh4W5o5L/Slu2MW/XeFBw==" length="74676129" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.6/ActionBoard_Setup_v1.4.3-beta.6.exe" sparkle:version="1.4.3-beta.6" length="58018317" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="d0696c4a361b21c0f86754d06d7de67b6acf9a05bd82213962777c02f9d27834" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.5</title>
             <pubDate>Wed, 09 Sep 2026 17:19:41 +0000</pubDate>
             <sparkle:version>1.4.3.5</sparkle:version>

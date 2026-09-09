@@ -6,6 +6,19 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.4</title>
+            <pubDate>Wed, 09 Sep 2026 16:51:17 +0000</pubDate>
+            <sparkle:version>1.4.3.4</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.4</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.4</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.4
+
+тест сборки</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.4/ActionBoard-mac-v1.4.3-beta.4.dmg" sparkle:version="1.4.3.4" sparkle:shortVersionString="1.4.3-beta.4" sparkle:edSignature="aUBLBsnM30preuj4Qc42t7dXLGifuMkNT35QqMPJ9pfje9/5dA9hTZKLye9eVr8Ir0xBzZU7v/T8umTQnyCxCw==" length="74564896" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.4/ActionBoard-mac-v1.4.3-beta.4.zip" sparkle:version="1.4.3.4" sparkle:shortVersionString="1.4.3-beta.4" sparkle:edSignature="Rkoh3oyR68Xp4p8TrHeOJdH6qcxbevhhDfb11UYAUnoSwgO3/JrV0v0YYKJ6BKRdcPVvkOJOOSgj/nkK9nQyBg==" length="74676130" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.4/ActionBoard_Setup_v1.4.3-beta.4.exe" sparkle:version="1.4.3-beta.4" length="58020143" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="131b4cf00f818a60505070843cea9cadeb04abe31494fb5d7cecb2845b5aa6b2" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.3</title>
             <pubDate>Wed, 09 Sep 2026 16:23:07 +0000</pubDate>
             <sparkle:version>1.4.3.3</sparkle:version>

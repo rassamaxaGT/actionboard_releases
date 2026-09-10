@@ -6,6 +6,29 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.13</title>
+            <pubDate>Thu, 10 Sep 2026 17:46:28 +0000</pubDate>
+            <sparkle:version>1.4.3.13</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.13</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.13</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.13
+
+### ⚡ Производительность и стабильность
+
+- **Мгновенное открытие Хаба подсказок**: Устранены задержки и микрофризы интерфейса при открытии окна подсказок за счёт разнесения загрузки обучающего видеоролика в фоновый поток и кэширования медиафайла.
+- **Исправление сбоя при движении мыши в окне подсказок**: Устранено редкое падение обработчика жестов Flutter (`RenderShiftedBox`) при наведении курсора на разделители и баннеры внутри Хаба.
+- **Быстрая отправка диагностики разработчикам**: В настройках приложения появилась кнопка для мгновенной отправки отчёта об ошибке без необходимости вручную искать файлы логов.
+- **Автоматический контекст проблемы**: Вместе с логами теперь передаётся снимок раскладки текущего слоя и выбранная программа, что ускоряет поиск и исправление неполадок.
+- **Гарантированная доставка в оффлайне**: При отсутствии интернета отчёт сохраняется на устройстве и отправляется автоматически при восстановлении связи.
+
+### 🛠 Макросы и интерфейс
+
+- **Единый дизайн предупреждений при перезаписи**: Окно подтверждения перезаписи макроса, привязанного к нескольким слоям, обновлено в фирменном стеклянном стиле с наглядными бейджами затронутых слоёв и защитой от случайного сброса.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.13/ActionBoard-mac-v1.4.3-beta.13.dmg" sparkle:version="1.4.3.13" sparkle:shortVersionString="1.4.3-beta.13" sparkle:edSignature="JBilqAYuk4nPINmK4QwVIbYvp73mEv8U1uLe8/tiFy7u346W/lHaaG3SQwvRH/bnTSPNvPsao8S+PhwbC4agBw==" length="76538149" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.13/ActionBoard-mac-v1.4.3-beta.13.zip" sparkle:version="1.4.3.13" sparkle:shortVersionString="1.4.3-beta.13" sparkle:edSignature="yIGuxgRvwLjF6S7Lfm77BLrQ9Yiq73QZ3p996ulR/zcZX3vs6PpoL51sruYe/3B2pcFsyyRtDNCTWaSd7gxFBQ==" length="74720006" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.13/ActionBoard_Setup_v1.4.3-beta.13.exe" sparkle:version="1.4.3-beta.13" length="58030322" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="9daa4860e82f0c0b6658daff8401449c950b6f61b562214ede0aafc43cf590da" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.12</title>
             <pubDate>Thu, 10 Sep 2026 14:35:26 +0000</pubDate>
             <sparkle:version>1.4.3.12</sparkle:version>

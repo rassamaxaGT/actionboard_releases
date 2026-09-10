@@ -6,6 +6,23 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.12</title>
+            <pubDate>Thu, 10 Sep 2026 14:35:26 +0000</pubDate>
+            <sparkle:version>1.4.3.12</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.12</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.12</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.12
+
+### ⚡ Диагностика и стабильность
+- **Быстрая отправка диагностики разработчикам**: В настройках приложения появилась кнопка для мгновенной отправки отчёта об ошибке без необходимости вручную искать файлы логов.
+- **Автоматический контекст проблемы**: Вместе с логами теперь передаётся снимок раскладки текущего слоя и выбранная программа, что ускоряет поиск и исправление неполадок.
+- **Удобное поле описания**: Добавлено поле ввода с подсказками, помогающее подробно рассказать о возникшей проблеме.
+- **Гарантированная доставка в оффлайне**: При отсутствии интернета отчёт сохраняется на устройстве и отправляется автоматически при восстановлении связи.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.12/ActionBoard-mac-v1.4.3-beta.12.dmg" sparkle:version="1.4.3.12" sparkle:shortVersionString="1.4.3-beta.12" sparkle:edSignature="lB66exdMjtJQQNQoCX0KeMUAopVpBkd7o3RYfAagQnWMpwhtuTcufp0eSv7VQQwIACkkkb10M7FszCfG4r11Aw==" length="76521886" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.12/ActionBoard-mac-v1.4.3-beta.12.zip" sparkle:version="1.4.3.12" sparkle:shortVersionString="1.4.3-beta.12" sparkle:edSignature="xS+Dacn7R0WJxjHDcQQY5jQPzmpqJpsTZg1ITOFDpJlCFw41adJBMGYyREkgsT4mAhzvuNLXWt9V0PzUkJ2YCQ==" length="74705343" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.12/ActionBoard_Setup_v1.4.3-beta.12.exe" sparkle:version="1.4.3-beta.12" length="58023131" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="7a87e6f6068a2506ea3f996bc190e4147ff6f94db1a6ea0bb69459c32d0f2f67" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.8</title>
             <pubDate>Wed, 09 Sep 2026 20:29:58 +0000</pubDate>
             <sparkle:version>1.4.3.8</sparkle:version>

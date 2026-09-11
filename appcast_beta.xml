@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.15</title>
+            <pubDate>Fri, 11 Sep 2026 14:27:19 +0000</pubDate>
+            <sparkle:version>1.4.3.15</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.15</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.15</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.15
+
+### ⚡ Подключение и Стабильность
+
+- **Стабильная работа резервного сервера в релизе**: исправлена доставка адреса прокси в релизных сборках, благодаря чему Маркетплейс и авторизация гарантированно работают у пользователей из РФ без VPN.
+- **Встроенный защитный маршрут**: резервный шлюз теперь доступен автономно «из коробки», обеспечивая бесперебойную связь даже при сбоях конфигурационных файлов.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.15/ActionBoard-mac-v1.4.3-beta.15.dmg" sparkle:version="1.4.3.15" sparkle:shortVersionString="1.4.3-beta.15" sparkle:edSignature="ne1EKpbllilUXoGz9hd0BBbSO3J2W/LTKapa6ALn5U8UMNbuBaye9rFK4tf6Uj/ZkP+TRecj7QvdnKeFucF3Bw==" length="76544738" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.15/ActionBoard-mac-v1.4.3-beta.15.zip" sparkle:version="1.4.3.15" sparkle:shortVersionString="1.4.3-beta.15" sparkle:edSignature="vAGSl9sNpk2o9gqho4XpC+5shc8afuapbfXW2Bf8dFIFKCNLLFLb6HjS9+KZprpX4iJlX1uhO23xhN9RTX4ZAg==" length="74743965" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.15/ActionBoard_Setup_v1.4.3-beta.15.exe" sparkle:version="1.4.3-beta.15" length="58038962" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="6bb57b664abb1876e80c7b3c231d8aa142cddc56ee11843b2b1c6cf1fc3ae4df" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.14</title>
             <pubDate>Fri, 11 Sep 2026 13:49:38 +0000</pubDate>
             <sparkle:version>1.4.3.14</sparkle:version>

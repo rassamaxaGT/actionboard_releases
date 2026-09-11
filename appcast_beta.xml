@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.14</title>
+            <pubDate>Fri, 11 Sep 2026 13:49:38 +0000</pubDate>
+            <sparkle:version>1.4.3.14</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.14</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.14</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.14
+
+### ⚡ Подключение и Стабильность
+
+- **Бесперебойный доступ к Маркетплейсу**: реализован автоматический резервный сервер (Edge Proxy) для пользователей из РФ, устраняющий сетевые блокировки и пустую витрину без использования VPN.
+- **Интеллектуальная проверка связи**: при каждом запуске приложение проверяет прямое соединение и при необходимости мгновенно переключается на резервный маршрут.
+- **Всегда актуальная витрина**: данные каталога пресетов запрашиваются напрямую в реальном времени, всегда на 100% соответствуя актуальному состоянию сервера.
+- **Прозрачное автовосстановление**: сбои сетевых запросов больше не требуют ручных действий и автоматически обрабатываются в фоновом режиме.
+
+### ⌨️ Макросы и Запись
+
+- **Автовыделение названия макроса**: при первой записи комбинации после нажатия «Остановить запись» текстовое поле с названием теперь автоматически активируется и выделяется, позволяя сразу ввести имя без лишних кликов.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.14/ActionBoard-mac-v1.4.3-beta.14.dmg" sparkle:version="1.4.3.14" sparkle:shortVersionString="1.4.3-beta.14" sparkle:edSignature="xdg7Q59qT2VRSUXulpaeNck5+41rVThT+6apN2rCcL6oYDwyWRfIwbAch8P9ivUxbnGGVgYSIVjNjuRYqxR9Aw==" length="76544504" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.14/ActionBoard-mac-v1.4.3-beta.14.zip" sparkle:version="1.4.3.14" sparkle:shortVersionString="1.4.3-beta.14" sparkle:edSignature="Z3z8h513Vv3AXNCx69ppN9f01R6Xs98Wn27Dwl4r11KXcV1kX0W/KoABqFxzkqpGVzzFbzLvNbTObtTVRK/mDw==" length="74743812" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.14/ActionBoard_Setup_v1.4.3-beta.14.exe" sparkle:version="1.4.3-beta.14" length="58039280" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c76191ddff9d814a9b3029354c8d35bf7fd4b71e0b499758d259dbb6630b2658" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.13</title>
             <pubDate>Thu, 10 Sep 2026 17:46:28 +0000</pubDate>
             <sparkle:version>1.4.3.13</sparkle:version>

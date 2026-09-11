@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.16</title>
+            <pubDate>Fri, 11 Sep 2026 15:35:41 +0000</pubDate>
+            <sparkle:version>1.4.3.16</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.16</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.16</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.16
+
+### ⚡ Установка и Стабильность macOS
+
+- **Корректное отображение установщика DMG**: обновлен генератор образов для macOS — фирменный фон с инструкцией и правильное расположение иконок теперь стабильно отображаются на всех версиях системы, включая macOS Sonoma и Sequoia.
+- **Поддержка экранов Retina и стандартных мониторов**: фон установщика оптимизирован под различные разрешения экранов с точной калибровкой плотности пикселей.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.16/ActionBoard-mac-v1.4.3-beta.16.dmg" sparkle:version="1.4.3.16" sparkle:shortVersionString="1.4.3-beta.16" sparkle:edSignature="c2tZbBolP6Mi0vJMaE0An7ElX2DfvjRecHOum4ji1Dx7neioQHFz715lgsbJZSkClBN13R0PsWm5w9WH2HMJCQ==" length="77929292" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.16/ActionBoard-mac-v1.4.3-beta.16.zip" sparkle:version="1.4.3.16" sparkle:shortVersionString="1.4.3-beta.16" sparkle:edSignature="1yGP5bcODMLoFflTQgIXa9mtkoTy6QbBoZvi2iIZ3BCfA5iqxtMBcbHmnN/2YXuP3qH/m9Pm/g7mK2kb9j6PAg==" length="74743968" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.16/ActionBoard_Setup_v1.4.3-beta.16.exe" sparkle:version="1.4.3-beta.16" length="58038088" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="fd927dbfcdc9627cd3c1b24fcecd473cdd5418fd99fce11a715c75e6eb6037fe" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.15</title>
             <pubDate>Fri, 11 Sep 2026 14:27:19 +0000</pubDate>
             <sparkle:version>1.4.3.15</sparkle:version>

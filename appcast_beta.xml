@@ -6,6 +6,25 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.18</title>
+            <pubDate>Tue, 15 Sep 2026 16:54:08 +0000</pubDate>
+            <sparkle:version>1.4.3.18</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.18</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.18</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.18
+
+### ⚡ Стабильность и Интерфейс
+
+- **Исправлена прозрачность оверлея**: решена проблема, при которой скрытый оверлей мог перехватывать клики мыши и блокировать экран в Windows.
+- **Оптимизация фоновых процессов**: устранены ложные фоновые циклы обновления оверлея при воспроизведении медиа или переключении слотов.
+- **Повышена отзывчивость ввода**: нативное ядро теперь жестко контролирует кликабельность окон без конфликтов с графическим интерфейсом.
+
+### 🔒 Учетная запись и Авторизация
+
+- **Улучшен процесс входа**: повышена надежность диалогов авторизации и интеграции профиля с Маркетплейсом пресетов.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.18/ActionBoard_Setup_v1.4.3-beta.18.exe" sparkle:version="1.4.3-beta.18" length="58054025" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="686ec8e87adad67840dd051af62350fbe254b19b9a444930c60ac6a6288bbef7" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.17</title>
             <pubDate>Sat, 12 Sep 2026 10:24:35 +0000</pubDate>
             <sparkle:version>1.4.3.17</sparkle:version>

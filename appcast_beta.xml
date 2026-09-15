@@ -6,6 +6,21 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.20</title>
+            <pubDate>Tue, 15 Sep 2026 18:13:48 +0000</pubDate>
+            <sparkle:version>1.4.3.20</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.20</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.20</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.20
+
+### ⚡ Оверлей и Интерфейс
+
+- **Оптимизация оверлея**: удален медиаплеер из оверлейного экрана, что сделало отображение раскладки более компактным, чистым и сфокусированным на активных клавишах и слоях.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.20/ActionBoard-mac-v1.4.3-beta.20.dmg" sparkle:version="1.4.3.20" sparkle:shortVersionString="1.4.3-beta.20" sparkle:edSignature="83pTAjwI09oeF6leawqEuJ6zhk16fkmnFzh6TgCZQ5/3zMyVQO5KDNLJDQzqjo+G1DjQ20Xp36VdQuoUW5/VBg==" length="77968233" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.20/ActionBoard-mac-v1.4.3-beta.20.zip" sparkle:version="1.4.3.20" sparkle:shortVersionString="1.4.3-beta.20" sparkle:edSignature="fGoglZoSmCsnQZYbQaNABbzNfnj12PfPHn8YPKbCGbQZ3BMCDLccRznBy3i10qIsCZX5vCFtEpm7FJNc1HqQBA==" length="74769829" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.20/ActionBoard_Setup_v1.4.3-beta.20.exe" sparkle:version="1.4.3-beta.20" length="58049649" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="3348fb5eba2737be5f8e7370eae4d82e90b9dc0768345f4efa84fd06f41fdac4" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.19</title>
             <pubDate>Tue, 15 Sep 2026 17:39:00 +0000</pubDate>
             <sparkle:version>1.4.3.19</sparkle:version>

@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.3-beta.19</title>
+            <pubDate>Tue, 15 Sep 2026 17:39:00 +0000</pubDate>
+            <sparkle:version>1.4.3.19</sparkle:version>
+            <sparkle:shortVersionString>1.4.3-beta.19</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.3-beta.19</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.3-beta.19
+
+### ⚡ Оверлей и Взаимодействие (Windows)
+
+- **Перманентная прозрачность для кликов**: исправлена блокировка курсора мыши при открытом оверлее — теперь все нажатия и события мыши беспрепятственно проходят сквозь интерфейс оверлея в подлежащие окна.
+- **Стабильность аппаратного рендеринга**: оптимизированы параметры композитинга DWM и альфа-прозрачности для предотвращения случайного перехвата фокуса ввода.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.19/ActionBoard-mac-v1.4.3-beta.19.dmg" sparkle:version="1.4.3.19" sparkle:shortVersionString="1.4.3-beta.19" sparkle:edSignature="/EC4Xppge1tbrNnNk07vbztgnadh8NBKDRtXUjLQkQndnTENRnEm2gqoyvdTPwQ5VLR9+/eVTmudA/fw64tHDg==" length="77983805" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.19/ActionBoard-mac-v1.4.3-beta.19.zip" sparkle:version="1.4.3.19" sparkle:shortVersionString="1.4.3-beta.19" sparkle:edSignature="KB6JfV5BN60unIcvaLiDm8zoe3qiEz9lIT1M6qLHjAeGZC3RsDxT/RBHAxSEwFPfjZ0aXkua4N0V9dLPMAmeDw==" length="74791850" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.3-beta.19/ActionBoard_Setup_v1.4.3-beta.19.exe" sparkle:version="1.4.3-beta.19" length="58056264" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="aa103b84de5a3b56c8b574414735a7f0bbb55dd1cd0a2b689adb1d59011e3df4" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.18</title>
             <pubDate>Tue, 15 Sep 2026 16:54:08 +0000</pubDate>
             <sparkle:version>1.4.3.18</sparkle:version>

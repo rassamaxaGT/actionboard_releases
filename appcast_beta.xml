@@ -6,6 +6,32 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.4-beta.1</title>
+            <pubDate>Fri, 18 Sep 2026 18:40:22 +0000</pubDate>
+            <sparkle:version>1.4.4.1</sparkle:version>
+            <sparkle:shortVersionString>1.4.4-beta.1</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.4-beta.1</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.4-beta.1
+
+### ⚡ [Питание и Обучение]
+
+- **Автоотключение подсветки в режиме сна**: Клавиатура гасит светодиоды при уходе в сон и включает при пробуждении; переключатель доступен в «Системе».
+- **Обучающее видео в Хабе подсказок**: Добавлен подробный 21-минутный видеогид по эффективной работе в ActionBoard со встроенным плеером.
+
+### 🔒 [Безопасность и Авторизация]
+
+- **Бесшовный аппаратный вход**: Авторизация по крипточипу мгновенно входит в профиль; добавлен удобный экран подтверждения логина.
+
+### 🛠 [Интерфейс и Пресеты]
+
+- **Корректные названия шорткатов**: Скрыта надпись "Shortcut" в оверлее, кастомные имена видны на мокапе, а очистка поля возвращает имя по умолчанию.
+- **Автокастинг на лету при записи**: При записи шорткатов на раскладку другой ОС клавиши адаптируются автоматически прямо во время ввода.
+- **Полноэкранная Студия Креатора**: Настройка мультиплатформенного пресета открывается во весь экран с мокапом устройства.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.4-beta.1/ActionBoard-mac-v1.4.4-beta.1.dmg" sparkle:version="1.4.4.1" sparkle:shortVersionString="1.4.4-beta.1" sparkle:edSignature="/DBDmqTdGbdH6rnPETYajxOUG/xwY/aeEGoPrSBY6Mba54HlBd3pjkeGuBboCHTq+S/ZUhZ8XYOqeENDm1TNDg==" length="189525479" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.4-beta.1/ActionBoard-mac-v1.4.4-beta.1.zip" sparkle:version="1.4.4.1" sparkle:shortVersionString="1.4.4-beta.1" sparkle:edSignature="yfYooS4NMKo7+VR84r3VKWxlPPzzbO5P4QRJQqcJ0cuTnwkWsabRA8SM+l5WoK+UZ6Xdk3+G1cmIkvVZoIgZBw==" length="185145929" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.4-beta.1/ActionBoard_Setup_v1.4.4-beta.1.exe" sparkle:version="1.4.4-beta.1" length="168707256" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="7f9afca517b6a85fa7e45daa0ec0466edb793b5bf58776b9b2cafbd61b90725a" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.3-beta.20</title>
             <pubDate>Tue, 15 Sep 2026 18:13:48 +0000</pubDate>
             <sparkle:version>1.4.3.20</sparkle:version>

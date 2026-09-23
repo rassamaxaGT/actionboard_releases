@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.4-beta.4</title>
+            <pubDate>Wed, 23 Sep 2026 10:13:59 +0000</pubDate>
+            <sparkle:version>1.4.4.4</sparkle:version>
+            <sparkle:shortVersionString>1.4.4-beta.4</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.4-beta.4</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.4-beta.4
+
+### ⚡ [Макросы и Стабильность]
+
+- **Корректный ввод текста при любой раскладке**: Текстовые шаги в макросах больше не зависят от активного языка в Windows и macOS. Команды на английском (например, `array` в Blender) больше не превращаются в русские символы (`фккфн`).
+- **Расширен пул текстовых действий**: Количество одновременных текстовых вставок увеличено до 10 слотов на слой — теперь все 9 клавиш устройства могут содержать текстовые команды без выпадения в аппаратный ввод.
+- **Поддержка текста в шорткатах**: Текстовые блоки внутри сложных комбинаций клавиш теперь гарантированно вставляются через быстрый системный буфер обмена.
+
+### 🛠 [Интерфейс и Оборудование]
+
+- **Изоляция системной кнопки**: Кнопка циклической смены слоёв надёжно защищена от пересечений с текстовыми триггерами в редакторе макросов.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.4-beta.4/ActionBoard-mac-v1.4.4-beta.4.dmg" sparkle:version="1.4.4.4" sparkle:shortVersionString="1.4.4-beta.4" sparkle:edSignature="NorlLLK190bhGP6RaiYc6SNPZ98VLebDDSni2v6OwGPI7yj7GsjHrZ883wlOMD7SwxuuvjOXdz8G2xjwJiEVCA==" length="185867828" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.4-beta.4/ActionBoard-mac-v1.4.4-beta.4.zip" sparkle:version="1.4.4.4" sparkle:shortVersionString="1.4.4-beta.4" sparkle:edSignature="Lf4CGe//pJtwOvnw/5M7qzOy3FZ+XVKkeHdGN6HNWeLw5MgrijoVB5AZFr/r+B+F+kWFIDgUwYF0uGrYdJjsCg==" length="185167959" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.4-beta.4/ActionBoard_Setup_v1.4.4-beta.4.exe" sparkle:version="1.4.4-beta.4" length="168710833" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="83b3a4897f3bc2b078ed48c2a67b456641c331d965441ac0aef57f6a36077725" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.4-beta.3</title>
             <pubDate>Mon, 21 Sep 2026 19:51:30 +0000</pubDate>
             <sparkle:version>1.4.4.3</sparkle:version>

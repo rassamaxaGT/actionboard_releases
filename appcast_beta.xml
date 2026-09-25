@@ -6,6 +6,21 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.5-beta.2</title>
+            <pubDate>Fri, 25 Sep 2026 13:09:30 +0000</pubDate>
+            <sparkle:version>1.4.5.2</sparkle:version>
+            <sparkle:shortVersionString>1.4.5-beta.2</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.5-beta.2</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.5-beta.2
+
+### ⚡ [Макросы и macOS]
+
+- **Исправление распознавания клавиши Enter**: Исправлена запись и отображение клавиш Enter (Return) в комбинациях горячих клавиш и редакторе макросов на macOS.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.5-beta.2/ActionBoard-mac-v1.4.5-beta.2.dmg" sparkle:version="1.4.5.2" sparkle:shortVersionString="1.4.5-beta.2" sparkle:edSignature="b8g+9PCDneBn2B51Qkd3gzBnpS8oXyYsHG73jFx7Ag7V8hssrH3FdapoNZc8Kyo0pqitvrycM8pOngfOv3BcBg==" length="185882509" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.5-beta.2/ActionBoard-mac-v1.4.5-beta.2.zip" sparkle:version="1.4.5.2" sparkle:shortVersionString="1.4.5-beta.2" sparkle:edSignature="ncv9dA/FdnDW2ucDb/crfvJZKJxFOdNqkeaX9C3B/5FP+9JXhF4OaVKk4gsk2VthW3qQcKdj1jN0osEnFPibCA==" length="185183071" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.5-beta.2/ActionBoard_Setup_v1.4.5-beta.2.exe" sparkle:version="1.4.5-beta.2" length="168716426" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="e7609d047728eb93b186973b79995d31eeffaebdb384f69e16ebeeee0d0acf8c" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.5-beta.1</title>
             <pubDate>Fri, 25 Sep 2026 12:09:35 +0000</pubDate>
             <sparkle:version>1.4.5.1</sparkle:version>

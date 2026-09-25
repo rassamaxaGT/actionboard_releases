@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.5-beta.3</title>
+            <pubDate>Fri, 25 Sep 2026 14:19:18 +0000</pubDate>
+            <sparkle:version>1.4.5.3</sparkle:version>
+            <sparkle:shortVersionString>1.4.5-beta.3</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.5-beta.3</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.5-beta.3
+
+### 🛠 Макросы и Аппаратное Исполнение
+
+- **Исправлено воспроизведение клавиши Return (Enter) на macOS**: устранен сбой трансляции сканкода в QMK-байткод, из-за которого макросы и шорткаты с клавишей Return не нажимались в системе.
+- **Синхронизация таблиц сканкодов**: приведено в соответствие сопоставление USB HID Usage кодов между интерфейсом приложения и аппаратным ядром для всех платформ.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.5-beta.3/ActionBoard-mac-v1.4.5-beta.3.dmg" sparkle:version="1.4.5.3" sparkle:shortVersionString="1.4.5-beta.3" sparkle:edSignature="6/CG+1/XMVOJxx58CiZQv09DVSYjuHxR7YhTzLn8JgGMRcuAQ0Xl1tDmceTs+ZD5fta1t3Z2+anxykzswFOyAw==" length="185881759" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.5-beta.3/ActionBoard-mac-v1.4.5-beta.3.zip" sparkle:version="1.4.5.3" sparkle:shortVersionString="1.4.5-beta.3" sparkle:edSignature="ndYhD6XzlUxVmt2kmIbGL0/kCQoP2pj34SsyixBS9PBy853t6UJQZCCCZst+3R/YzjpVJsRhMv4z7SgJi501Bw==" length="185182388" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.5-beta.3/ActionBoard_Setup_v1.4.5-beta.3.exe" sparkle:version="1.4.5-beta.3" length="168718935" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="80e10a366c75e6bba684e6cce1a89c372194872f332b7be4ccfabf4a27e13072" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.5-beta.2</title>
             <pubDate>Fri, 25 Sep 2026 13:09:30 +0000</pubDate>
             <sparkle:version>1.4.5.2</sparkle:version>

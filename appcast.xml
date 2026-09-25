@@ -6,6 +6,22 @@
         <description>Most recent updates to ActionBoard</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.5</title>
+            <pubDate>Fri, 25 Sep 2026 14:55:24 +0000</pubDate>
+            <sparkle:version>1.4.5</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.5</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.5
+
+### 🛠 Макросы и Аппаратное Исполнение
+
+- **Исправлено воспроизведение клавиш Return (Enter) и CMD на macOS**: устранен сбой трансляции сканкода в QMK-байткод, из-за которого макросы и шорткаты с клавишей Return не нажимались в системе.
+- **Синхронизация таблиц сканкодов**: приведено в соответствие сопоставление USB HID Usage кодов между интерфейсом приложения и аппаратным ядром для всех платформ.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.5/ActionBoard-mac-v1.4.5.dmg" sparkle:version="1.4.5" sparkle:shortVersionString="1.4.5" sparkle:edSignature="QDEsQPFRNadL0jeqbVh3PbJLG2HoGAZ8oswGdHSRW15TtJnza4xbsyX2n4Tk1mtM4FUA3qOFc7rcKmed1JMfAg==" length="185881304" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.5/ActionBoard-mac-v1.4.5.zip" sparkle:version="1.4.5" sparkle:shortVersionString="1.4.5" sparkle:edSignature="HUolQFYoFcOc4c2o6KLudwe4xAY7PacnWindhC8KMgdFx2CTBm3xF7cxywNuFdNEoR3wsb+8fPSpoL8WPjIqCA==" length="185182276" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.5/ActionBoard_Setup_v1.4.5.exe" sparkle:version="1.4.5" length="168713643" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="b4ceebbf8ed71a0abadee870fe8b3e65bb6a3cfe0bb4c25f10188586c850199d" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.4</title>
             <pubDate>Wed, 23 Sep 2026 17:32:50 +0000</pubDate>
             <sparkle:version>1.4.4</sparkle:version>

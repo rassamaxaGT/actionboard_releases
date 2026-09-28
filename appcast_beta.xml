@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.1</title>
+            <pubDate>Mon, 28 Sep 2026 13:29:16 +0000</pubDate>
+            <sparkle:version>1.4.6.1</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.1</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.1</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.6
+
+### ⚡ Слои и Маркетплейс
+
+- **Дублирование слоев через контекстное меню (ПКМ)**: теперь любой пользовательский слой можно скопировать в один клик по правой кнопке мыши с сохранением всех назначений клавиш и действий энкодера.
+- **Создание профиля на этапе импорта пресета**: при добавлении пресета из Маркетплейса доступен пункт «Добавить профиль» — приложение сразу создает профиль и автоматически назначает скачанный пресет в его Слот 1.
+
+### 🛠 Хаб подсказок и Платформа
+
+- **Обучающее видео на macOS**: Исправлено воспроизведение видеогида в Хабе подсказок и обеспечена гарантированная доставка видеофайла в сборку macOS.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.1/ActionBoard-mac-v1.4.6-beta.1.dmg" sparkle:version="1.4.6.1" sparkle:shortVersionString="1.4.6-beta.1" sparkle:edSignature="Eb9Bvl1diBzxeC5jacj5LHL5dQBZKk7nzgat2mQzQZMxGyDiAGnmXXWdv1hRi3K03zFxiIRVhODQNOyM80I+Dg==" length="295765948" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.1/ActionBoard-mac-v1.4.6-beta.1.zip" sparkle:version="1.4.6.1" sparkle:shortVersionString="1.4.6-beta.1" sparkle:edSignature="m1X+KbD35lqEQt3osbjjE4Becl/OFULNygqlsI2MvdR8CMZCDK2hJXJcqIPGxyMngOMfav2TacwK2UWC1DmwBQ==" length="294288725" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.1/ActionBoard_Setup_v1.4.6-beta.1.exe" sparkle:version="1.4.6-beta.1" length="168710268" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="f7994a3ccd7593ab4c3a26d7a3c268bad429f64be364333e48a2aedc22c08ad5" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.5-beta.3</title>
             <pubDate>Fri, 25 Sep 2026 14:19:18 +0000</pubDate>
             <sparkle:version>1.4.5.3</sparkle:version>

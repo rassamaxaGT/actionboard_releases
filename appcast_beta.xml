@@ -6,6 +6,23 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.4</title>
+            <pubDate>Fri, 02 Oct 2026 22:07:22 +0000</pubDate>
+            <sparkle:version>1.4.6.4</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.4</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.4</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.6-beta.4
+
+### ⚡ Производительность и Стабильность
+
+- **Фоновый режим на macOS**: при закрытии окна приложение теперь остаётся активным в строке меню (Menu Bar), а иконка полностью скрывается из Dock.
+- **Мгновенное восстановление**: клик по иконке в строке меню или запуск через Spotlight плавно возвращает окно с нужным фокусом и отображением в Dock.
+- **Бесшумный автозапуск**: при старте macOS приложение открывается сразу в фоновом режиме без всплытия или мерцания в Dock.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.4/ActionBoard-mac-v1.4.6-beta.4.dmg" sparkle:version="1.4.6.4" sparkle:shortVersionString="1.4.6-beta.4" sparkle:edSignature="M7UVvHGnFhmDPIR3jYcGUQE9JmlcYscGXa+So9Q8uvYdMkbZoE0Tq8r9KcHi6Lp5NH2XJLQwozbY8WZCRGOABQ==" length="295742612" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.4/ActionBoard-mac-v1.4.6-beta.4.zip" sparkle:version="1.4.6.4" sparkle:shortVersionString="1.4.6-beta.4" sparkle:edSignature="eUMFCTCh/p4YvTXibRvW/UFg0tSBt0+W3iHBHLsQRUQR8jp1TDZDc+jHI/O5Eb+1B+xenw/HZNDw5dAmKZ/nDw==" length="294323253" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.4/ActionBoard_Setup_v1.4.6-beta.4.exe" sparkle:version="1.4.6-beta.4" length="168714202" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="f59915af23eb43a8cbc2a52427ad1d650caa67026492b3e0b21605ab136dfd8d" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.2</title>
             <pubDate>Fri, 02 Oct 2026 16:08:52 +0000</pubDate>
             <sparkle:version>1.4.6.2</sparkle:version>

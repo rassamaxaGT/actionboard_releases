@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.2</title>
+            <pubDate>Fri, 02 Oct 2026 16:08:52 +0000</pubDate>
+            <sparkle:version>1.4.6.2</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.2</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.2</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.6-beta.2
+
+### ⚡ Стабильность и Макросы
+
+- **Умное распределение клавиш для текста**: текстовые макросы теперь в первую очередь используют безопасные функциональные клавиши, сохраняя все 10 слотов на слой без системных конфликтов.
+
+### 🛠 Платформа и macOS
+
+- **Устранение конфликта с яркостью экрана**: исправлено поведение на macOS, когда при срабатывании текстового макроса на экране появлялся индикатор изменения яркости вместо вставки текста.
+- **Интеллектуальная фильтрация событий**: системные медиа-события теперь мягко перехватываются только при наличии активного макроса, сохраняя штатную работу клавиатуры в остальных случаях.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.2/ActionBoard-mac-v1.4.6-beta.2.dmg" sparkle:version="1.4.6.2" sparkle:shortVersionString="1.4.6-beta.2" sparkle:edSignature="W9vhv7NYep1efkv1QAflq4dF9jImJzUVKJR4nsSUQ5rZzDULla6pvao1RjJw+nFO4ITuOTqlHOzKKdMrfijhAQ==" length="295782016" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.2/ActionBoard-mac-v1.4.6-beta.2.zip" sparkle:version="1.4.6.2" sparkle:shortVersionString="1.4.6-beta.2" sparkle:edSignature="Nx4A0zaw7WqLUvAlnECPpcVFyic6hhIq26QFLxRxyzcQfrunkuYQuhtPFVnVHjZKeZuC/JauRZ5JLkvgkbAcDw==" length="294307329" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.2/ActionBoard_Setup_v1.4.6-beta.2.exe" sparkle:version="1.4.6-beta.2" length="168723058" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="b0eb31ea8f003051132de0c6fffc2877b9408e8e5c770ff84d9f92fc42dab26d" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.1</title>
             <pubDate>Mon, 28 Sep 2026 13:29:16 +0000</pubDate>
             <sparkle:version>1.4.6.1</sparkle:version>

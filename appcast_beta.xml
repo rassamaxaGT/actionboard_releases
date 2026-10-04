@@ -6,6 +6,24 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.5</title>
+            <pubDate>Sun, 04 Oct 2026 19:27:10 +0000</pubDate>
+            <sparkle:version>1.4.6.5</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.5</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.5</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.6-beta.5
+
+### ⚡ Производительность и Стабильность
+
+- **Исправление краша Caps Lock на macOS**: полностью устранён сбой приложения при нажатии клавиши смены регистра и переключения раскладки на Mac.
+- **Защита системного перехвата**: фоновый обработчик клавиатуры защищён от таймаутов macOS и изолирован от очередей главного потока.
+- **Гарантированная отправка логов крашей**: внедрена система Zero-Loss сбора отчетов, автоматически отправляющая логи сбоев при следующем запуске.
+- **Перехват критических ошибок**: логирование системных сбоев поднято на самый ранний этап старта программы.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.5/ActionBoard-mac-v1.4.6-beta.5.dmg" sparkle:version="1.4.6.5" sparkle:shortVersionString="1.4.6-beta.5" sparkle:edSignature="EI+05J5+wtn+j93jnTAcXtmdaTN3Mz65yxpgBFl5UgKeMGxm5k2pEWRD7jelHUCLnXDR9ZDBayRxLtevR1NlAg==" length="296042684" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.5/ActionBoard-mac-v1.4.6-beta.5.zip" sparkle:version="1.4.6.5" sparkle:shortVersionString="1.4.6-beta.5" sparkle:edSignature="wr7XFzLWk4J2ufB8OS/NWiBdjl9P4BWlbcZ1Fm8paqaDqjvTj3iX50vweaSROWJcFVMwXgRKJsO0a3H276dYBw==" length="294576468" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.5/ActionBoard_Setup_v1.4.6-beta.5.exe" sparkle:version="1.4.6-beta.5" length="168771782" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="726200e73786a6e766d875fb48612cb9f88778ab3b033864b2dfd16cf9058761" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.4</title>
             <pubDate>Fri, 02 Oct 2026 22:07:22 +0000</pubDate>
             <sparkle:version>1.4.6.4</sparkle:version>

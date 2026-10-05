@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.11</title>
+            <pubDate>Mon, 05 Oct 2026 20:20:28 +0000</pubDate>
+            <sparkle:version>1.4.6.11</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.11</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.11</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.6-beta.11
+
+### ⚡ [Интерфейс и Оформление macOS]
+
+- **Кристальная чёткость в строке заголовка**: Полностью пересобрана системная иконка в строке окна установщика рядом с кнопками управления («светофором») — добавлены оптимизированные слои $16\times16$ и Retina $32\times32$ ($16\times16@2x$), устранено размытие и искажения.
+- **Полная поддержка всех форматов Apple ICNS**: Пакет иконки дополнен всеми необходимыми нативными Retina-типами (`ic11`, `ic12`, `ic13`, `ic14`) для безупречного рендеринга на любых экранах macOS.
+- **Чистый векторный логотип в окне установщика**: Устранены артефакты контуров и краевой шум логотипа ActionBoard в графической шапке инсталлятора.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.11/ActionBoard-mac-v1.4.6-beta.11.dmg" sparkle:version="1.4.6.11" sparkle:shortVersionString="1.4.6-beta.11" sparkle:edSignature="kcjkys1jR/XQayf+oBUVBNyfOQOrvtDebCqZfjodCIl9alJnTooK2/dZzSSj7j4tEjjovJeYCPOgnRecaxCTBA==" length="295601117" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.11/ActionBoard-mac-v1.4.6-beta.11.zip" sparkle:version="1.4.6.11" sparkle:shortVersionString="1.4.6-beta.11" sparkle:edSignature="Rz3+sqy4iXnhtbrlZkg+cznUg3M8OkHexMkErVnx56jdpVNqfngakP2djUR2sHdqpV0KBELzoO6xOcOaAgaKBg==" length="293662585" type="application/octet-stream" sparkle:os="macos" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.10</title>
             <pubDate>Mon, 05 Oct 2026 19:53:40 +0000</pubDate>
             <sparkle:version>1.4.6.10</sparkle:version>

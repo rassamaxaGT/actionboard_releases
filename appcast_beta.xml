@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.6</title>
+            <pubDate>Mon, 05 Oct 2026 17:11:11 +0000</pubDate>
+            <sparkle:version>1.4.6.6</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.6</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.6</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.6-beta.6
+
+### ⚡ [Производительность и Сборка]
+
+- **Нативная сборка для Apple Silicon**: Процесс компиляции под macOS перенесен на нативное оборудование ARM64, обеспечивая максимальную скорость подготовки обновлений и чистоту релизных пакетов.
+- **Оптимизация доставки обновлений**: Внедрена прямая передача релизных образов через облачный конвейер, ускоряющая публикацию новых версий для macOS и Windows.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.6/ActionBoard-mac-v1.4.6-beta.6.dmg" sparkle:version="1.4.6.6" sparkle:shortVersionString="1.4.6-beta.6" sparkle:edSignature="ckKlnnK1/TbETGD5qtLPfTK43R3JyWRo/NZNX3ldOsope1uT5lfBBAAZ15QCZjuXMwP5HOx9orE4KklcRjvMCQ==" length="295264720" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.6/ActionBoard-mac-v1.4.6-beta.6.zip" sparkle:version="1.4.6.6" sparkle:shortVersionString="1.4.6-beta.6" sparkle:edSignature="dLXrJ4y566TSyuaPIaMtXI6tyfdjjlR4eMwUmFNOQm4f1qTJ9m7/bfTfmc/7LsKgfCmZA2ueuQmNIWwzo9gmDA==" length="293542294" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.6/ActionBoard_Setup_v1.4.6-beta.6.exe" sparkle:version="1.4.6-beta.6" length="168783990" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="3a74ead7ae6c3f70f3cd17400a143641501c0b8534fd6077949ab21e2e036392" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.5</title>
             <pubDate>Sun, 04 Oct 2026 19:27:10 +0000</pubDate>
             <sparkle:version>1.4.6.5</sparkle:version>

@@ -6,6 +6,21 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.12</title>
+            <pubDate>Mon, 05 Oct 2026 20:48:10 +0000</pubDate>
+            <sparkle:version>1.4.6.12</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.12</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.12</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.6-beta.12
+
+### ⚡ [Интерфейс и Оформление macOS]
+
+- **Устранение шума и цветовых артефактов в строке окна**: Исправлен системный сбой отображения Proxy Icon тома в Finder (разноцветный пиксельный шум вместо иконки) путём исключения проблемного устаревшего тега `icp4` и внедрения встроенной таблицы оглавления `TOC`.
+- **Нативное Retina-отображение**: Иконка в заголовке установщика рядом с кнопками управления окном теперь рендерится через прямой слой `ic11` ($16\times16@2x = 32\times32$) с высокой чёткостью и правильной цветопередачей.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.12/ActionBoard-mac-v1.4.6-beta.12.dmg" sparkle:version="1.4.6.12" sparkle:shortVersionString="1.4.6-beta.12" sparkle:edSignature="K0E3bpfirwG3XFrMWqkNwtQtlT7kYWzMOTUVANyt1fGF9e+kCSMmM9I54f3+K/cpA3Hj+n1w0NPTJAcg2v5DBA==" length="295670828" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.12/ActionBoard-mac-v1.4.6-beta.12.zip" sparkle:version="1.4.6.12" sparkle:shortVersionString="1.4.6-beta.12" sparkle:edSignature="0w0u6tC69hBJBgzt8pj9E3Q7QK0ZagwZI41kLYWX3IvQE9NxbP4VFzkbNDiaPJK1JAyAwK+QDkcK0N52lxd3Cw==" length="293692297" type="application/octet-stream" sparkle:os="macos" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.11</title>
             <pubDate>Mon, 05 Oct 2026 20:20:28 +0000</pubDate>
             <sparkle:version>1.4.6.11</sparkle:version>

@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.13</title>
+            <pubDate>Wed, 07 Oct 2026 17:26:25 +0000</pubDate>
+            <sparkle:version>1.4.6.13</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.13</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.13</link>
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.6-beta.13
+
+### ⚡ [Интерфейс и Оформление macOS]
+
+- **Поддержка современного формата Liquid Glass (`.icon`)**: Внедрена динамическая иконка приложения нового поколения для macOS Sequoia и новее с эффектами оптического преломления, реалистичными бликами и нативной адаптацией под системную светлую и тёмную темы.
+- **Обновление фирменных ассетов**: Полностью синхронизированы векторные логотипы и обратно-совместимые иконки высокой чёткости для окон системы, инсталлятора DMG и платформы Windows.
+- **Мгновенное обновление в Dock**: Добавлен автоматический сброс системного кэша иконок при установке, исключающий показ старого логотипа.
+
+### 🛠 [Сборка и Автоматизация]
+
+- **Нативный релизный скрипт для macOS (`release.sh`)**: Создан удобный инструмент публикации с полной поддержкой флагов управления версиями, бета-каналами и платформами прямо из терминала Mac.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.13/ActionBoard-mac-v1.4.6-beta.13.dmg" sparkle:version="1.4.6.13" sparkle:shortVersionString="1.4.6-beta.13" sparkle:edSignature="nB5mxJ/unZC/fdG4MPtNRrcNt/0aBETAtexIBzzFJWsjo42ThnFRzHAyBIPOqTMqngPr1eWEMR++hgyFRZp2Bw==" length="296919318" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.13/ActionBoard-mac-v1.4.6-beta.13.zip" sparkle:version="1.4.6.13" sparkle:shortVersionString="1.4.6-beta.13" sparkle:edSignature="exx9ikiYN+Ne+TLSkVAksxc4P9h70lB3vXIsYlx8/JEa3i8NiJFraHAmG0+toRizR2AKtPsPZSMf+g5UjGJSAg==" length="295203786" type="application/octet-stream" sparkle:os="macos" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.12</title>
             <pubDate>Mon, 05 Oct 2026 20:48:10 +0000</pubDate>
             <sparkle:version>1.4.6.12</sparkle:version>

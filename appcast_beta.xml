@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.15</title>
+            <pubDate>Wed, 07 Oct 2026 20:38:46 +0000</pubDate>
+            <sparkle:version>1.4.6.15</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.15</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.15</link>
+            <description># 🚀 Обновление ActionBoard v1.4.6-beta.14
+
+### ⚡ [Интерфейс и Оформление macOS]
+
+- **Поддержка современного формата Liquid Glass (`.icon`)**: Внедрена динамическая иконка приложения нового поколения для macOS Sequoia и новее с эффектами оптического преломления, реалистичными бликами и нативной адаптацией под системную светлую и тёмную темы.
+- **Обновление фирменных ассетов**: Полностью синхронизированы векторные логотипы и обратно-совместимые иконки высокой чёткости для окон системы, инсталлятора DMG и платформы Windows.
+- **Мгновенное обновление в Dock**: Добавлен автоматический сброс системного кэша иконок при установке, исключающий показ старого логотипа.
+
+### 🛠 [Сборка и Автоматизация]
+
+- **Нативный релизный скрипт для macOS (`release.sh`)**: Создан удобный инструмент публикации с полной поддержкой флагов управления версиями, бета-каналами и платформами прямо из терминала Mac.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.15/ActionBoard-mac-v1.4.6-beta.15.dmg" sparkle:version="1.4.6.15" sparkle:shortVersionString="1.4.6-beta.15" sparkle:edSignature="hV2wX2FVJpnBZgSeH5d5Isl0GjkrGrhuh/fS7rYK/jFWB4qfSCC5IxNgZm64duvp1WvVrWaTUNIMCcuH3uKTDA==" length="296926943" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.15/ActionBoard-mac-v1.4.6-beta.15.zip" sparkle:version="1.4.6.15" sparkle:shortVersionString="1.4.6-beta.15" sparkle:edSignature="zUM/jBAkR/0ti9wYLzMmGnq3msRrgL3IBObmB8izAT8TjtSQtvyzDRji8XwF4tY0LADmqucU9osctPgIAyELCw==" length="295207609" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.15/ActionBoard_Setup_v1.4.6-beta.15.exe" sparkle:version="1.4.6-beta.15" length="168784361" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="cc49b6579e94487cdd404a41052dfb0a846b0a9ebd5053e6d62eb5d88eec569b" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.14</title>
             <pubDate>Wed, 07 Oct 2026 20:25:52 +0000</pubDate>
             <sparkle:version>1.4.6.14</sparkle:version>

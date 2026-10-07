@@ -7,13 +7,23 @@
         <language>en</language>
         <item>
             <title>ActionBoard 1.4.6-beta.14</title>
-            <pubDate>Wed, 07 Oct 2026 20:18:28 +0000</pubDate>
+            <pubDate>Wed, 07 Oct 2026 20:25:52 +0000</pubDate>
             <sparkle:version>1.4.6.14</sparkle:version>
             <sparkle:shortVersionString>1.4.6-beta.14</sparkle:shortVersionString>
             <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.14</link>
-            <description>ci: optimize release publish job with ubuntu-latest for fast cloud aggregation</description>
-            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.14/ActionBoard-mac-v1.4.6-beta.14.dmg" sparkle:version="1.4.6.14" sparkle:shortVersionString="1.4.6-beta.14" sparkle:edSignature="tyF5DMEcvpaBm8hs0na9pxjfhwEqAXn/yOPPvEJwDh3ANrO4Qv7BQ+T4TWXCDZxKPbGzEqFk6KN8z0OgoBwRDg==" length="296926952" type="application/octet-stream" sparkle:os="macos" />
-            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.14/ActionBoard-mac-v1.4.6-beta.14.zip" sparkle:version="1.4.6.14" sparkle:shortVersionString="1.4.6-beta.14" sparkle:edSignature="YQ6vSpkO5CZGM7cL2zP2/krVusvOyLmIcPkqyXg5hIozsB9H5URbDYnWzznvMqLWIYDLBJqB7QeIL2fJvsL/Dw==" length="295207607" type="application/octet-stream" sparkle:os="macos" />
+            <description>﻿# 🚀 Обновление ActionBoard v1.4.6-beta.14
+
+### ⚡ [Интерфейс и Оформление macOS]
+
+- **Поддержка современного формата Liquid Glass (`.icon`)**: Внедрена динамическая иконка приложения нового поколения для macOS Sequoia и новее с эффектами оптического преломления, реалистичными бликами и нативной адаптацией под системную светлую и тёмную темы.
+- **Обновление фирменных ассетов**: Полностью синхронизированы векторные логотипы и обратно-совместимые иконки высокой чёткости для окон системы, инсталлятора DMG и платформы Windows.
+- **Мгновенное обновление в Dock**: Добавлен автоматический сброс системного кэша иконок при установке, исключающий показ старого логотипа.
+
+### 🛠 [Сборка и Автоматизация]
+
+- **Нативный релизный скрипт для macOS (`release.sh`)**: Создан удобный инструмент публикации с полной поддержкой флагов управления версиями, бета-каналами и платформами прямо из терминала Mac.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.14/ActionBoard-mac-v1.4.6-beta.14.dmg" sparkle:version="1.4.6.14" sparkle:shortVersionString="1.4.6-beta.14" sparkle:edSignature="UcE5/SeLGgmE9r4WWpRWOHRzHAQMYczgRTmBsyfbob96RIJkKuYb+ZQGXvIBZk7gKICp/B28OWhU04RjetmOCg==" length="296926995" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.14/ActionBoard-mac-v1.4.6-beta.14.zip" sparkle:version="1.4.6.14" sparkle:shortVersionString="1.4.6-beta.14" sparkle:edSignature="PHgb/3vAWdJgyX4n6HILb/nybeY+zORBQ6OpoppEFWJnBVHOgNerooJbuff2XGA/U87OV2KQDdia5UENyLeKDA==" length="295207607" type="application/octet-stream" sparkle:os="macos" />
         </item>
         <item>
             <title>ActionBoard 1.4.6-beta.13</title>

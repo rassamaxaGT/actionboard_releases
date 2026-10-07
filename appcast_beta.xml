@@ -6,6 +6,16 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.14</title>
+            <pubDate>Wed, 07 Oct 2026 20:18:28 +0000</pubDate>
+            <sparkle:version>1.4.6.14</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.14</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.14</link>
+            <description>ci: optimize release publish job with ubuntu-latest for fast cloud aggregation</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.14/ActionBoard-mac-v1.4.6-beta.14.dmg" sparkle:version="1.4.6.14" sparkle:shortVersionString="1.4.6-beta.14" sparkle:edSignature="tyF5DMEcvpaBm8hs0na9pxjfhwEqAXn/yOPPvEJwDh3ANrO4Qv7BQ+T4TWXCDZxKPbGzEqFk6KN8z0OgoBwRDg==" length="296926952" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.14/ActionBoard-mac-v1.4.6-beta.14.zip" sparkle:version="1.4.6.14" sparkle:shortVersionString="1.4.6-beta.14" sparkle:edSignature="YQ6vSpkO5CZGM7cL2zP2/krVusvOyLmIcPkqyXg5hIozsB9H5URbDYnWzznvMqLWIYDLBJqB7QeIL2fJvsL/Dw==" length="295207607" type="application/octet-stream" sparkle:os="macos" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.13</title>
             <pubDate>Wed, 07 Oct 2026 17:26:25 +0000</pubDate>
             <sparkle:version>1.4.6.13</sparkle:version>

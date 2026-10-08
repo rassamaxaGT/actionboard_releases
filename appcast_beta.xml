@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>ActionBoard 1.4.6-beta.21</title>
-            <pubDate>Thu, 08 Oct 2026 19:50:05 +0000</pubDate>
+            <pubDate>Thu, 08 Oct 2026 20:21:38 +0000</pubDate>
             <sparkle:version>1.4.6.21</sparkle:version>
             <sparkle:shortVersionString>1.4.6-beta.21</sparkle:shortVersionString>
             <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.21</link>
@@ -24,7 +24,7 @@
 - **Синхронизация при сворачивании**: Добавлена гарантированная отправка актуальных настроек в облако при скрытии окна приложения в фоновый режим или строку меню (Menu Bar).</description>
             <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.21/ActionBoard-mac-v1.4.6-beta.21.dmg" sparkle:version="1.4.6.21" sparkle:shortVersionString="1.4.6-beta.21" sparkle:edSignature="Z50BmE2eu7r+hDXNn2mUh5u2SEvpFQIrKiIMo3+1nh4mLe7Pr2JSSd1xzysS7Bz0133HuNdDCIdiwK6PpDEqCQ==" length="296951841" type="application/octet-stream" sparkle:os="macos" />
             <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.21/ActionBoard-mac-v1.4.6-beta.21.zip" sparkle:version="1.4.6.21" sparkle:shortVersionString="1.4.6-beta.21" sparkle:edSignature="E3VullXeHOkWlVq9/o9paFShpdX119/Cj+mcE5ca3Fhz8QQGfQQOmS9z9Sy/UTkyeDhAj6pwaSmVUGXcdaHeDw==" length="295203754" type="application/octet-stream" sparkle:os="macos" />
-            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.21/ActionBoard_Setup_v1.4.6-beta.21.exe" sparkle:version="1.4.6-beta.21" length="168781702" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="7de2fed883289f7003ac0d9433638fb85f46282f67963089f563568b30bc9af6" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.21/ActionBoard_Setup_v1.4.6-beta.21.exe" sparkle:version="1.4.6-beta.21" length="168781699" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="71f0f37fe1868832c19938452a8a1ac8ad7077e3e7b90c4847edcbfc899d34c2" />
         </item>
         <item>
             <title>ActionBoard 1.4.6-beta.20</title>

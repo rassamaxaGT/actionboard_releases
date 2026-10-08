@@ -6,6 +6,17 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.20</title>
+            <pubDate>Thu, 08 Oct 2026 19:10:56 +0000</pubDate>
+            <sparkle:version>1.4.6.20</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.20</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.20</link>
+            <description>fix: restore onReorder callback for Flutter CI runner compatibility</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.20/ActionBoard-mac-v1.4.6-beta.20.dmg" sparkle:version="1.4.6.20" sparkle:shortVersionString="1.4.6-beta.20" sparkle:edSignature="JhBTNEUgX0AnhikIzqctxwo/NaAOHXA13KkIZtvXOv5sL09P47fJu+BdZawec4fZRT+RupeR12s/8y4K7weWAA==" length="296895979" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.20/ActionBoard-mac-v1.4.6-beta.20.zip" sparkle:version="1.4.6.20" sparkle:shortVersionString="1.4.6-beta.20" sparkle:edSignature="FBmMq+0jpd9VfOzecxQT9ClMi4MwuAz09+Gg/UmtoZeVZ2X6sQb4d1Zrz/ET93giT59lUwQB4CXzmp5RJT1UCw==" length="295200968" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.20/ActionBoard_Setup_v1.4.6-beta.20.exe" sparkle:version="1.4.6-beta.20" length="168784640" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="d10de2e35356e8ab629abe696096df066c0060dd38570d96fc97ef784f990c73" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.19</title>
             <pubDate>Thu, 08 Oct 2026 10:30:07 +0000</pubDate>
             <sparkle:version>1.4.6.19</sparkle:version>

@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.19</title>
+            <pubDate>Thu, 08 Oct 2026 10:30:07 +0000</pubDate>
+            <sparkle:version>1.4.6.19</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.19</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.19</link>
+            <description># 🚀 Обновление ActionBoard v1.4.6-beta.19
+
+### ⚡ [Стабильность и Фоновый Режим]
+
+- **Устранено фоновое закрытие на macOS**: Исправлена проблема, из-за которой система принудительно выгружала приложение спустя 1–2 часа нахождения в свёрнутом виде. Отключены системные механизмы автоматической выгрузки (Automatic Termination &amp; App Nap).
+- **Корректная работа свёрнутого окна в Dock**: Нажатие жёлтой кнопки свёртки теперь сохраняет иконку приложения в Dock в полном соответствии со стандартами macOS HIG.
+- **Оптимизация системной памяти**: Устранена фоновая утечка памяти при циклическом отслеживании активных окон в macOS.
+
+### 🔒 [Надёжность Завершения Работы]
+
+- **Безопасная обработка выхода**: Системные запросы на закрытие теперь уважают настройку «Работать в фоновом режиме», предотвращая неожиданное прерывание соединения с клавиатурой.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.19/ActionBoard-mac-v1.4.6-beta.19.dmg" sparkle:version="1.4.6.19" sparkle:shortVersionString="1.4.6-beta.19" sparkle:edSignature="vgwZc3WgrYziPmtXWolQtP7O4RtEdJUjuv+bUEGCTdgbIOj2X6or8QXiZpmYjp1FEHKriZHePSS3pFB+bMpvBw==" length="296913704" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.19/ActionBoard-mac-v1.4.6-beta.19.zip" sparkle:version="1.4.6.19" sparkle:shortVersionString="1.4.6-beta.19" sparkle:edSignature="WbsFF4e0/WfhVf6KxK6Cea78Tq2hAcDag1RDcqlbzFr+UztbvCp7UMZA0Nqukho3ZVlsgXfkwGBkhcEZwT1UBg==" length="295193123" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.19/ActionBoard_Setup_v1.4.6-beta.19.exe" sparkle:version="1.4.6-beta.19" length="168776875" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="b0fef47c495701940052d6e3683d8e73f52d10167baaf217faa0b20ccaac18e9" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.18</title>
             <pubDate>Wed, 07 Oct 2026 22:34:44 +0000</pubDate>
             <sparkle:version>1.4.6.18</sparkle:version>

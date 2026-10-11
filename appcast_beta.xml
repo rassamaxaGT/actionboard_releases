@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.25</title>
+            <pubDate>Sun, 11 Oct 2026 10:24:29 +0000</pubDate>
+            <sparkle:version>1.4.6.25</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.25</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.25</link>
+            <description># 🚀 Обновление ActionBoard v1.4.6-beta.25
+
+### ⚡ [Питание и Жизненный цикл]
+
+- **Отключение подсветки при выходе**: Подсветка клавиатуры теперь гарантированно гаснет при полном закрытии приложения.
+- **Штатное завершение на macOS**: Исправлена ошибка, из-за которой выход через Cmd+Q или контекстное меню Dock блокировался фоновым режимом и приводил к ложным отчетам о сбоях.
+- **Автоотключение подсветки при бездействии**: Исправлена проблема, когда подсветка клавиатуры на macOS не гасла при автоматическом засыпании дисплеев по таймеру неактивности.
+
+### 🛠 [Оборудование и Безопасность]
+
+- **Оптимизация команд управления питанием**: Повышена надёжность быстрой отправки команд энергосбережения на микроконтроллер клавиатуры без лишней нагрузки на процессор.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.25/ActionBoard-mac-v1.4.6-beta.25.dmg" sparkle:version="1.4.6.25" sparkle:shortVersionString="1.4.6-beta.25" sparkle:edSignature="HuFUcfBM/Q3HNN2wpBPFPXlrWswpAgJey/QYCrAJes4xsoU6QP4ijL1xAbHulPpkXTn0yzPsy7vUKtHN4LKfBQ==" length="296962748" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.25/ActionBoard-mac-v1.4.6-beta.25.zip" sparkle:version="1.4.6.25" sparkle:shortVersionString="1.4.6-beta.25" sparkle:edSignature="75evh4hCTwlQX6iTT4Mv0mCtzAdi6/gmb0nLSnauRzQe1KYAZD5ML4jR2VRMqJMVQ6FrSGkDLZt1adN3pqpZDQ==" length="295219742" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.25/ActionBoard_Setup_v1.4.6-beta.25.exe" sparkle:version="1.4.6-beta.25" length="168787626" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="ce047d62f2736548c5129a1e8f9e89ceab1f71c399f3085015bb754f82d5b330" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.24</title>
             <pubDate>Sun, 11 Oct 2026 09:58:01 +0000</pubDate>
             <sparkle:version>1.4.6.24</sparkle:version>

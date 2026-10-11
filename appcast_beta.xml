@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.23</title>
+            <pubDate>Sun, 11 Oct 2026 09:37:40 +0000</pubDate>
+            <sparkle:version>1.4.6.23</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.23</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.23</link>
+            <description># 🚀 Обновление ActionBoard v1.4.6-beta.23
+
+### ⚡ [Питание и Энергосбережение]
+
+- **Автоотключение подсветки при бездействии на macOS**: Исправлена ошибка, из-за которой подсветка клавиатуры не гасла при автоматическом засыпании экранов по таймеру неактивности Mac.
+- **Плавное и надёжное восстановление**: Устранена возможность повторных ложных срабатываний и обеспечено корректное включение активного профиля при пробуждении системы.
+
+### 🛠 [Оборудование и Стабильность]
+
+- **Оптимизация команд управления питанием**: Повышена надёжность быстрой отправки команд энергосбережения на микроконтроллер клавиатуры без лишней нагрузки на процессор.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.23/ActionBoard-mac-v1.4.6-beta.23.dmg" sparkle:version="1.4.6.23" sparkle:shortVersionString="1.4.6-beta.23" sparkle:edSignature="B/rSEiPw7RNvDrunpm/KgvOzL/zm33YlI32iM9B21e+pxwfQvE086x1Lr+P81+Jhg5yxIqTjRE6nP2zRnRIqDw==" length="296962267" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.23/ActionBoard-mac-v1.4.6-beta.23.zip" sparkle:version="1.4.6.23" sparkle:shortVersionString="1.4.6-beta.23" sparkle:edSignature="+orjHULnHCrGfOMqL3mXnixOoqWiduxHtOmyPG9aVNqFhzh8aLVxbKE5eaNMNb23jImUwxRgyJ0YLngGryLNDQ==" length="295219140" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.23/ActionBoard_Setup_v1.4.6-beta.23.exe" sparkle:version="1.4.6-beta.23" length="168787623" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="26e60971e7fba7cd72b065c33ffd97f19313fbab9b8294ed53e7156aa327a0da" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.22</title>
             <pubDate>Fri, 09 Oct 2026 14:59:40 +0000</pubDate>
             <sparkle:version>1.4.6.22</sparkle:version>

@@ -6,6 +6,23 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.26</title>
+            <pubDate>Mon, 12 Oct 2026 16:47:35 +0000</pubDate>
+            <sparkle:version>1.4.6.26</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.26</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.26</link>
+            <description># 🚀 Обновление ActionBoard v1.4.6-beta.26
+
+### ⚡ [Интерфейс и Профили]
+
+- **Кристальная четкость иконок на macOS**: Иконки приложений для профилей теперь автоматически извлекаются в оригинальном высоком разрешении (256×256) без размытия и пикселизации на Retina-экранах.
+- **Автоматическое обновление кэша**: Все ранее сохранённые нечеткие иконки автоматически обновляются до высокого качества при открытии без необходимости пересоздавать профили.
+- **Точное распознавание приложений**: Улучшено сопоставление запущенных программ с системными каталогами macOS для исключения дубликатов в списке выбора.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.26/ActionBoard-mac-v1.4.6-beta.26.dmg" sparkle:version="1.4.6.26" sparkle:shortVersionString="1.4.6-beta.26" sparkle:edSignature="BpNUxNN/+fymrOP+jDJl+0Xczf3y6eUz5qZfmKIMcaPyihq0V6LvR2HKqdxtz7MG3tGjtH8D81IkZN/DTAc4DQ==" length="296962115" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.26/ActionBoard-mac-v1.4.6-beta.26.zip" sparkle:version="1.4.6.26" sparkle:shortVersionString="1.4.6-beta.26" sparkle:edSignature="uqmPH7pBt24mwz9b82Po8v5UJN7d0ymIYt66RExISQvIUjoY/wC92iFZdo5U03Ey6vn7tcOe5tUSrHiGaNATAQ==" length="295216944" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.26/ActionBoard_Setup_v1.4.6-beta.26.exe" sparkle:version="1.4.6-beta.26" length="168788540" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="5ee5878777db6aba9c1a2c4d7b5a62da11ad1c1c9e22dee615263f318169ae5f" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.25</title>
             <pubDate>Sun, 11 Oct 2026 10:24:29 +0000</pubDate>
             <sparkle:version>1.4.6.25</sparkle:version>

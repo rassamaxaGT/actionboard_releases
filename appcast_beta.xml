@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6-beta.28</title>
+            <pubDate>Mon, 12 Oct 2026 17:37:32 +0000</pubDate>
+            <sparkle:version>1.4.6.28</sparkle:version>
+            <sparkle:shortVersionString>1.4.6-beta.28</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6-beta.28</link>
+            <description># 🚀 Обновление ActionBoard v1.4.6-beta.28
+
+### ⚡ [Оверлей и Стабильность]
+
+- **Отображение назначенных макросов в оверлее**: Устранена ошибка, из-за которой все клавиши оверлея могли отображаться как пустые до синхронизации с устройством. Теперь макросы видны сразу.
+- **Быстрая запись макросов из оверлея**: Клик по пустой клавише в оверлее разворачивает приложение в режиме создания макроса для выбранного профиля и слоя.
+- **Интерактивность на Windows и macOS**: Панель оверлея поддерживает прямое взаимодействие мышью во время работы.
+
+### 🛠 [Интерфейс и Профили]
+
+- **Высокое разрешение иконок приложений на macOS**: Иконки профилей извлекаются в качестве 256×256 без артефактов и размытия на Retina-дисплеях.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.28/ActionBoard-mac-v1.4.6-beta.28.dmg" sparkle:version="1.4.6.28" sparkle:shortVersionString="1.4.6-beta.28" sparkle:edSignature="Z5da4/zU0v/B8ipqldPII2rJVxMelqeyx8RbF6xTDuDZ5JCYmb3G6XoTJdKv/5JxPkVsg7Dyg6bhdP8dsFh4Ag==" length="297033448" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.28/ActionBoard-mac-v1.4.6-beta.28.zip" sparkle:version="1.4.6.28" sparkle:shortVersionString="1.4.6-beta.28" sparkle:edSignature="V+EpASdTu/p39jxRb8mtic8ADfDk58gMk2MelbLuY92D2kFQ36BSbK0L1pt1qjSSxrq9WSHiJbCOOzUHUcqLDQ==" length="295235639" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6-beta.28/ActionBoard_Setup_v1.4.6-beta.28.exe" sparkle:version="1.4.6-beta.28" length="168782147" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="89cc35082470fdc554dce981a63cb9db774465dd3c97f5192ba3414531acca1c" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.27</title>
             <pubDate>Mon, 12 Oct 2026 17:10:36 +0000</pubDate>
             <sparkle:version>1.4.6.27</sparkle:version>

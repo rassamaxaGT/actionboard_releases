@@ -6,6 +6,33 @@
         <description>Most recent updates to ActionBoard</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.6</title>
+            <pubDate>Tue, 13 Oct 2026 16:42:44 +0000</pubDate>
+            <sparkle:version>1.4.6</sparkle:version>
+            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.6</link>
+            <description># 🚀 Обновление ActionBoard v1.4.6
+
+### ⚡ [Интерактивный Оверлей и Макросы]
+
+- **Быстрая запись из оверлея**: Клик по пустой ячейке оверлея открывает приложение и сразу запускает запись макроса.
+- **Дублирование слоёв**: Добавлено быстрое копирование любого слоя со всеми привязками через контекстное меню (ПКМ).
+
+### 🛠 [Оборудование и Энергосбережение]
+
+- **Умное управление подсветкой**: Клавиатура автоматически гасит подсветку при блокировке экрана, уходе в сон и закрытии программы.
+- **Стабильность ввода на macOS**: Устранены системные конфликты текстовых макросов с системными клавишами и раскладкой.
+- **Плавное завершение работы**: Исправлен выход из приложения на macOS без зависаний и ложных отчётов о сбоях.
+
+### 🔒 [Качество и Интерфейс]
+
+- **Чёткие иконки профилей на macOS**: Иконки приложений для профилей теперь отображаются в оригинальном высоком Retina-разрешении.
+- **Защита фонового ядра**: Устранены риски взаимоблокировок и повышена отказоустойчивость системных служб.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6/ActionBoard-mac-v1.4.6.dmg" sparkle:version="1.4.6" sparkle:shortVersionString="1.4.6" sparkle:edSignature="qVQAregoAZvFcDuWPNaSLs1Uhdp+3p9bwheVZk+akV1ORiAX3yoMd5jp2KtbjAiL75b4d41cYyVXaJqihx28Dg==" length="297035899" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6/ActionBoard-mac-v1.4.6.zip" sparkle:version="1.4.6" sparkle:shortVersionString="1.4.6" sparkle:edSignature="+ufbhe7PXHtJpMfA4Pq7AJ0yYNuLAFfin6DUKZrgv2R+dbPoTd2u00ep/h01LirPlageMpefWk+OrzKCyYVMAw==" length="295238727" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.6/ActionBoard_Setup_v1.4.6.exe" sparkle:version="1.4.6" length="168788134" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="0b56b39fd4b688ba677ba876739a1f1c6b272b514408e7b01f79cb9a3174f6f0" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.5</title>
             <pubDate>Fri, 25 Sep 2026 14:55:24 +0000</pubDate>
             <sparkle:version>1.4.5</sparkle:version>

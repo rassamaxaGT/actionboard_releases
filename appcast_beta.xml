@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.1</title>
+            <pubDate>Tue, 13 Oct 2026 18:16:39 +0000</pubDate>
+            <sparkle:version>1.4.7.1</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.1</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.1</link>
+            <description># 🚀 Обновление ActionBoard v1.4.6-beta.32
+
+### ⚡ [Подсветка и Анимации]
+
+- **Покадровый движок анимаций (Animation Engine)**: Встроено аппаратное воспроизведение сложных световых эффектов на Rust Core (30 FPS) без нагрузки на интерфейс.
+- **Поддержка формата `.abanim`**: Добавлена возможность загрузки и применения пользовательских файлов анимации для каждого слоя.
+- **Интеграция с Маркетплейсом**: Пресеты с динамической анимацией теперь автоматически помечаются бейджем и активируются при установке.
+
+### 🛠 [Оборудование и Прошивка]
+
+- **Прямой протокол VialRGB**: Реализована пакетная передача цветов каждого из 30 диодов WS2812 по протоколу прямого управления (Zero-Latency).
+- **Синхронизация с режимом сна**: Анимация мгновенно приостанавливается при блокировке экрана для сохранения ресурса диодов и экономии энергии.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.1/ActionBoard-mac-v1.4.7-beta.1.dmg" sparkle:version="1.4.7.1" sparkle:shortVersionString="1.4.7-beta.1" sparkle:edSignature="eFhzW0ZWUJ/b/8LRF6WW7c12d4GrZxsjWAGMrQItI0JiRLm2qEGPbnKGjvZlUaga0xayS6ju4pKf2KH2OlLbBg==" length="297094716" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.1/ActionBoard-mac-v1.4.7-beta.1.zip" sparkle:version="1.4.7.1" sparkle:shortVersionString="1.4.7-beta.1" sparkle:edSignature="6xo0xx779S6fYOk98GY1yKGxD+J8ehucLLchsd+0GoO+W+ijVm4z/CoOhJ8ok/jlTnLrn8/usH4Sz3Y+BEeHDw==" length="295328878" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.1/ActionBoard_Setup_v1.4.7-beta.1.exe" sparkle:version="1.4.7-beta.1" length="168834204" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="a2c5524bfa65b79689e9d10155dc2cd56a9b39af75fb3b862e5bc9742e77875d" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.6-beta.31</title>
             <pubDate>Mon, 12 Oct 2026 20:02:08 +0000</pubDate>
             <sparkle:version>1.4.6.31</sparkle:version>

@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.3</title>
+            <pubDate>Wed, 14 Oct 2026 16:50:01 +0000</pubDate>
+            <sparkle:version>1.4.7.3</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.3</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.3</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.3
+
+### ⚡ [Производительность и Стабильность]
+
+- **Устранение сбоев запуска на Windows**: Исправлена критическая системная ошибка в точке входа DLL, вызывавшая зависания или аварийное завершение процесса при старте на отдельных сборках Windows 10/11.
+- **Безопасный режим запуска (`--safe-mode`)**: Добавлена возможность аварийного старта приложения со сбросом поврежденных координат окна и временных настроек экрана.
+
+### 🛠 [Диагностика и Запуск]
+
+- **Автономный загрузчик-доктор (ActionBoard Bootstrapper)**: Внедрен независимый модуль самодиагностики, контролирующий запуск софта и автоматически перехватывающий падения до старта основного интерфейса.
+- **Интеллектуальный анализатор окружения**: Система мгновенно выявляет отсутствие пакетов Microsoft Visual C++ Redistributable или блокировки антивирусом и предлагает решение в один клик.
+- **Гарантированное сохранение отчетов**: При сбое формируется структурированный файл диагностики `boot_failure_diagnostic.json` для оперативной помощи технической поддержки.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.3/ActionBoard-mac-v1.4.7-beta.3.dmg" sparkle:version="1.4.7.3" sparkle:shortVersionString="1.4.7-beta.3" sparkle:edSignature="37Oc0OBvIeKNvUto/zJHE8yQP6UvGCpmMHvFA460T0IzkjGhV+KyIoPOYqCcoZgnBIIxpO2f/aCB1JOyMiFHDw==" length="297210999" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.3/ActionBoard-mac-v1.4.7-beta.3.zip" sparkle:version="1.4.7.3" sparkle:shortVersionString="1.4.7-beta.3" sparkle:edSignature="zwIufZcwJxFMauyvZwp44yKeEMKR9j7f3y3LQcEa/GLV0Qzfgi8p9oB3yZLhLY4V6CN4/JxUbGAcIsKcgVn+Bg==" length="295514954" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.3/ActionBoard_Setup_v1.4.7-beta.3.exe" sparkle:version="1.4.7-beta.3" length="168953526" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="86cffa959b61f990f19b2eeaddc9b4e3991def73f37fb54960407017d0fb3810" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.1</title>
             <pubDate>Tue, 13 Oct 2026 18:16:39 +0000</pubDate>
             <sparkle:version>1.4.7.1</sparkle:version>

@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.4</title>
+            <pubDate>Fri, 16 Oct 2026 20:35:32 +0000</pubDate>
+            <sparkle:version>1.4.7.4</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.4</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.4</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.4
+
+### ⚡ [Производительность и Стабильность]
+
+- **Устранение микрофризов на macOS**: Оптимизирована система отслеживания активных окон, полностью исключающая фоновую нагрузку на процессор и утечки системных потоков при многочасовой работе.
+- **Стабильная работа штатной клавиатуры на Windows**: Исправлена ошибка залипания системных клавиш (Ctrl/Alt/Shift), из-за которой после длительного использования ПК обычная клавиатура могла самопроизвольно вызывать сторонние действия.
+
+### 🛠 [Ввод и Взаимодействие]
+
+- **Корректный двойной клик мыши на macOS**: Ликвидировано залипание служебной клавиши Command после быстрой вставки текстовых сниппетов, из-за которого двойной клик в мессенджерах ошибочно выделял сообщения вместо ответа.
+- **Гарантированная прозрачность скрытого оверлея**: При сворачивании панель оверлея мгновенно переходит в режим сквозных кликов, исключая невидимые блокировки курсора.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.4/ActionBoard-mac-v1.4.7-beta.4.dmg" sparkle:version="1.4.7.4" sparkle:shortVersionString="1.4.7-beta.4" sparkle:edSignature="35uV6qjwzXSS8pLwYcPqqCgVgxEBuC3njVffCe9ATwR5GCx1TTWkUVcHr0F5SKbX3jTjrmpunUwvAu9c5QO5Bw==" length="297257286" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.4/ActionBoard-mac-v1.4.7-beta.4.zip" sparkle:version="1.4.7.4" sparkle:shortVersionString="1.4.7-beta.4" sparkle:edSignature="YLlYGKYYter1vZlEC+5af2X5t1BilrxAeISeg/b8lN5pQp9u8p7iDSWnnFpmay8J+Qru9N4utvN5dRnpAQt+Cg==" length="295561677" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.4/ActionBoard_Setup_v1.4.7-beta.4.exe" sparkle:version="1.4.7-beta.4" length="168940563" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="e5daa9a713c03daa12d26ffeeb0fd891d72b21acab4d6795354f08ab7e125558" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.3</title>
             <pubDate>Wed, 14 Oct 2026 16:50:01 +0000</pubDate>
             <sparkle:version>1.4.7.3</sparkle:version>

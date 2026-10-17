@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.5</title>
+            <pubDate>Sat, 17 Oct 2026 11:40:41 +0000</pubDate>
+            <sparkle:version>1.4.7.5</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.5</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.5</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.5
+
+### 🛠 [Маркетплейс и Подсветка]
+
+- **Загрузка файлов анимаций (.abanim)**: Добавлена возможность прикреплять кастомные файлы покадровой подсветки из ActionBoard Studio напрямую при публикации или обновлении пресета в каталоге.
+- **Интеграция анимаций из слоёв**: При публикации пресета приложение автоматически определяет активную подсветку выбранного слоя и позволяет включить её в один клик.
+- **Индикация LED-анимаций в каталоге**: На карточках и в развернутом предпросмотре пресетов теперь отображаются фиолетовые бейджи и подробная информация о встроенной анимации.
+
+### ⚡ [Стабильность и Синхронизация]
+
+- **Сохранение подсветки при обновлениях**: Исправлено применение версий пресетов в библиотеке — новые анимации подсветки от авторов теперь корректно обновляются в существующих слоях.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.5/ActionBoard-mac-v1.4.7-beta.5.dmg" sparkle:version="1.4.7.5" sparkle:shortVersionString="1.4.7-beta.5" sparkle:edSignature="gcDgAT9wdFQrsQUpHdo3NeKD1tWFueP1IXt4iB/7C73GrT3H55CRCtnLrOLu0EByied4ncyHurpqEir4py6UAg==" length="297384843" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.5/ActionBoard-mac-v1.4.7-beta.5.zip" sparkle:version="1.4.7.5" sparkle:shortVersionString="1.4.7-beta.5" sparkle:edSignature="FkLIp2Zcot5QCMLyfQZgnbwr5jdgGCpHsLDclp92AyF16wYIVvhPzBYJt6X/PzYRdoBbnlrky+hpM+Ho4tpYDQ==" length="295596705" type="application/octet-stream" sparkle:os="macos" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.4</title>
             <pubDate>Fri, 16 Oct 2026 20:35:32 +0000</pubDate>
             <sparkle:version>1.4.7.4</sparkle:version>

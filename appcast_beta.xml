@@ -6,6 +6,20 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.6</title>
+            <pubDate>Sat, 17 Oct 2026 12:40:23 +0000</pubDate>
+            <sparkle:version>1.4.7.6</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.6</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.6</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.6
+
+### ⚡ [Управление Слотами]
+
+- **Создание слота перетаскиванием слоя**: Перетаскивание слоя из библиотеки на таблетку «+» в сайдбаре теперь автоматически создает новый слот в профиле и сразу привязывает перенесенный слой.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.6/ActionBoard-mac-v1.4.7-beta.6.dmg" sparkle:version="1.4.7.6" sparkle:shortVersionString="1.4.7-beta.6" sparkle:edSignature="SyshHiPQLUbsuKGCZNK3bdU8+zoTZN6JVLoaTc2Azf3BluIAr64mBGOaXNKJ4LCrJ4+mv4VMq++gZjlUmtdmBA==" length="297392116" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.6/ActionBoard-mac-v1.4.7-beta.6.zip" sparkle:version="1.4.7.6" sparkle:shortVersionString="1.4.7-beta.6" sparkle:edSignature="B/O4XtjVcJd+cxDmJW8TthWx6e5h6SMDIZJUoEKqm+wv2S9UHYj1yi8ncx6cRyRd6i61IyAgDupQFkScVXy+AA==" length="295601155" type="application/octet-stream" sparkle:os="macos" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.5</title>
             <pubDate>Sat, 17 Oct 2026 11:40:41 +0000</pubDate>
             <sparkle:version>1.4.7.5</sparkle:version>

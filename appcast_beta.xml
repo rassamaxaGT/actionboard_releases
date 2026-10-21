@@ -6,6 +6,24 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.8</title>
+            <pubDate>Wed, 21 Oct 2026 14:45:07 +0000</pubDate>
+            <sparkle:version>1.4.7.8</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.8</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.8</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.8
+
+### ⚡ [Стабильность и Ввод]
+- **Устранено залипание клавиши Windows**: Добавлена гарантированная защита от блокировки системных модификаторов (Win, Ctrl, Alt, Shift) и автоматическое восстановление состояния клавиш Windows при простое.
+
+### 🛠 [Прошивка и Макросы]
+- **Атомарная синхронизация макросов**: Передача макросов на устройство теперь выполняется непрерывно и защищена от обрывов при переключении профилей.
+- **Безопасное исполнение модификаторов**: Одиночные нажатия системных клавиш в макросах переведены на атомарный опкод Tap, исключая застревание клавиш в контроллере.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.8/ActionBoard-mac-v1.4.7-beta.8.dmg" sparkle:version="1.4.7.8" sparkle:shortVersionString="1.4.7-beta.8" sparkle:edSignature="4EsD83UfOfithRK+b9REmlRMEKg4DMb6lvddoOk+K/cV9TUlUlrEZe3jV9jF75ZJ+df/FOu5qecL9KbX8DSyAg==" length="297389277" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.8/ActionBoard-mac-v1.4.7-beta.8.zip" sparkle:version="1.4.7.8" sparkle:shortVersionString="1.4.7-beta.8" sparkle:edSignature="BdT1TaU/UFDMsSCQN0M59ILbm/1nvmorebCH6tA0Ip7Yi6GtBkBSJqktvDPFHUjNyEMhdrH2l3PiVqDYTm+DDg==" length="295599301" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.8/ActionBoard_Setup_v1.4.7-beta.8.exe" sparkle:version="1.4.7-beta.8" length="168962438" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="48e76d2e1625f7de71fcdb4fe7193c5d57a5fbf8efbd06333d883604ec7f0555" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.7</title>
             <pubDate>Sat, 17 Oct 2026 12:52:50 +0000</pubDate>
             <sparkle:version>1.4.7.7</sparkle:version>

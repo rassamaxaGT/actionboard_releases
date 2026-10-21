@@ -6,6 +6,23 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.10</title>
+            <pubDate>Wed, 21 Oct 2026 18:41:07 +0000</pubDate>
+            <sparkle:version>1.4.7.10</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.10</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.10</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.10
+
+### ⚡ [Маркетплейс и Профили]
+
+- **Умный подбор пресетов при создании профиля**: После выбора цвета подсветки приложение автоматически находит в Маркетплейсе готовые раскладки и макросы для добавленных программ.
+- **Установка в один клик**: Выбранный пресет можно сразу привязать к первому слоту нового профиля с сохранением раскладки и подсветки.
+- **Гибкость и удобство**: Если для программы еще нет пресетов в каталоге, этап автоматически пропускается, а при наличии рекомендаций вы всегда можете пропустить шаг и создать чистый профиль.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.10/ActionBoard-mac-v1.4.7-beta.10.dmg" sparkle:version="1.4.7.10" sparkle:shortVersionString="1.4.7-beta.10" sparkle:edSignature="zkjxJQBvpEIdZ+D3RGZWKYRLlqWgiFLtYJr5iB5VO0XYKYKpcDQtHl0+PEWdzoJHEqOvh7rSMHWQIu41nW83CA==" length="297447049" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.10/ActionBoard-mac-v1.4.7-beta.10.zip" sparkle:version="1.4.7.10" sparkle:shortVersionString="1.4.7-beta.10" sparkle:edSignature="uZaO/zAlFas2IuuqHVzrAH9uzaXK91dE/BvIlRwIMbn6nAPxA0xiqPw/L+r0UtABMjvLZHCzC0Ldc1LieuSAAw==" length="295648524" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.10/ActionBoard_Setup_v1.4.7-beta.10.exe" sparkle:version="1.4.7-beta.10" length="168989805" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="6a2cb90b65e96f1255e7d48584b119b096c96942cb48fb3a471086337c4f9a6f" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.9</title>
             <pubDate>Wed, 21 Oct 2026 18:06:11 +0000</pubDate>
             <sparkle:version>1.4.7.9</sparkle:version>

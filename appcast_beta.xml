@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.16</title>
+            <pubDate>Fri, 23 Oct 2026 18:06:12 +0000</pubDate>
+            <sparkle:version>1.4.7.16</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.16</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.16</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.16
+
+### ⚡ [Интерфейс и Контекстные меню]
+
+- **Новый дизайн меню по правому клику**: Все контекстные меню получили современный компактный стиль с эффектом матового стекла (Glassmorphism), мягкими анимациями и акцентным выделением опасных действий.
+- **Идеальное выравнивание**: Исправлено вертикальное центрирование текста и иконок во всех всплывающих меню приложения.
+- **Точные названия действий**: В контекстном меню слота теперь отображается корректный пункт «Удалить слот».
+
+### 🛠 [Профили и Интеграция с macOS]
+
+- **Выбор приложений на macOS**: В системном окне Finder приложения `.app` теперь активны и доступны для прямого добавления в автоматизацию.
+- **Синхронизация цветов**: Изменение цвета профиля мгновенно передается всем связанным слоям, а для слоев с кастомным оттенком доступен быстрый сброс к цвету профиля.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.16/ActionBoard-mac-v1.4.7-beta.16.dmg" sparkle:version="1.4.7.16" sparkle:shortVersionString="1.4.7-beta.16" sparkle:edSignature="da/RocIB/5R+co3lzq5JRGZgkZbyzrN+zrmIR/8PDpAqhMiSkUG9+HiutTYbR51TXkewZC/lRMdi60rec/P3AA==" length="297437495" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.16/ActionBoard-mac-v1.4.7-beta.16.zip" sparkle:version="1.4.7.16" sparkle:shortVersionString="1.4.7-beta.16" sparkle:edSignature="zi91t4fuusYElUSJtganTkIeEQod/9UteDR0YfzSxPQqxV5Hv8lmfZ9PI3GOcLgZOpi0wxR1LZG1nc8hCGHFCA==" length="295683137" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.16/ActionBoard_Setup_v1.4.7-beta.16.exe" sparkle:version="1.4.7-beta.16" length="168998870" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="1ec44fd0665123c127ea6bb256eb1c4a5f8c29ea7f000785e82d7e09f194aee9" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.15</title>
             <pubDate>Wed, 21 Oct 2026 21:09:39 +0000</pubDate>
             <sparkle:version>1.4.7.15</sparkle:version>

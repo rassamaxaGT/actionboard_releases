@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.17</title>
+            <pubDate>Sat, 24 Oct 2026 09:29:08 +0000</pubDate>
+            <sparkle:version>1.4.7.17</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.17</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.17</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.17
+
+### ⚡ [Профили и Автоматизация]
+
+- **Защита от повторного добавления софта**: Теперь невозможно вручную добавить через путь программу, которая уже добавлена в текущий профиль.
+- **Контроль привязки к другим профилям**: При попытке указать путь к программе, закрепленной за другим профилем, приложение уведомит об этом и предотвратит конфликт.
+- **Информативные предупреждения**: В диалоге ручного добавления отображается наглядное сообщение об ошибке, если выбран дубликат программы.
+- **Быстрый фокус на существующей программе**: При возврате к списку уже добавленная программа автоматически подсвечивается на первом месте.
+
+### 🛠 [Стабильность и Платформенная совместимость]
+
+- **Умное распознавание путей**: Улучшено сопоставление исполняемых файлов на macOS и Windows с независимой нормализацией путей и структуры приложений.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.17/ActionBoard-mac-v1.4.7-beta.17.dmg" sparkle:version="1.4.7.17" sparkle:shortVersionString="1.4.7-beta.17" sparkle:edSignature="4mW7NMLyK475j70jGueIGxZ7np2y4cNQS0oizY10y6ZzQATKSmWWcGwt5AISTu7M/kKdi64XCReT5myxRlquCg==" length="297524559" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.17/ActionBoard-mac-v1.4.7-beta.17.zip" sparkle:version="1.4.7.17" sparkle:shortVersionString="1.4.7-beta.17" sparkle:edSignature="YSukcgRD9TMAFiau/725p4Fz2B2xQOlQZh14oHyKE0ltbMv/xkepVGXq1EYWxYAQ8Z2az83Z7VN3glAVldf7Aw==" length="295685104" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.17/ActionBoard_Setup_v1.4.7-beta.17.exe" sparkle:version="1.4.7-beta.17" length="168997086" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="da627bc0908483f17b637dbb6ab40a584f292430bb6377357c901daee2b7af38" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.16</title>
             <pubDate>Fri, 23 Oct 2026 18:06:12 +0000</pubDate>
             <sparkle:version>1.4.7.16</sparkle:version>

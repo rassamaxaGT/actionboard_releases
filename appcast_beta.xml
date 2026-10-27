@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.18</title>
+            <pubDate>Tue, 27 Oct 2026 19:43:46 +0000</pubDate>
+            <sparkle:version>1.4.7.18</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.18</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.18</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.18
+
+### ⚡ [Макросы и Ввод]
+
+- **Полная поддержка Unicode и спецсимволов**: В текстовых шагах макросов теперь корректно сохраняются и воспроизводятся любые типографические символы, включая полупробел (` `), неразрывные пробелы, длинные тире, кавычки-ёлочки и спецзнаки.
+- **Устранено удаление спецпробелов**: Исправлена подкапотная валидация, которая ошибочно считала полупробелы и типографические отступы пустым вводом.
+- **Умное переиспользование ресурсов**: Одинаковые текстовые шаги внутри одного слоя теперь объединяются, экономя слоты динамической вставки.
+
+### 🛠 [Надежность и Оборудование]
+
+- **Защита памяти контроллера**: Предотвращена передача сырых многобайтовых символов в память прошивки, исключая зависания и сбои клавиатуры.
+- **Стабильная вставка на macOS и Windows**: Улучшена буферизация системного моста вставки текста для надежной передачи сложных символов в любые программы.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.18/ActionBoard-mac-v1.4.7-beta.18.dmg" sparkle:version="1.4.7.18" sparkle:shortVersionString="1.4.7-beta.18" sparkle:edSignature="+bIDdvO0ik9XYEtejjynA+BBRpmxsZIzDWRofGCWTxctjr3XuAx7BBqkCVoB3IRPrRlkxpJ2IOey2ucNpWVBDQ==" length="297527624" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.18/ActionBoard-mac-v1.4.7-beta.18.zip" sparkle:version="1.4.7.18" sparkle:shortVersionString="1.4.7-beta.18" sparkle:edSignature="FBsGYUKQhD0ksw+0GZaX/VaN1gdIF/o+H+iGjfhZDWzYfNgk4c2QY4gnKlobBa++q67J9zZ2yMf9bNWxM66vDQ==" length="295685634" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.18/ActionBoard_Setup_v1.4.7-beta.18.exe" sparkle:version="1.4.7-beta.18" length="169001091" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="f4b1fea213d2c1b9790fe84d960169a5addbc61522b99b1196dc34d4327b3a08" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.17</title>
             <pubDate>Sat, 24 Oct 2026 09:29:08 +0000</pubDate>
             <sparkle:version>1.4.7.17</sparkle:version>

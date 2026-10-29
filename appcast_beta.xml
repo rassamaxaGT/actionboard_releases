@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.20</title>
+            <pubDate>Thu, 29 Oct 2026 21:03:42 +0000</pubDate>
+            <sparkle:version>1.4.7.20</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.20</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.20</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.20
+
+### ⚡ [Маркетплейс и Аналитика]
+
+- **Счётчик скачиваний пресетов**: На карточках пресетов, в окне подробного просмотра и в подборках рекомендаций теперь отображается актуальное количество установок, помогающее быстрее находить самые популярные конфигурации.
+- **Мгновенное обновление статистики**: Счётчик установок автоматически обновляется в реальном времени сразу после добавления пресета из Маркетплейса в ваш профиль.
+- **Единый и надёжный импорт**: Улучшена стабильность загрузки и привязки пресетов к приложениям при установке из любого раздела программы.
+
+### 🛠 [Стабильность и Синхронизация]
+
+- **Точный учёт установок**: Добавлена защита от повторного начисления скачиваний при переустановке одного и того же пресета на одном аккаунте или устройстве.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.20/ActionBoard-mac-v1.4.7-beta.20.dmg" sparkle:version="1.4.7.20" sparkle:shortVersionString="1.4.7-beta.20" sparkle:edSignature="6B2yTXt6NqjVQaG3EcsGjmvHIE8NxoEQKfFgw7Dd7GiM+O/v8Fkk/AeLC1BdYq8vcw1XzcnplYqFF5KVFCyJAg==" length="297450207" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.20/ActionBoard-mac-v1.4.7-beta.20.zip" sparkle:version="1.4.7.20" sparkle:shortVersionString="1.4.7-beta.20" sparkle:edSignature="kHXIS7XKZTPixaPgvXLUNXQAgkwv8yhWvTA5tYlB1ePcw73m0mBqXXyyK469GX6q2eTFRHk+2cNRWdfYC+87Dw==" length="295721366" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.20/ActionBoard_Setup_v1.4.7-beta.20.exe" sparkle:version="1.4.7-beta.20" length="169014840" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="fef3b67b0bdcd93a31b93fe5739e833753f8ef3213604415c4fc621547e26b0d" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.19</title>
             <pubDate>Thu, 29 Oct 2026 16:56:20 +0000</pubDate>
             <sparkle:version>1.4.7.19</sparkle:version>

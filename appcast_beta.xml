@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.19</title>
+            <pubDate>Thu, 29 Oct 2026 16:56:20 +0000</pubDate>
+            <sparkle:version>1.4.7.19</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.19</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.19</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.19
+
+### 🛠 [Подсветка и Оборудование]
+
+- **Плавная смена подсветки слоёв**: При переключении между слоями и профилями цвет клавиатуры теперь мягко перетекает за 0,5 секунды по прямому градиенту без резких скачков и промежуточных радужных оттенков.
+- **Гибкое управление в настройках**: В раздел «Основные» добавлен переключатель, позволяющий включать или отключать плавный переход подсветки по вашему желанию.
+- **Мгновенный отклик при настройке цвета**: При ручном выборе оттенка и яркости в редакторе слоя изменения отображаются на клавиатуре без задержек.
+
+### ⚡ [Интерфейс и Стабильность]
+
+- **Исправление визуальных недочётов**: Устранены мелкие визуальные баги интерфейса для более аккуратного и плавного отображения элементов.
+- **Надёжное сохранение параметров подсветки**: Улучшена синхронизация пользовательских настроек подсветки и спящего режима между локальным хранилищем и облаком.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.19/ActionBoard-mac-v1.4.7-beta.19.dmg" sparkle:version="1.4.7.19" sparkle:shortVersionString="1.4.7-beta.19" sparkle:edSignature="b6ptx8d+oaqoM2D/cWYcyuSnNOhURRbRu1BnoiTrb08BrE1YiuNopnlbX2EZCE0SOIX0RZ9uEA4gLBZapQyHBg==" length="297446949" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.19/ActionBoard-mac-v1.4.7-beta.19.zip" sparkle:version="1.4.7.19" sparkle:shortVersionString="1.4.7-beta.19" sparkle:edSignature="6oVxv4VvbtJ0pSHet3Hgj9bP9fVN9J+6FSRkka9dq8+GUYoZYV6orKBvvus8s/OZvYY1T7CsEdyvvZ4dA1EaDg==" length="295714154" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.19/ActionBoard_Setup_v1.4.7-beta.19.exe" sparkle:version="1.4.7-beta.19" length="169011180" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="65fd5c8986a6d8588e69342fc896e6ba10ab8f15eafd513d8b412601e6dcd39d" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.18</title>
             <pubDate>Tue, 27 Oct 2026 19:43:46 +0000</pubDate>
             <sparkle:version>1.4.7.18</sparkle:version>

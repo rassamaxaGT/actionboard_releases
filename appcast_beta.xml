@@ -6,6 +6,31 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.21</title>
+            <pubDate>Fri, 30 Oct 2026 08:20:04 +0000</pubDate>
+            <sparkle:version>1.4.7.21</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.21</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.21</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.21
+
+### 🔒 [Безопасность и Конфиденциальность]
+
+- **Усиленная защита учётных данных**: Из кодовой базы и публичных сборок полностью исключены служебные ключи и конфигурации доступа, что исключает утечку приватных данных.
+
+### ⚡ [Сетевая стабильность и Подключение]
+
+- **Встроенный прямой обход блокировок**: Реализовано прямое защищённое соединение с облачной инфраструктурой, гарантирующее стабильную авторизацию и синхронизацию без необходимости использования сторонних VPN.
+- **Умное переключение зеркал**: При ограничении доступа со стороны интернет-провайдеров приложение автоматически и бесшовно переключается на доступный резервный шлюз.
+- **Надёжная загрузка медиафайлов**: Изображения и превью пресетов в Маркетплейсе теперь стабильно отображаются в любых сетевых условиях.
+
+### 🛠 [Инфраструктура и Стабильность]
+
+- **Изолированное окружение отладки**: Скрипты разработки переведены на защищённый локальный сейф конфигураций без риска непреднамеренной утечки секретов.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.21/ActionBoard-mac-v1.4.7-beta.21.dmg" sparkle:version="1.4.7.21" sparkle:shortVersionString="1.4.7-beta.21" sparkle:edSignature="mc/OgtCfzGmOCU9x1uJ7A7MGUXs7/+Ar538+6lUKD4QCE8rrqnCmkyfKzlnXj93K9RagUaa2EsHv8aqLTj1ODw==" length="297547164" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.21/ActionBoard-mac-v1.4.7-beta.21.zip" sparkle:version="1.4.7.21" sparkle:shortVersionString="1.4.7-beta.21" sparkle:edSignature="z6cpVpHdrl/TVUjcZ3rklVKK/XsWLQcXUXqqcuIJpG30agEO/QXCN/IWAFCpxT0C2gljjft0qGGh5DR3viwRDw==" length="295796630" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.21/ActionBoard_Setup_v1.4.7-beta.21.exe" sparkle:version="1.4.7-beta.21" length="169023895" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="65fdd12c113cc6321227ba676b38e17e1ccb5d32e50af56f1f3a05c528b1c0f1" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.20</title>
             <pubDate>Thu, 29 Oct 2026 21:03:42 +0000</pubDate>
             <sparkle:version>1.4.7.20</sparkle:version>

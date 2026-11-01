@@ -6,6 +6,27 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.7-beta.22</title>
+            <pubDate>Sun, 01 Nov 2026 13:20:04 +0000</pubDate>
+            <sparkle:version>1.4.7.22</sparkle:version>
+            <sparkle:shortVersionString>1.4.7-beta.22</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.7-beta.22</link>
+            <description># 🚀 Обновление ActionBoard v1.4.7-beta.22
+
+### ⚡ [Хаб подсказок и Обучение]
+
+- **Новая логичная структура материалов**: Все 57 обучающих видео и подсказок упорядочены по 7 ключевым разделам («Профиль», «Библиотека», «Карта слоя», «Слои», «Макросы», «Шорткаты», «Экшены»).
+- **Точная навигация по разделам**: Переход по категориям в шапке хаба теперь позиционирует список строго к нужному блоку с учётом верхнего видеоролика.
+- **Интуитивный поиск подсказок**: Настройки слотов и профиля объединены в профильном блоке, а управление библиотекой и горячими клавишами разделено на специализированные темы.
+
+### 🛠 [Интерфейс и Удобство]
+
+- **Плавный скролл и автовыбор вкладок**: Активная вкладка в верхней панели подсказок мгновенно и безошибочно следует за текущей позицией просмотра.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.22/ActionBoard-mac-v1.4.7-beta.22.dmg" sparkle:version="1.4.7.22" sparkle:shortVersionString="1.4.7-beta.22" sparkle:edSignature="rPz4PlcRqomdCXIJo5ehEuccmyTS6InkOHQKABcAaNSOsn7Y/x2NnjrIC0+T1yhd3bCwFirSU9hWHlEc/hYWDA==" length="335432295" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.22/ActionBoard-mac-v1.4.7-beta.22.zip" sparkle:version="1.4.7.22" sparkle:shortVersionString="1.4.7-beta.22" sparkle:edSignature="X46uom/cqRZ4cPC89Cyn9DV4eNBU6AJFx5WiChP3FD7ay6Ap4BXpavwWGAHhywljZqiH5TTMFZvI01kuHts+Bg==" length="333308486" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.7-beta.22/ActionBoard_Setup_v1.4.7-beta.22.exe" sparkle:version="1.4.7-beta.22" length="206693417" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="dabf2c3b6cad9b1abe98ed0f5ecec01adb540fb5dbb9bdb70b022782016a17c5" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.7-beta.21</title>
             <pubDate>Fri, 30 Oct 2026 08:20:04 +0000</pubDate>
             <sparkle:version>1.4.7.21</sparkle:version>

@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.8-beta.2</title>
+            <pubDate>Sun, 08 Nov 2026 21:07:37 +0000</pubDate>
+            <sparkle:version>1.4.8.2</sparkle:version>
+            <sparkle:shortVersionString>1.4.8-beta.2</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.8-beta.2</link>
+            <description># 🚀 Обновление ActionBoard v1.4.8-beta.2
+
+### ⚡ [Стабильность и Ввод]
+
+- **Надежное удержание модификаторов на Windows**: Исправлена проблема самопроизвольного отпускания клавиши Alt и системных модификаторов при их длительном зажатии во время работы с мышью или в играх.
+- **Корректное переключение окон (Alt+Tab)**: Смена активного окна и автопереключение профилей больше не сбрасывают удерживаемые клавиши в операционной системе.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.2/ActionBoard-mac-v1.4.8-beta.2.dmg" sparkle:version="1.4.8.2" sparkle:shortVersionString="1.4.8-beta.2" sparkle:edSignature="BDEg6VQP8dU/2zT8EqbHRk0sQWZVzMwafYUOptrwfgCfvLSlwo5r60/23ZSBt+cjDliYtcQizx3DuZVmwnF4Cw==" length="335503389" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.2/ActionBoard-mac-v1.4.8-beta.2.zip" sparkle:version="1.4.8.2" sparkle:shortVersionString="1.4.8-beta.2" sparkle:edSignature="mQTgSX44lzsliF+3gg6JF7INizwJ5uMoMIJnZCANWkIBnUMXe4wN+nQud3k1ZOGmbU/iBdeEQoQvjme9LMZJCg==" length="333383112" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.2/ActionBoard_Setup_v1.4.8-beta.2.exe" sparkle:version="1.4.8-beta.2" length="206712842" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c7070f55b995e4dc173a35b5f4281cd619442ca056b8841bfdcdb07faf7dc627" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.8-beta.1</title>
             <pubDate>Wed, 04 Nov 2026 17:56:13 +0000</pubDate>
             <sparkle:version>1.4.8.1</sparkle:version>

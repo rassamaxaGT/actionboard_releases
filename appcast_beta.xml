@@ -6,6 +6,22 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.8-beta.4</title>
+            <pubDate>Sat, 14 Nov 2026 13:26:26 +0000</pubDate>
+            <sparkle:version>1.4.8.4</sparkle:version>
+            <sparkle:shortVersionString>1.4.8-beta.4</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.8-beta.4</link>
+            <description># 🚀 Обновление ActionBoard v1.4.8-beta.4
+
+### ⚡ [Обновления macOS]
+
+- **Точный прогресс загрузки**: При установке обновления на macOS теперь отображается реальный процент скачивания, объём загруженных данных (МБ) и плавная полоса прогресса вместо статичных статусов.
+- **Индикатор распаковки**: После завершения загрузки интерфейс наглядно показывает этап распаковки пакета перед автоматическим перезапуском приложения.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.4/ActionBoard-mac-v1.4.8-beta.4.dmg" sparkle:version="1.4.8.4" sparkle:shortVersionString="1.4.8-beta.4" sparkle:edSignature="jqqdBZCZvcYO/PMxp1T48gKkBDN1TLyDsX7Da49xdC+AEAHBMBFjR1kpoaj8UL34mfSCgbaSG5BaiBncZgueAQ==" length="327285462" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.4/ActionBoard-mac-v1.4.8-beta.4.zip" sparkle:version="1.4.8.4" sparkle:shortVersionString="1.4.8-beta.4" sparkle:edSignature="5S49Nv/2/Bzo9hNepj9N3tQu5fX2qfmcKcQ0IYrEGjBRDRDx/r1hhIwI29T+eMMwIfVsbpG+nDsalBrsDV1fBA==" length="325283016" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.4/ActionBoard_Setup_v1.4.8-beta.4.exe" sparkle:version="1.4.8-beta.4" length="198394344" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="1f67140f674c4efa1693ee690f1f90d65b27967f80db4fe837189e149f5900b2" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.8-beta.3</title>
             <pubDate>Sat, 14 Nov 2026 12:55:48 +0000</pubDate>
             <sparkle:version>1.4.8.3</sparkle:version>

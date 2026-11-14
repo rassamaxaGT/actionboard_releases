@@ -6,6 +6,32 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.8-beta.3</title>
+            <pubDate>Sat, 14 Nov 2026 12:55:48 +0000</pubDate>
+            <sparkle:version>1.4.8.3</sparkle:version>
+            <sparkle:shortVersionString>1.4.8-beta.3</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.8-beta.3</link>
+            <description># 🚀 Обновление ActionBoard v1.4.8-beta.3
+
+### 🔒 [Защита пресетов]
+
+- **Защита пресетов из маркетплейса**: Слои, назначения клавиш, макросы и шорткаты в загруженных пресетах теперь защищены от случайных изменений. Для редактирования используйте кнопку **«Дублировать»** — в созданной копии доступны любые настройки.
+
+### ⚡ [Интерфейс и Удобство работы]
+
+- **Диалог конфликта назначений**: При добавлении действия из библиотеки на уже занятую клавишу теперь появляется окно подтверждения, чтобы избежать случайной перезаписи.
+- **Наглядная подсказка при сбросе**: В окне предупреждения «Все действия сбросятся» добавлена наглядная анимация.
+- **Корректное выделение при копировании**: После дублирования макроса в интерфейсе сразу отображается и выделяется именно новая копия.
+
+### 🛠 [Макросы и Исправления]
+
+- **Одинаковые задержки по умолчанию**: При создании нового макроса режим фиксированных задержек теперь включён автоматически.
+- **Сохранение пробелов в текстовых шагах**: Исправлена ошибка, при которой удалялся пробел в середине текста внутри шага макроса.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.3/ActionBoard-mac-v1.4.8-beta.3.dmg" sparkle:version="1.4.8.3" sparkle:shortVersionString="1.4.8-beta.3" sparkle:edSignature="/2D4FM6A14qxJJc9Nwu50Tz2tkWXJaMw03g17wHUvHXTewvcPRxi+pvL2j6yRxNXA5wloNLFMLmuw7SNDXtWDg==" length="327264912" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.3/ActionBoard-mac-v1.4.8-beta.3.zip" sparkle:version="1.4.8.3" sparkle:shortVersionString="1.4.8-beta.3" sparkle:edSignature="U9JIn+BodVZfzF8wXRSmvkxQZGdBtA0w6/LTF1oKSbqpgFQQCAUWJByFgP2MDtINQuljfHp/1zx8LqY/xWvICQ==" length="325266771" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.3/ActionBoard_Setup_v1.4.8-beta.3.exe" sparkle:version="1.4.8-beta.3" length="198392918" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="c73c8ce8a3de60e1d50240fd37363dcaf0766dbe89dcd1bf24595c804cfdbbb3" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.8-beta.2</title>
             <pubDate>Sun, 08 Nov 2026 21:07:37 +0000</pubDate>
             <sparkle:version>1.4.8.2</sparkle:version>

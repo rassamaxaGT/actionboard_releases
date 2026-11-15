@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.4.8-beta.5</title>
+            <pubDate>Sun, 15 Nov 2026 19:55:30 +0000</pubDate>
+            <sparkle:version>1.4.8.5</sparkle:version>
+            <sparkle:shortVersionString>1.4.8-beta.5</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.4.8-beta.5</link>
+            <description># 🚀 Обновление ActionBoard v1.4.8-beta.5
+
+### 🛠 [Подсветка и Анимации]
+
+- **Поканальная настройка анимаций**: В нижней панели появилось окно «Детали» для раздельной настройки цвета и скорости анимации фона, смены слоя, нажатий клавиш и Action Button (20%–200%) с живым тестом на устройстве.
+- **Быстрый цвет триггеров**: Добавлен отдельный переключатель цвета для триггерных эффектов, не затрагивающий цвет фона и базовый оттенок слоя.
+- **Плавное обновление параметров**: Изменение скорости или оттенка анимации теперь применяется «на лету» без перезапуска и сброса текущей фазы подсветки.
+
+### ⚡ [Маркетплейс и Стабильность]
+
+- **Исправлена публикация пресетов с анимациями**: Устранено избыточное дублирование данных подсветки при сборке пресета, что уменьшило размер пакета.
+- **Корректный импорт многослойных паков**: Общие анимации пресетов теперь надёжно применяются ко всем импортированным слоям при установке и обновлении из Маркета.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.5/ActionBoard-mac-v1.4.8-beta.5.dmg" sparkle:version="1.4.8.5" sparkle:shortVersionString="1.4.8-beta.5" sparkle:edSignature="tUBz+SaHRkT2rPdIPzNhebM1LxY2wfgDCfYNzBhL8lnbd4olzAjcivjOdUYBh54x3iKy64JpJyCcfZoC2ZMvBg==" length="327254816" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.5/ActionBoard-mac-v1.4.8-beta.5.zip" sparkle:version="1.4.8.5" sparkle:shortVersionString="1.4.8-beta.5" sparkle:edSignature="FpZToES9aOIzQtP3qKvu5uNNE14ohikgneCXaLcpleAERQIKd/1H8wOR34/YPub9j0XIBcHit4SnsWt9C0oZDA==" length="325320260" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.4.8-beta.5/ActionBoard_Setup_v1.4.8-beta.5.exe" sparkle:version="1.4.8-beta.5" length="198399700" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="719555f0fac1a6a0ba263fde5c7baba6333e8de25fc2f1ff68720fd73e3937af" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.8-beta.4</title>
             <pubDate>Sat, 14 Nov 2026 13:26:26 +0000</pubDate>
             <sparkle:version>1.4.8.4</sparkle:version>

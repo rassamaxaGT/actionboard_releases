@@ -6,6 +6,28 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.5.0-beta.1</title>
+            <pubDate>Mon, 16 Nov 2026 14:18:51 +0000</pubDate>
+            <sparkle:version>1.5.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.5.0-beta.1</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.5.0-beta.1</link>
+            <description># 🚀 Обновление ActionBoard v1.5.0-beta.1
+
+### 🛠 [Аналитика нажатий (Keystroke Insights)]
+
+- **Поиск частых действий и макросов**: ActionBoard теперь умеет находить ваши повторяющиеся шорткаты, текстовые фрагменты и цепочки действий с разбивкой по приложениям и добавлять их в библиотеку в один клик.
+- **Обновлённый интерфейс и фильтры**: Результаты оформлены в стиле библиотеки макросов со сворачиваемыми группами, компактными чипами и выбором периода «За всё время».
+- **Умная очистка от шума**: Алгоритм отсеивает зажатия клавиш и лишнюю навигацию, оставляя только действительно полезные сценарии.
+
+### 🔒 [Конфиденциальность и Управление]
+
+- **Полностью локальное хранение**: Вся статистика шифруется на устройстве и никогда не отправляется в сеть; функция отключена по умолчанию и запоминает ваш выбор между запусками.
+- **Быстрый переключатель**: Включить или полностью отключить сбор аналитики можно как в основных настройках, так и на вкладке «Аналитика».</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.1/ActionBoard-mac-v1.5.0-beta.1.dmg" sparkle:version="1.5.0.1" sparkle:shortVersionString="1.5.0-beta.1" sparkle:edSignature="sDlLVJYIXrJR+5E3mY+2gyhY0NKmEkqdYaTigF0ufQ1ujZ7XU2T398UEO9xFdWInrYFe/vMxrpwmg6z45UXSDA==" length="328867649" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.1/ActionBoard-mac-v1.5.0-beta.1.zip" sparkle:version="1.5.0.1" sparkle:shortVersionString="1.5.0-beta.1" sparkle:edSignature="tHxRdDno6otBVSTGyu2aPLJ1LM8kePcGJj+iA8IbfunfypmGtv07w5+R2GG+ICsMbNCzOzfZ0rUhioXOtjm0Bw==" length="326925877" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.1/ActionBoard_Setup_v1.5.0-beta.1.exe" sparkle:version="1.5.0-beta.1" length="198763422" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="5f46baba6d2de7a76442716df7ba0de599232232aa735abeca3f1543dfe94671" />
+        </item>
+        <item>
             <title>ActionBoard 1.4.8-beta.5</title>
             <pubDate>Sun, 15 Nov 2026 19:55:30 +0000</pubDate>
             <sparkle:version>1.4.8.5</sparkle:version>

@@ -6,6 +6,21 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.5.0-beta.3</title>
+            <pubDate>Mon, 16 Nov 2026 15:48:07 +0000</pubDate>
+            <sparkle:version>1.5.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.5.0-beta.3</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.5.0-beta.3</link>
+            <description># 🚀 Обновление ActionBoard v1.5.0-beta.3
+
+### ⚡ [Обновления и Удобство]
+
+- **Отмена загрузки обновления**: В окне и вкладке обновлений на macOS появилась кнопка «Отмена» во время скачивания — теперь можно в любой момент прервать загрузку, например, чтобы сменить интернет-подключение, и повторить её позже.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.3/ActionBoard-mac-v1.5.0-beta.3.dmg" sparkle:version="1.5.0.3" sparkle:shortVersionString="1.5.0-beta.3" sparkle:edSignature="5cgy+6cwjjeyhoGHJLyC0v92Mk+4qdCyIPz+TBjgW4XqbzI5FFPfKIfunGFfHLS1Y2G2BwQy8wRbMJWoIQiSDQ==" length="328889543" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.3/ActionBoard-mac-v1.5.0-beta.3.zip" sparkle:version="1.5.0.3" sparkle:shortVersionString="1.5.0-beta.3" sparkle:edSignature="nGT0RxRTmTz06fU8A2vOrGwqRptZPwVq+IMlBgesECoctCVzeOJZDasQ4fOhp1Vq9d/5PABPhDKqSJ2TZclQBw==" length="326939760" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.3/ActionBoard_Setup_v1.5.0-beta.3.exe" sparkle:version="1.5.0-beta.3" length="198773813" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="fd2019e5db5fc71dcaf3213b435e049a7938373671c1d084b6541a9e5dac544e" />
+        </item>
+        <item>
             <title>ActionBoard 1.5.0-beta.2</title>
             <pubDate>Mon, 16 Nov 2026 15:26:22 +0000</pubDate>
             <sparkle:version>1.5.0.2</sparkle:version>

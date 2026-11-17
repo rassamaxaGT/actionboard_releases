@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.5.0-beta.4</title>
+            <pubDate>Tue, 17 Nov 2026 21:26:12 +0000</pubDate>
+            <sparkle:version>1.5.0.4</sparkle:version>
+            <sparkle:shortVersionString>1.5.0-beta.4</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.5.0-beta.4</link>
+            <description># 🚀 Обновление ActionBoard v1.5.0-beta.4
+
+### ⚡ [Стабильность и Исправления для Windows]
+
+- **Оверлеи слоёв и подсказок**: Восстановлено открытие оверлея слоёв и окна подсказок по нажатию Action Button на Windows.
+- **Текстовые сниппеты**: Исправлено распознавание триггеров быстрых текстовых вставок на Windows.
+
+### 🛠 [Интерфейс]
+
+- **Редактор кроссплатформенных слоёв**: Устранено смещение и переполнение нижней панели с настройками задержек и кнопками управления в окне студии пресетов.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.4/ActionBoard-mac-v1.5.0-beta.4.dmg" sparkle:version="1.5.0.4" sparkle:shortVersionString="1.5.0-beta.4" sparkle:edSignature="h/PS37wf0IneEyI/VYfpFMY1TE9WaD5C8S1ljXLcbDzvvgTAhZ2nJcQ/upDv49tGesrOYbUIiETvr8YtQV0lAg==" length="328867298" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.4/ActionBoard-mac-v1.5.0-beta.4.zip" sparkle:version="1.5.0.4" sparkle:shortVersionString="1.5.0-beta.4" sparkle:edSignature="2sCAkNPYTM7OOeDrWqDijMlJD0bVLZ+B2kxCn0qjEYmQZ4NPrq/PevimNA/TaznGfUBVJ44WqUcEnEJcOb9hCw==" length="326921261" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.4/ActionBoard_Setup_v1.5.0-beta.4.exe" sparkle:version="1.5.0-beta.4" length="198769301" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="4c3b22c40fc45d5023a3193c321eecd58dedd018311b5226bfeef7b2ecaddb76" />
+        </item>
+        <item>
             <title>ActionBoard 1.5.0-beta.3</title>
             <pubDate>Mon, 16 Nov 2026 15:48:07 +0000</pubDate>
             <sparkle:version>1.5.0.3</sparkle:version>

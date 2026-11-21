@@ -6,6 +6,26 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.5.0-beta.6</title>
+            <pubDate>Sat, 21 Nov 2026 05:55:00 +0000</pubDate>
+            <sparkle:version>1.5.0.6</sparkle:version>
+            <sparkle:shortVersionString>1.5.0-beta.6</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.5.0-beta.6</link>
+            <description># 🚀 Обновление ActionBoard v1.5.0-beta.6
+
+### 🛠 Оборудование и Интерфейс
+- **Мгновенная синхронизация макросов**: исправлена ошибка, из-за которой изменения макросов на кнопках применялись в клавиатуре только после переключения на другой слой и обратно. Теперь правки отправляются в устройство сразу.
+- **Динамический курсор на макете**: при наведении на назначенные клавиши и энкодеры отображается курсор перетаскивания, а при захвате и переносе — курсор удержания.
+
+### ⚡ Стабильность и Диагностика
+- **Полный сбор логов при ручной отправке**: теперь при отправке диагностики вручную к отчёту автоматически прикрепляются хронологически упорядоченные журналы приложения, системного ядра, оверлея, сетевой диагностики и дампы ранних сбоев.
+- **Данные устройства в ручных отчётах**: исправлена передача идентификатора и статуса подключения клавиатуры вместе с контекстом активного профиля и раскладки.
+- **Точный статус отправки**: приложение корректно уведомляет о фактическом результате загрузки диагностического отчёта и сохраняет его в оффлайн-очередь при отсутствии сети.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.6/ActionBoard-mac-v1.5.0-beta.6.dmg" sparkle:version="1.5.0.6" sparkle:shortVersionString="1.5.0-beta.6" sparkle:edSignature="wUOMbSNrEEWPUVCBelodVcZhDsVfz0sAt90H+Kogi6EMRswu1JQ3aYfCI5I60u5Bu1gdMzjNN+JShRU7bHKwDQ==" length="329163074" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.6/ActionBoard-mac-v1.5.0-beta.6.zip" sparkle:version="1.5.0.6" sparkle:shortVersionString="1.5.0-beta.6" sparkle:edSignature="SukYrcL4ZovLi2fEgtR/4HNjxQpMBRERKoz6hiKLG6n13hYTXlLp7g+1E+PxHWZccfpoj+WCLrvIdYdlU6YRDQ==" length="327176452" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.6/ActionBoard_Setup_v1.5.0-beta.6.exe" sparkle:version="1.5.0-beta.6" length="198850803" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="044f1cd77ef0ce841881f422397c344d684f2dd4da1a635a7fceb00de41831de" />
+        </item>
+        <item>
             <title>ActionBoard 1.5.0-beta.5</title>
             <pubDate>Sat, 21 Nov 2026 04:54:32 +0000</pubDate>
             <sparkle:version>1.5.0.5</sparkle:version>

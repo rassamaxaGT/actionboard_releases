@@ -6,6 +6,24 @@
         <description>ActionBoard update feed</description>
         <language>en</language>
         <item>
+            <title>ActionBoard 1.5.0-beta.7</title>
+            <pubDate>Mon, 23 Nov 2026 19:45:38 +0000</pubDate>
+            <sparkle:version>1.5.0.7</sparkle:version>
+            <sparkle:shortVersionString>1.5.0-beta.7</sparkle:shortVersionString>
+            <link>https://github.com/rassamaxaGT/actionboard_releases/releases/tag/v1.5.0-beta.7</link>
+            <description># 🚀 Обновление ActionBoard v1.5.0-beta.7
+
+### ⚡ Стабильность и синхронизация
+- **Мгновенное применение макросов на клавиатуре:** изменения макроса на мокапе активного слоя теперь автоматически перезаливаются в устройство — больше не нужно переключаться на другой слой и возвращаться обратно.
+- **Создание нового профиля из маркетплейса:** исправлен сценарий добавления пресета через пункт «Создать новый профиль» — профиль теперь корректно создаётся, а выбранный слой сразу привязывается к нему.
+
+### 🛠 Работа с пресетами
+- **Создание макросов из шорткатов пресета:** для шорткатов в скачанных из маркетплейса пресетах стала доступна кнопка «Создать макрос из шортката». Она сохраняет готовый к редактированию макрос в вашу библиотеку, не изменяя сам пресет.</description>
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.7/ActionBoard-mac-v1.5.0-beta.7.dmg" sparkle:version="1.5.0.7" sparkle:shortVersionString="1.5.0-beta.7" sparkle:edSignature="BImlooOp3ff3jUNTCxr5aokHY7/fVA7TzIHZxHEPW71zWZFpQcLF4bggr9NJ9omi94kW/V6tvLt0XzwK4p7xCQ==" length="329144858" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.7/ActionBoard-mac-v1.5.0-beta.7.zip" sparkle:version="1.5.0.7" sparkle:shortVersionString="1.5.0-beta.7" sparkle:edSignature="T7o7mYIGmS89vHaze7/pHg3gxaaPHYKO+Yc3wbTHgf8DtCBXgzPD2MQMzOVS71gEI/v74ykIJ58n8xlvxIrEAw==" length="327177273" type="application/octet-stream" sparkle:os="macos" />
+            <enclosure url="https://github.com/rassamaxaGT/actionboard_releases/releases/download/v1.5.0-beta.7/ActionBoard_Setup_v1.5.0-beta.7.exe" sparkle:version="1.5.0-beta.7" length="198852935" type="application/octet-stream" sparkle:os="windows" sparkle:sha256="362895bc5bc19ea2ec5838e5c0e26ef45786d66f7c629fcba18815d0a08eaee4" />
+        </item>
+        <item>
             <title>ActionBoard 1.5.0-beta.6</title>
             <pubDate>Sat, 21 Nov 2026 05:55:00 +0000</pubDate>
             <sparkle:version>1.5.0.6</sparkle:version>
